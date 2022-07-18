@@ -1,0 +1,1117 @@
+,lng,lat,date,customdate,time,crime,barangay,city,modus,placetype,land area sq km,"Poverty,poverty incidence by employed","Poverty,poverty incidence by household","Poverty,poverty incidence by population","Poverty,poverty incidence by unemployed"
+0,125.80799999999999,7.44808,30/07/2017,"Sun - Jul 30, 2017",16:11:00,Vehicular Traffic Accident,Magugpo Poblacion,Tagum City,Not Indicated,urban,2.43,225,125,714,13
+1,125.803,7.44675,30/07/2017,"Sun - Jul 30, 2017",0:20:00,MURDER,Magugpo Poblacion,Tagum City,Stabbing/Hacking,urban,2.43,225,125,714,13
+2,125.803,7.44897,30/07/2017,"Sun - Jul 30, 2017",0:20:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Stabbing/Hacking,urban,2.43,225,125,714,13
+3,125.818,7.45982,30/07/2017,"Sun - Jul 30, 2017",20:50:00,MURDER,Magugpo North,Tagum City,Shooting,urban,7.19,665,370,2109,37
+4,125.818,7.460160000000001,30/07/2017,"Sun - Jul 30, 2017",20:50:00,PHYSICAL INJURIES,Magugpo North,Tagum City,Shooting,urban,7.19,665,370,2109,37
+5,125.665,7.30998,31/07/2017,"Mon - Jul 31, 2017",12:40:00,Drug Related Incident (RA 9165),New Visayas,Panabo City,Not Indicated,urban,22.54,1139,654,3725,64
+6,125.708,7.099530000000001,31/07/2017,"Mon - Jul 31, 2017",15:00:00,THEFT,Mambago-A,Samal City,Salisi (Cellphone),rural,5.24,126,79,416,7
+7,125.804,7.44707,31/07/2017,"Mon - Jul 31, 2017",12:45:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+8,125.801,7.4462399999999995,31/07/2017,"Mon - Jul 31, 2017",16:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo South,Tagum City,Swpu (Stolen While Parked),urban,8.33,770,429,2444,43
+9,125.8,7.431539999999999,01/08/2017,"Tue - Aug 1, 2017",0:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+10,125.675,7.297810000000001,01/08/2017,"Tue - Aug 1, 2017",0:35:00,Drug Related Incident (RA 9165),Gredu (Pob.),Panabo City,Not Indicated,urban,22.51,1137,653,3720,64
+11,125.779,7.3913199999999994,01/08/2017,"Tue - Aug 1, 2017",17:18:00,MURDER,San Isidro,Tagum City,Shooting,rural,3.69,341,190,1082,19
+12,125.804,7.444839999999999,01/08/2017,"Tue - Aug 1, 2017",22:30:00,PHYSICAL INJURIES,Magugpo South,Tagum City,Mauling,urban,8.33,770,429,2444,43
+13,125.802,7.445010000000001,01/08/2017,"Tue - Aug 1, 2017",16:45:00,THEFT,Magugpo South,Tagum City,Salisi,urban,8.33,770,429,2444,43
+14,125.806,7.446219999999999,01/08/2017,"Tue - Aug 1, 2017",9:40:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,225,125,714,13
+15,125.68,7.28751,02/08/2017,"Wed - Aug 2, 2017",11:30:00,Drug Related Incident (RA 9165),Cagangohan,Panabo City,Not Indicated,urban,18.74,947,544,3098,53
+16,125.671,7.2965100000000005,02/08/2017,"Wed - Aug 2, 2017",15:35:00,Drug Related Incident (RA 9165),Gredu (Pob.),Panabo City,Not Indicated,urban,22.51,1137,653,3720,64
+17,125.82799999999999,7.4228,02/08/2017,"Wed - Aug 2, 2017",16:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+18,125.803,7.46735,02/08/2017,"Wed - Aug 2, 2017",20:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,La Filipina,Tagum City,Swpu (Stolen While Parked),urban,11.84,1095,609,3473,61
+19,125.765,7.44395,03/08/2017,"Thu - Aug 3, 2017",2:30:00,RAPE (Art. 266-A RC & R.A.8353),San Miguel (Camp 4),Tagum City,Not Indicated,urban,13.32,1232,686,3908,69
+20,125.685,7.31493,03/08/2017,"Thu - Aug 3, 2017",21:40:00,MURDER,San Francisco (Pob.),Panabo City,Shooting,urban,17.46,882,506,2885,49
+21,125.802,7.4595199999999995,03/08/2017,"Thu - Aug 3, 2017",4:45:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+22,125.773,7.46944,05/08/2017,"Sat - Aug 5, 2017",0:30:00,RAPE (Art. 266-A RC & R.A.8353),Mankilam,Tagum City,Not Indicated,urban,29.97,2771,1543,8792,155
+23,125.81200000000001,7.39756,05/08/2017,"Sat - Aug 5, 2017",16:30:00,THEFT,La Filipina,Tagum City,Salisi,urban,11.84,1095,609,3473,61
+24,125.809,7.381130000000001,06/08/2017,"Sun - Aug 6, 2017",21:48:00,MURDER,Madaum,Tagum City,Shooting,urban,8.25,763,425,2419,43
+25,125.639,7.28525,07/08/2017,"Mon - Aug 7, 2017",10:30:00,THEFT,Kiotoy,Panabo City,Salisi (Others),rural,2.04,103,59,337,6
+26,125.79700000000001,7.44712,07/08/2017,"Mon - Aug 7, 2017",11:15:00,ROBBERY,Magugpo South,Tagum City,Breaking and Entering,urban,8.33,770,429,2444,43
+27,125.804,7.443510000000001,07/08/2017,"Mon - Aug 7, 2017",20:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+28,125.774,7.4669,08/08/2017,"Tue - Aug 8, 2017",0:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,2771,1543,8792,155
+29,125.836,7.416689999999999,08/08/2017,"Tue - Aug 8, 2017",17:05:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+30,125.681,7.29955,08/08/2017,"Tue - Aug 8, 2017",17:00:00,PHYSICAL INJURIES,New Pandan (Pob.),Panabo City,Stoning,urban,9.03,456,262,1492,26
+31,125.772,7.46475,09/08/2017,"Wed - Aug 9, 2017",3:54:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,2771,1543,8792,155
+32,125.779,7.3899,09/08/2017,"Wed - Aug 9, 2017",3:00:00,RAPE (Art. 266-A RC & R.A.8353),San Isidro,Tagum City,Not Indicated,rural,3.69,341,190,1082,19
+33,125.615,7.336760000000001,09/08/2017,"Wed - Aug 9, 2017",8:00:00,MURDER,New Malitbog,Panabo City,Shooting,rural,4.46,225,129,737,13
+34,125.8,7.47628,09/08/2017,"Wed - Aug 9, 2017",4:00:00,ROBBERY,La Filipina,Tagum City,Hold-Up W/ Sharp Object,urban,11.84,1095,609,3473,61
+35,125.61399999999999,7.33484,09/08/2017,"Wed - Aug 9, 2017",13:45:00,PHYSICAL INJURIES,New Malitbog,Panabo City,Mauling,rural,4.46,225,129,737,13
+36,125.822,7.43005,09/08/2017,"Wed - Aug 9, 2017",3:30:00,ROBBERY,Apokon,Tagum City,Hold-Up W/ Sharp Object,urban,22.88,2115,1178,6712,119
+37,125.805,7.45005,09/08/2017,"Wed - Aug 9, 2017",8:20:00,Drug Related Incident (RA 9165),Magugpo Poblacion,Tagum City,Not Indicated,urban,2.43,225,125,714,13
+38,125.667,7.273689999999999,11/08/2017,"Fri - Aug 11, 2017",14:50:00,Drug Related Incident (RA 9165),J.P. Laurel,Panabo City,Not Indicated,urban,8.93,451,259,1475,25
+39,125.73200000000001,7.08264,12/08/2017,"Sat - Aug 12, 2017",21:11:00,Drug Related Incident (RA 9165),Licup,Samal City,Not Indicated,rural,2.54,61,38,202,3
+40,125.70700000000001,7.292489999999999,12/08/2017,"Sat - Aug 12, 2017",21:10:00,THEFT,San Pedro,Panabo City,Salisi,urban,5.7,288,165,943,16
+41,125.77600000000001,7.462219999999999,12/08/2017,"Sat - Aug 12, 2017",6:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,2771,1543,8792,155
+42,125.81200000000001,7.44233,12/08/2017,"Sat - Aug 12, 2017",6:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+43,125.804,7.4577800000000005,13/08/2017,"Sun - Aug 13, 2017",7:30:00,ROBBERY,Magugpo West,Tagum City,Crowbar/Destroying Lock,urban,10.74,993,553,3151,56
+44,125.818,7.452139999999999,13/08/2017,"Sun - Aug 13, 2017",11:30:00,PHYSICAL INJURIES,Magugpo East,Tagum City,Hacking,urban,11.1,1026,571,3256,57
+45,125.686,7.3062,13/08/2017,"Sun - Aug 13, 2017",17:50:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,298,171,974,17
+46,125.67,7.283189999999999,13/08/2017,"Sun - Aug 13, 2017",21:30:00,Drug Related Incident (RA 9165),J.P. Laurel,Panabo City,Not Indicated,urban,8.93,451,259,1475,25
+47,125.803,7.45005,13/08/2017,"Sun - Aug 13, 2017",22:30:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Mauling,urban,2.43,225,125,714,13
+48,125.773,7.44435,13/08/2017,"Sun - Aug 13, 2017",19:00:00,PHYSICAL INJURIES,San Miguel (Camp 4),Tagum City,Stabbing/Hacking,urban,13.32,1232,686,3908,69
+49,125.79700000000001,7.452369999999999,13/08/2017,"Sun - Aug 13, 2017",23:00:00,ROBBERY,Magugpo East,Tagum City,Hold-Up W/ Sharp Object,urban,11.1,1026,571,3256,57
+50,125.73299999999999,7.08245,14/08/2017,"Mon - Aug 14, 2017",10:00:00,MURDER,Licup,Samal City,Shooting,rural,2.54,61,38,202,3
+51,125.588,7.3086199999999995,14/08/2017,"Mon - Aug 14, 2017",12:00:00,THEFT,Kauswagan,Panabo City,Salisi,rural,1.93,98,56,319,5
+52,125.771,6.9161600000000005,14/08/2017,"Mon - Aug 14, 2017",6:00:00,THEFT,San Remigio,Samal City,Salisi (Establishment),rural,6.25,151,94,497,8
+53,125.805,7.44384,15/08/2017,"Tue - Aug 15, 2017",0:30:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Mauling,urban,2.43,225,125,714,13
+54,125.77600000000001,7.46214,15/08/2017,"Tue - Aug 15, 2017",12:30:00,Drug Related Incident (RA 9165),Mankilam,Tagum City,Not Indicated,urban,29.97,2771,1543,8792,155
+55,125.80799999999999,7.43543,15/08/2017,"Tue - Aug 15, 2017",16:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,2866,1596,9093,161
+56,125.67200000000001,7.328310000000001,15/08/2017,"Tue - Aug 15, 2017",16:30:00,Drug Related Incident (RA 9165),Quezon,Panabo City,Not Indicated,rural,6.33,320,183,1045,18
+57,125.671,7.3282,15/08/2017,"Tue - Aug 15, 2017",16:30:00,Drug Related Incident (RA 9165),Quezon,Panabo City,Not Indicated,rural,6.33,320,183,1045,18
+58,125.773,7.46656,15/08/2017,"Tue - Aug 15, 2017",20:00:00,RAPE (Art. 266-A RC & R.A.8353),Mankilam,Tagum City,Not Indicated,urban,29.97,2771,1543,8792,155
+59,125.806,7.43307,16/08/2017,"Wed - Aug 16, 2017",2:38:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+60,125.79899999999999,7.46041,16/08/2017,"Wed - Aug 16, 2017",14:00:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,993,553,3151,56
+61,125.818,7.4508,16/08/2017,"Wed - Aug 16, 2017",18:40:00,Drug Related Incident (RA 9165),Magugpo East,Tagum City,Not Indicated,urban,11.1,1026,571,3256,57
+62,125.811,7.4352100000000005,16/08/2017,"Wed - Aug 16, 2017",19:30:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,2866,1596,9093,161
+63,125.68299999999999,7.30041,16/08/2017,"Wed - Aug 16, 2017",4:30:00,THEFT,New Pandan (Pob.),Panabo City,Salisi (Establishment),urban,9.03,456,262,1492,26
+64,125.803,7.4313899999999995,17/08/2017,"Thu - Aug 17, 2017",18:34:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Mauling,urban,31.0,2866,1596,9093,161
+65,125.79899999999999,7.46108,17/08/2017,"Thu - Aug 17, 2017",13:00:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,993,553,3151,56
+66,125.805,7.447430000000001,17/08/2017,"Thu - Aug 17, 2017",7:00:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,225,125,714,13
+67,125.818,7.43929,18/08/2017,"Fri - Aug 18, 2017",17:30:00,PHYSICAL INJURIES,Apokon,Tagum City,Mauling,urban,22.88,2115,1178,6712,119
+68,125.824,7.4938199999999995,19/08/2017,"Sat - Aug 19, 2017",17:25:00,PHYSICAL INJURIES,Cuambogan,Tagum City,Shooting,urban,8.16,755,420,2395,42
+69,125.736,7.040030000000001,19/08/2017,"Sat - Aug 19, 2017",22:00:00,PHYSICAL INJURIES,Del Monte,Samal City,Hacking,rural,5.47,132,82,435,7
+70,125.677,7.29904,19/08/2017,"Sat - Aug 19, 2017",21:10:00,Drug Related Incident (RA 9165),Gredu (Pob.),Panabo City,Not Indicated,urban,22.51,1137,653,3720,64
+71,125.758,7.06882,19/08/2017,"Sat - Aug 19, 2017",8:00:00,RAPE (Art. 266-A RC & R.A.8353),Guilon,Samal City,"Force, Threat and Intimidation",rural,4.44,107,67,353,6
+72,125.8,7.458819999999999,20/08/2017,"Sun - Aug 20, 2017",2:30:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Shooting,urban,10.74,993,553,3151,56
+73,125.801,7.43337,20/08/2017,"Sun - Aug 20, 2017",7:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,2866,1596,9093,161
+74,125.78299999999999,7.45982,20/08/2017,"Sun - Aug 20, 2017",15:20:00,Drug Related Incident (RA 9165),Mankilam,Tagum City,Not Indicated,urban,29.97,2771,1543,8792,155
+75,125.804,7.44448,20/08/2017,"Sun - Aug 20, 2017",20:47:00,Drug Related Incident (RA 9165),Magugpo Poblacion,Tagum City,Not Indicated,urban,2.43,225,125,714,13
+76,125.79899999999999,7.46046,20/08/2017,"Sun - Aug 20, 2017",2:00:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Stabbing/Hacking,urban,10.74,993,553,3151,56
+77,125.81200000000001,7.455710000000001,20/08/2017,"Sun - Aug 20, 2017",15:45:00,THEFT,Magugpo North,Tagum City,Salisi,urban,7.19,665,370,2109,37
+78,125.8,7.47763,21/08/2017,"Mon - Aug 21, 2017",7:42:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,La Filipina,Tagum City,Swpu (Stolen While Parked),urban,11.84,1095,609,3473,61
+79,125.785,7.41445,21/08/2017,"Mon - Aug 21, 2017",18:40:00,THEFT,Canocotan,Tagum City,Cable/Electric Meter,urban,6.26,579,322,1836,32
+80,125.666,7.27338,22/08/2017,"Tue - Aug 22, 2017",16:05:00,Drug Related Incident (RA 9165),J.P. Laurel,Panabo City,Not Indicated,urban,8.93,451,259,1475,25
+81,125.822,7.43584,22/08/2017,"Tue - Aug 22, 2017",11:30:00,ROBBERY,Apokon,Tagum City,Breaking and Entering,urban,22.88,2115,1178,6712,119
+82,125.804,7.4314800000000005,22/08/2017,"Tue - Aug 22, 2017",5:00:00,ROBBERY,Visayan Village,Tagum City,With Violence Against or Intimidation of Persons,urban,31.0,2866,1596,9093,161
+83,125.818,7.4489,22/08/2017,"Tue - Aug 22, 2017",16:30:00,ROBBERY,Magugpo East,Tagum City,Breaking and Entering,urban,11.1,1026,571,3256,57
+84,125.801,7.4362,22/08/2017,"Tue - Aug 22, 2017",18:39:00,HOMICIDE,Visayan Village,Tagum City,Shooting,urban,31.0,2866,1596,9093,161
+85,125.802,7.427110000000001,22/08/2017,"Tue - Aug 22, 2017",19:00:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Stabbing/Hacking,urban,31.0,2866,1596,9093,161
+86,125.805,7.4466,23/08/2017,"Wed - Aug 23, 2017",15:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+87,125.814,7.456160000000001,23/08/2017,"Wed - Aug 23, 2017",22:00:00,PHYSICAL INJURIES,Magugpo North,Tagum City,Stabbing/Hacking,urban,7.19,665,370,2109,37
+88,125.795,7.456580000000001,23/08/2017,"Wed - Aug 23, 2017",19:25:00,MURDER,Mankilam,Tagum City,Shooting,urban,29.97,2771,1543,8792,155
+89,125.65899999999999,7.321560000000001,23/08/2017,"Wed - Aug 23, 2017",17:00:00,Drug Related Incident (RA 9165),Datu Abdul Dadia,Panabo City,Not Indicated,urban,7.88,398,229,1303,22
+90,125.78299999999999,7.4626,24/08/2017,"Thu - Aug 24, 2017",8:50:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,2866,1596,9093,161
+91,125.588,7.3976,24/08/2017,"Thu - Aug 24, 2017",9:30:00,PHYSICAL INJURIES,A. O. Floirendo,Panabo City,Mauling,urban,6.6,333,191,1090,19
+92,125.81700000000001,7.46005,25/08/2017,"Fri - Aug 25, 2017",7:45:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo South,Tagum City,Swpu (Stolen While Parked),urban,8.33,770,429,2444,43
+93,125.75200000000001,7.091989999999999,25/08/2017,"Fri - Aug 25, 2017",0:30:00,PHYSICAL INJURIES,Tagbitan-Ag,Samal City,Shooting,rural,6.24,151,94,496,8
+94,125.80799999999999,7.448119999999999,25/08/2017,"Fri - Aug 25, 2017",14:30:00,THEFT,Magugpo Poblacion,Tagum City,Plain Theft,urban,2.43,225,125,714,13
+95,125.789,7.422689999999999,25/08/2017,"Fri - Aug 25, 2017",16:35:00,Drug Related Incident (RA 9165),Canocotan,Tagum City,Not Indicated,urban,6.26,579,322,1836,32
+96,125.835,7.47107,26/08/2017,"Sat - Aug 26, 2017",1:00:00,THEFT,Magdum,Tagum City,Plain Theft,urban,7.86,727,405,2305,41
+97,125.803,7.41748,26/08/2017,"Sat - Aug 26, 2017",9:04:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,2866,1596,9093,161
+98,125.686,7.306260000000001,26/08/2017,"Sat - Aug 26, 2017",11:00:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,298,171,974,17
+99,125.822,7.4168,27/08/2017,"Sun - Aug 27, 2017",4:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+100,125.757,6.92391,27/08/2017,"Sun - Aug 27, 2017",21:00:00,PHYSICAL INJURIES,Libertad,Samal City,Hacking,rural,6.81,164,102,541,9
+101,125.806,7.4419699999999995,27/08/2017,"Sun - Aug 27, 2017",3:00:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Stabbing/Hacking,urban,2.43,225,125,714,13
+102,125.805,7.44716,27/08/2017,"Sun - Aug 27, 2017",21:05:00,THEFT,Magugpo Poblacion,Tagum City,Shoplifting,urban,2.43,225,125,714,13
+103,125.81299999999999,7.457839999999999,27/08/2017,"Sun - Aug 27, 2017",22:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo North,Tagum City,Swpu (Stolen While Parked),urban,7.19,665,370,2109,37
+104,125.78200000000001,7.46088,27/08/2017,"Sun - Aug 27, 2017",23:00:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,2771,1543,8792,155
+105,125.78399999999999,7.458239999999999,27/08/2017,"Sun - Aug 27, 2017",23:00:00,THEFT,Mankilam,Tagum City,Salisi (Establishment),urban,29.97,2771,1543,8792,155
+106,125.822,7.43607,28/08/2017,"Mon - Aug 28, 2017",3:00:00,ROBBERY,Apokon,Tagum City,Destroying Window,urban,22.88,2115,1178,6712,119
+107,125.806,7.432939999999999,28/08/2017,"Mon - Aug 28, 2017",12:50:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,2866,1596,9093,161
+108,125.81200000000001,7.39728,28/08/2017,"Mon - Aug 28, 2017",21:30:00,HOMICIDE,Madaum,Tagum City,Shooting,urban,8.25,763,425,2419,43
+109,125.806,7.44918,28/08/2017,"Mon - Aug 28, 2017",21:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+110,125.79799999999999,7.46052,29/08/2017,"Tue - Aug 29, 2017",2:20:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+111,125.82,7.4504600000000005,30/08/2017,"Wed - Aug 30, 2017",3:00:00,THEFT,Magugpo East,Tagum City,Salisi (Akyat Bahay),urban,11.1,1026,571,3256,57
+112,125.801,7.45182,30/08/2017,"Wed - Aug 30, 2017",9:00:00,THEFT,Magugpo Poblacion,Tagum City,Shoplifting,urban,2.43,225,125,714,13
+113,125.81200000000001,7.381710000000001,30/08/2017,"Wed - Aug 30, 2017",15:30:00,MURDER,Madaum,Tagum City,Shooting,urban,8.25,763,425,2419,43
+114,125.801,7.4753,30/08/2017,"Wed - Aug 30, 2017",20:45:00,MURDER,La Filipina,Tagum City,Shooting,urban,11.84,1095,609,3473,61
+115,125.803,7.4485399999999995,31/08/2017,"Thu - Aug 31, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+116,125.82799999999999,7.4222399999999995,31/08/2017,"Thu - Aug 31, 2017",10:00:00,THEFT,Apokon,Tagum City,Bag Snatching,urban,22.88,2115,1178,6712,119
+117,125.678,7.27655,31/08/2017,"Thu - Aug 31, 2017",21:10:00,Drug Related Incident (RA 9165),J.P. Laurel,Panabo City,Not Indicated,urban,8.93,451,259,1475,25
+118,125.693,7.3033,31/08/2017,"Thu - Aug 31, 2017",22:45:00,Drug Related Incident (RA 9165),Santo Niño (Pob.),Panabo City,Not Indicated,urban,5.89,298,171,974,17
+119,125.806,7.44767,31/08/2017,"Thu - Aug 31, 2017",13:47:00,THEFT,Magugpo Poblacion,Tagum City,Pick-Pocketing,urban,2.43,225,125,714,13
+120,125.816,7.38807,31/08/2017,"Thu - Aug 31, 2017",5:50:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,763,425,2419,43
+121,125.816,7.389130000000001,31/08/2017,"Thu - Aug 31, 2017",17:50:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,763,425,2419,43
+122,125.81,7.38015,31/08/2017,"Thu - Aug 31, 2017",5:30:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,763,425,2419,43
+123,125.806,7.45603,01/09/2017,"Fri - Sep 1, 2017",9:20:00,Vehicular Traffic Accident,Magugpo West,Tagum City,Not Indicated,urban,10.74,993,553,3151,56
+124,125.79700000000001,7.4345,02/09/2017,"Sat - Sep 2, 2017",5:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,2866,1596,9093,161
+125,125.805,7.441730000000001,02/09/2017,"Sat - Sep 2, 2017",2:00:00,RAPE (Art. 266-A RC & R.A.8353),Magugpo Poblacion,Tagum City,Not Indicated,urban,2.43,225,125,714,13
+126,125.803,7.4503699999999995,03/09/2017,"Sun - Sep 3, 2017",16:00:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,225,125,714,13
+127,125.824,7.42122,04/09/2017,"Mon - Sep 4, 2017",0:58:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+128,125.76899999999999,6.927239999999999,04/09/2017,"Mon - Sep 4, 2017",7:30:00,THEFT,Pangubatan (Talicod I),Samal City,Salisi (Others),rural,3.96,96,59,314,5
+129,125.803,7.456460000000001,04/09/2017,"Mon - Sep 4, 2017",3:57:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,993,553,3151,56
+130,125.816,7.39186,04/09/2017,"Mon - Sep 4, 2017",18:55:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,763,425,2419,43
+131,125.77600000000001,7.4439,04/09/2017,"Mon - Sep 4, 2017",7:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,1232,686,3908,69
+132,125.633,7.33246,05/09/2017,"Tue - Sep 5, 2017",18:30:00,ROBBERY,Nanyo,Panabo City,Hold-Up W/ Gun,rural,5.23,264,152,865,15
+133,125.678,7.28672,05/09/2017,"Tue - Sep 5, 2017",18:20:00,Drug Related Incident (RA 9165),Cagangohan,Panabo City,Not Indicated,urban,18.74,947,544,3098,53
+134,125.67299999999999,7.311560000000001,05/09/2017,"Tue - Sep 5, 2017",23:35:00,Drug Related Incident (RA 9165),New Visayas,Panabo City,Not Indicated,urban,22.54,1139,654,3725,64
+135,125.63600000000001,7.332330000000001,05/09/2017,"Tue - Sep 5, 2017",18:30:00,ROBBERY,Nanyo,Panabo City,Hold Up,rural,5.23,264,152,865,15
+136,125.816,7.43575,06/09/2017,"Wed - Sep 6, 2017",23:50:00,Drug Related Incident (RA 9165),Apokon,Tagum City,Not Indicated,urban,22.88,2115,1178,6712,119
+137,125.803,7.4305,06/09/2017,"Wed - Sep 6, 2017",0:00:00,THEFT,Visayan Village,Tagum City,Salisi,urban,31.0,2866,1596,9093,161
+138,125.818,7.4395,06/09/2017,"Wed - Sep 6, 2017",1:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+139,125.802,7.44057,06/09/2017,"Wed - Sep 6, 2017",23:12:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo South,Tagum City,Swpu (Stolen While Parked),urban,8.33,770,429,2444,43
+140,125.807,7.433860000000001,07/09/2017,"Thu - Sep 7, 2017",4:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+141,125.803,7.4573100000000005,07/09/2017,"Thu - Sep 7, 2017",1:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+142,125.811,7.4462,07/09/2017,"Thu - Sep 7, 2017",3:36:00,ROBBERY,Magugpo Poblacion,Tagum City,Destroying Window,urban,2.43,225,125,714,13
+143,125.693,7.3173699999999995,07/09/2017,"Thu - Sep 7, 2017",22:45:00,Drug Related Incident (RA 9165),Salvacion,Panabo City,Not Indicated,urban,12.95,655,376,2141,37
+144,125.82600000000001,7.44043,08/09/2017,"Fri - Sep 8, 2017",0:20:00,THEFT,Apokon,Tagum City,Salisi (Cellphone),urban,22.88,2115,1178,6712,119
+145,125.79799999999999,7.477410000000001,08/09/2017,"Fri - Sep 8, 2017",3:00:00,THEFT,La Filipina,Tagum City,Salisi (Akyat Bahay),urban,11.84,1095,609,3473,61
+146,125.823,7.452260000000001,08/09/2017,"Fri - Sep 8, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,1026,571,3256,57
+147,125.79899999999999,7.446160000000001,08/09/2017,"Fri - Sep 8, 2017",4:00:00,THEFT,Magugpo South,Tagum City,Salisi (Akyat Bahay),urban,8.33,770,429,2444,43
+148,125.771,7.4429,09/09/2017,"Sat - Sep 9, 2017",3:30:00,ROBBERY,San Miguel (Camp 4),Tagum City,With Violence Against or Intimidation of Persons,urban,13.32,1232,686,3908,69
+149,125.818,7.4392,09/09/2017,"Sat - Sep 9, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+150,125.773,7.4435199999999995,09/09/2017,"Sat - Sep 9, 2017",7:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,1232,686,3908,69
+151,125.804,7.44756,09/09/2017,"Sat - Sep 9, 2017",20:01:00,Drug Related Incident (RA 9165),Canocotan,Tagum City,Not Indicated,urban,6.26,579,322,1836,32
+152,125.821,7.4492,09/09/2017,"Sat - Sep 9, 2017",7:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,1026,571,3256,57
+153,125.803,7.4462,10/09/2017,"Sun - Sep 10, 2017",1:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+154,125.77799999999999,7.46243,10/09/2017,"Sun - Sep 10, 2017",4:30:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,2771,1543,8792,155
+155,125.819,7.4398800000000005,10/09/2017,"Sun - Sep 10, 2017",22:00:00,ROBBERY,Apokon,Tagum City,Hold-Up W/ Sharp Object,urban,22.88,2115,1178,6712,119
+156,125.79299999999999,7.492389999999999,10/09/2017,"Sun - Sep 10, 2017",18:30:00,ROBBERY,Cuambogan,Tagum City,Crowbar/Destroying Lock,urban,8.16,755,420,2395,42
+157,125.68700000000001,7.06698,11/09/2017,"Mon - Sep 11, 2017",0:00:00,THEFT,Catagman,Samal City,Salisi (Establishment),rural,3.71,89,56,295,5
+158,125.81200000000001,7.44905,11/09/2017,"Mon - Sep 11, 2017",10:35:00,THEFT,Magugpo East,Tagum City,Shoplifting,urban,11.1,1026,571,3256,57
+159,125.67200000000001,7.08518,11/09/2017,"Mon - Sep 11, 2017",19:00:00,RAPE (Art. 266-A RC & R.A.8353),Limao,Samal City,"Force, Threat and Intimidation",rural,7.13,172,107,567,10
+160,125.686,7.305619999999999,11/09/2017,"Mon - Sep 11, 2017",17:30:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,298,171,974,17
+161,125.804,7.4320699999999995,12/09/2017,"Tue - Sep 12, 2017",4:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+162,125.789,7.45765,12/09/2017,"Tue - Sep 12, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,2771,1543,8792,155
+163,125.805,7.45097,12/09/2017,"Tue - Sep 12, 2017",15:00:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,225,125,714,13
+164,125.822,7.4504600000000005,12/09/2017,"Tue - Sep 12, 2017",22:00:00,RAPE (Art. 266-A RC & R.A.8353),Magugpo East,Tagum City,"Force, Threat and Intimidation",urban,11.1,1026,571,3256,57
+165,125.824,7.42122,13/09/2017,"Wed - Sep 13, 2017",2:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+166,125.802,7.4565,14/09/2017,"Thu - Sep 14, 2017",4:30:00,ROBBERY,Magugpo West,Tagum City,Cellphone Snatching,urban,10.74,993,553,3151,56
+167,125.802,7.47335,14/09/2017,"Thu - Sep 14, 2017",17:45:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,La Filipina,Tagum City,Swpu (Stolen While Parked),urban,11.84,1095,609,3473,61
+168,125.68799999999999,7.131639999999999,15/09/2017,"Fri - Sep 15, 2017",0:25:00,MURDER,Moncado (Pob.),Samal City,Shooting,rural,10.7,258,160,850,14
+169,125.76,7.051019999999999,16/09/2017,"Sat - Sep 16, 2017",15:10:00,PHYSICAL INJURIES,Tagbay,Samal City,Mauling,rural,4.02,97,60,319,5
+170,125.67,7.3017,16/09/2017,"Sat - Sep 16, 2017",10:32:00,Drug Related Incident (RA 9165),New Visayas,Panabo City,Not Indicated,urban,22.54,1139,654,3725,64
+171,125.681,7.29953,16/09/2017,"Sat - Sep 16, 2017",18:00:00,Drug Related Incident (RA 9165),New Pandan (Pob.),Panabo City,Not Indicated,urban,9.03,456,262,1492,26
+172,125.804,7.44614,16/09/2017,"Sat - Sep 16, 2017",16:05:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,225,125,714,13
+173,125.802,7.46184,16/09/2017,"Sat - Sep 16, 2017",19:20:00,Vehicular Traffic Accident,Magugpo West,Tagum City,Not Indicated,urban,10.74,993,553,3151,56
+174,125.81299999999999,7.44505,17/09/2017,"Sun - Sep 17, 2017",3:20:00,Vehicular Traffic Accident,Apokon,Tagum City,Not Indicated,urban,22.88,2115,1178,6712,119
+175,125.804,7.44905,17/09/2017,"Sun - Sep 17, 2017",12:45:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,225,125,714,13
+176,125.74700000000001,7.374110000000001,17/09/2017,"Sun - Sep 17, 2017",16:20:00,Vehicular Traffic Accident,Liboganon,Tagum City,Not Indicated,rural,1.75,162,90,514,9
+177,125.805,7.4325399999999995,17/09/2017,"Sun - Sep 17, 2017",22:11:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Shooting,urban,31.0,2866,1596,9093,161
+178,125.77600000000001,7.44433,18/09/2017,"Mon - Sep 18, 2017",4:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,1232,686,3908,69
+179,125.803,7.4321399999999995,18/09/2017,"Mon - Sep 18, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+180,125.824,7.4178,18/09/2017,"Mon - Sep 18, 2017",23:03:00,ROBBERY,Apokon,Tagum City,Hold-Up W/ Sharp Object,urban,22.88,2115,1178,6712,119
+181,125.749,7.12666,18/09/2017,"Mon - Sep 18, 2017",5:00:00,HOMICIDE,San Antonio,Samal City,Stabbing/Hacking,rural,5.99,145,90,476,8
+182,125.82,7.438839999999999,19/09/2017,"Tue - Sep 19, 2017",20:45:00,ROBBERY,Apokon,Tagum City,Snatching,urban,22.88,2115,1178,6712,119
+183,125.71700000000001,7.07981,19/09/2017,"Tue - Sep 19, 2017",22:40:00,PHYSICAL INJURIES,Peñaplata (Pob.),Samal City,Stabbing/Hacking,urban,17.42,420,261,1384,24
+184,125.779,7.462289999999999,20/09/2017,"Wed - Sep 20, 2017",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,2771,1543,8792,155
+185,125.69,7.3063,20/09/2017,"Wed - Sep 20, 2017",18:30:00,Drug Related Incident (RA 9165),Santo Niño (Pob.),Panabo City,Not Indicated,urban,5.89,298,171,974,17
+186,125.80799999999999,7.44535,20/09/2017,"Wed - Sep 20, 2017",23:38:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Forcibly Taken,urban,2.43,225,125,714,13
+187,125.804,7.4325399999999995,21/09/2017,"Thu - Sep 21, 2017",7:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,2866,1596,9093,161
+188,125.819,7.44061,21/09/2017,"Thu - Sep 21, 2017",19:00:00,ROBBERY,Apokon,Tagum City,Hold-Up W/ Sharp Object,urban,22.88,2115,1178,6712,119
+189,125.775,7.463839999999999,21/09/2017,"Thu - Sep 21, 2017",18:03:00,ROBBERY,Mankilam,Tagum City,Crowbar/Destroying Lock,urban,29.97,2771,1543,8792,155
+190,125.806,7.44733,21/09/2017,"Thu - Sep 21, 2017",23:30:00,RAPE (Art. 266-A RC & R.A.8353),Magugpo Poblacion,Tagum City,Deprived of Reason or Unconcious (Under the Influence of Liquior),urban,2.43,225,125,714,13
+191,125.809,7.4389,22/09/2017,"Fri - Sep 22, 2017",12:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+192,125.738,7.039689999999999,22/09/2017,"Fri - Sep 22, 2017",18:40:00,ROBBERY,Del Monte,Samal City,Hold-Up W/ Gun,rural,5.47,132,82,435,7
+193,125.805,7.45367,22/09/2017,"Fri - Sep 22, 2017",23:10:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+194,125.79799999999999,7.4606699999999995,23/09/2017,"Sat - Sep 23, 2017",1:45:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Mauling,urban,10.74,993,553,3151,56
+195,125.819,7.44067,23/09/2017,"Sat - Sep 23, 2017",4:30:00,ROBBERY,Apokon,Tagum City,Cellphone Snatching,urban,22.88,2115,1178,6712,119
+196,125.79,7.46305,23/09/2017,"Sat - Sep 23, 2017",11:00:00,PHYSICAL INJURIES,Mankilam,Tagum City,Hacking,urban,29.97,2771,1543,8792,155
+197,125.795,7.42846,23/09/2017,"Sat - Sep 23, 2017",14:30:00,Vehicular Traffic Accident,Visayan Village,Tagum City,Not Indicated,urban,31.0,2866,1596,9093,161
+198,125.82799999999999,7.42643,24/09/2017,"Sun - Sep 24, 2017",6:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+199,125.773,7.44152,24/09/2017,"Sun - Sep 24, 2017",6:00:00,Vehicular Traffic Accident,San Miguel (Camp 4),Tagum City,Not Indicated,urban,13.32,1232,686,3908,69
+200,125.825,7.42075,24/09/2017,"Sun - Sep 24, 2017",18:30:00,ROBBERY,Apokon,Tagum City,Hold Up,urban,22.88,2115,1178,6712,119
+201,125.824,7.42045,24/09/2017,"Sun - Sep 24, 2017",19:00:00,ROBBERY,Apokon,Tagum City,Hold Up,urban,22.88,2115,1178,6712,119
+202,125.816,7.46192,24/09/2017,"Sun - Sep 24, 2017",22:00:00,PHYSICAL INJURIES,Magugpo North,Tagum City,Mauling,urban,7.19,665,370,2109,37
+203,125.804,7.44667,24/09/2017,"Sun - Sep 24, 2017",19:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+204,125.79899999999999,7.4608,25/09/2017,"Mon - Sep 25, 2017",2:00:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Stabbing/Hacking,urban,10.74,993,553,3151,56
+205,125.682,7.29679,25/09/2017,"Mon - Sep 25, 2017",7:30:00,MURDER,New Pandan (Pob.),Panabo City,Shooting,urban,9.03,456,262,1492,26
+206,125.803,7.42895,25/09/2017,"Mon - Sep 25, 2017",4:00:00,ROBBERY,Visayan Village,Tagum City,Destroying Window,urban,31.0,2866,1596,9093,161
+207,125.682,7.3026,25/09/2017,"Mon - Sep 25, 2017",18:15:00,Drug Related Incident (RA 9165),Santo Niño (Pob.),Panabo City,Not Indicated,urban,5.89,298,171,974,17
+208,125.804,7.438910000000001,26/09/2017,"Tue - Sep 26, 2017",4:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+209,125.65,7.277019999999999,26/09/2017,"Tue - Sep 26, 2017",0:30:00,ROBBERY,Maduao,Panabo City,In an Inhabited House or Public Building or Edifice Devoted to Worship,rural,4.24,214,123,700,12
+210,125.79799999999999,7.43573,26/09/2017,"Tue - Sep 26, 2017",15:40:00,Drug Related Incident (RA 9165),Visayan Village,Tagum City,Not Indicated,urban,31.0,2866,1596,9093,161
+211,125.822,7.4173100000000005,27/09/2017,"Wed - Sep 27, 2017",20:00:00,ROBBERY,Apokon,Tagum City,Destroying Window,urban,22.88,2115,1178,6712,119
+212,125.805,7.448860000000001,28/09/2017,"Thu - Sep 28, 2017",0:09:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Mauling,urban,2.43,225,125,714,13
+213,125.79799999999999,7.443010000000001,28/09/2017,"Thu - Sep 28, 2017",2:04:00,ROBBERY,Magugpo South,Tagum City,Crowbar/Destroying Lock,urban,8.33,770,429,2444,43
+214,125.81200000000001,7.437410000000001,28/09/2017,"Thu - Sep 28, 2017",12:01:00,THEFT,Visayan Village,Tagum City,Snatching,urban,31.0,2866,1596,9093,161
+215,125.802,7.44433,29/09/2017,"Fri - Sep 29, 2017",6:00:00,THEFT,Magugpo South,Tagum City,Salisi,urban,8.33,770,429,2444,43
+216,125.801,7.4468,29/09/2017,"Fri - Sep 29, 2017",15:30:00,THEFT,Magugpo Poblacion,Tagum City,Plain Theft,urban,2.43,225,125,714,13
+217,125.69,7.28923,29/09/2017,"Fri - Sep 29, 2017",15:30:00,Drug Related Incident (RA 9165),Cagangohan,Panabo City,Not Indicated,urban,18.74,947,544,3098,53
+218,125.771,7.444369999999999,30/09/2017,"Sat - Sep 30, 2017",2:00:00,PHYSICAL INJURIES,San Miguel (Camp 4),Tagum City,Mauling,urban,13.32,1232,686,3908,69
+219,125.708,7.29815,30/09/2017,"Sat - Sep 30, 2017",4:15:00,MURDER,San Pedro,Panabo City,Shooting,urban,5.7,288,165,943,16
+220,125.795,7.48911,30/09/2017,"Sat - Sep 30, 2017",5:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Cuambogan,Tagum City,Swpu (Stolen While Parked),urban,8.16,755,420,2395,42
+221,125.807,7.44941,30/09/2017,"Sat - Sep 30, 2017",11:00:00,THEFT,Magugpo Poblacion,Tagum City,Qualified Theft,urban,2.43,225,125,714,13
+222,125.77600000000001,7.40735,30/09/2017,"Sat - Sep 30, 2017",18:00:00,PHYSICAL INJURIES,Canocotan,Tagum City,Hacking,urban,6.26,579,322,1836,32
+223,125.85799999999999,7.48273,30/09/2017,"Sat - Sep 30, 2017",21:30:00,Vehicular Traffic Accident,Pandapan,Tagum City,Not Indicated,rural,1.84,170,94,538,10
+224,125.787,7.461410000000001,01/10/2017,"Sun - Oct 1, 2017",6:45:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,2771,1543,8792,155
+225,125.809,7.4709699999999994,01/10/2017,"Sun - Oct 1, 2017",19:40:00,THEFT,La Filipina,Tagum City,Snatching,urban,11.84,1095,609,3473,61
+226,125.76,7.48458,02/10/2017,"Mon - Oct 2, 2017",5:30:00,MURDER,Pagsabangan,Tagum City,Stabbing/Hacking,rural,4.04,373,208,1185,21
+227,125.80799999999999,7.44925,02/10/2017,"Mon - Oct 2, 2017",17:01:00,THEFT,Magugpo Poblacion,Tagum City,Shoplifting,urban,2.43,225,125,714,13
+228,125.823,7.45297,02/10/2017,"Mon - Oct 2, 2017",2:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,1026,571,3256,57
+229,125.694,7.31562,02/10/2017,"Mon - Oct 2, 2017",22:10:00,Drug Related Incident (RA 9165),San Vicente,Panabo City,Not Indicated,urban,19.66,993,570,3249,56
+230,125.7,7.31758,02/10/2017,"Mon - Oct 2, 2017",22:40:00,Drug Related Incident (RA 9165),San Vicente,Panabo City,Not Indicated,urban,19.66,993,570,3249,56
+231,125.835,7.47918,03/10/2017,"Tue - Oct 3, 2017",11:00:00,RAPE (Art. 266-A RC & R.A.8353),Magdum,Tagum City,"Force, Threat and Intimidation",urban,7.86,727,405,2305,41
+232,125.8,7.44027,03/10/2017,"Tue - Oct 3, 2017",12:30:00,PHYSICAL INJURIES,Magugpo South,Tagum City,Mauling,urban,8.33,770,429,2444,43
+233,125.803,7.47388,04/10/2017,"Wed - Oct 4, 2017",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,La Filipina,Tagum City,Swpu (Stolen While Parked),urban,11.84,1095,609,3473,61
+234,125.79799999999999,7.46248,04/10/2017,"Wed - Oct 4, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+235,125.8,7.46075,04/10/2017,"Wed - Oct 4, 2017",14:00:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,993,553,3151,56
+236,125.78399999999999,7.4582,04/10/2017,"Wed - Oct 4, 2017",7:25:00,PHYSICAL INJURIES,Mankilam,Tagum City,Shooting,urban,29.97,2771,1543,8792,155
+237,125.68799999999999,7.30075,04/10/2017,"Wed - Oct 4, 2017",17:30:00,Drug Related Incident (RA 9165),Santo Niño (Pob.),Panabo City,Not Indicated,urban,5.89,298,171,974,17
+238,125.825,7.37551,06/10/2017,"Fri - Oct 6, 2017",0:02:00,PHYSICAL INJURIES,Madaum,Tagum City,Shooting,urban,8.25,763,425,2419,43
+239,125.68700000000001,7.1360600000000005,06/10/2017,"Fri - Oct 6, 2017",19:40:00,Vehicular Traffic Accident,Moncado (Pob.),Samal City,Not Indicated,rural,10.7,258,160,850,14
+240,125.677,7.29351,06/10/2017,"Fri - Oct 6, 2017",10:00:00,THEFT,Gredu (Pob.),Panabo City,Qualified Theft,urban,22.51,1137,653,3720,64
+241,125.68799999999999,7.13818,07/10/2017,"Sat - Oct 7, 2017",8:20:00,ROBBERY,Miranda (Pob.),Samal City,Baklas Bubong/Dingding,urban,20.32,491,305,1615,27
+242,125.743,7.0547699999999995,08/10/2017,"Sun - Oct 8, 2017",1:46:00,ROBBERY,Tagbitan-Ag,Samal City,Crowbar/Destroying Lock,rural,6.24,151,94,496,8
+243,125.775,7.465160000000001,08/10/2017,"Sun - Oct 8, 2017",19:10:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,2771,1543,8792,155
+244,125.802,7.436310000000001,09/10/2017,"Mon - Oct 9, 2017",0:01:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Mauling,urban,31.0,2866,1596,9093,161
+245,125.818,7.46097,09/10/2017,"Mon - Oct 9, 2017",3:00:00,ROBBERY,Magugpo North,Tagum City,Breaking and Entering,urban,7.19,665,370,2109,37
+246,125.821,7.4369,09/10/2017,"Mon - Oct 9, 2017",5:30:00,THEFT,Apokon,Tagum City,Salisi (Akyat Bahay),urban,22.88,2115,1178,6712,119
+247,125.781,7.4108600000000004,09/10/2017,"Mon - Oct 9, 2017",10:30:00,ROBBERY,Canocotan,Tagum City,Hold-Up W/ Sharp Object,urban,6.26,579,322,1836,32
+248,125.818,7.45443,09/10/2017,"Mon - Oct 9, 2017",14:30:00,PHYSICAL INJURIES,Magugpo East,Tagum City,Shooting,urban,11.1,1026,571,3256,57
+249,125.814,7.444839999999999,10/10/2017,"Tue - Oct 10, 2017",6:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+250,125.787,7.447089999999999,10/10/2017,"Tue - Oct 10, 2017",20:25:00,ROBBERY,Magugpo South,Tagum City,Snatching,urban,8.33,770,429,2444,43
+251,125.803,7.432010000000001,11/10/2017,"Wed - Oct 11, 2017",1:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+252,125.82799999999999,7.42275,11/10/2017,"Wed - Oct 11, 2017",2:45:00,ROBBERY,Apokon,Tagum City,With Violence Against or Intimidation of Persons,urban,22.88,2115,1178,6712,119
+253,125.694,7.31809,11/10/2017,"Wed - Oct 11, 2017",19:15:00,THEFT,San Vicente,Panabo City,Salisi (Akyat Bahay),urban,19.66,993,570,3249,56
+254,125.83,7.42316,12/10/2017,"Thu - Oct 12, 2017",4:40:00,ROBBERY,Apokon,Tagum City,With Violence Against or Intimidation of Persons,urban,22.88,2115,1178,6712,119
+255,125.795,7.492260000000001,12/10/2017,"Thu - Oct 12, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Cuambogan,Tagum City,Swpu (Stolen While Parked),urban,8.16,755,420,2395,42
+256,125.64200000000001,7.3315399999999995,12/10/2017,"Thu - Oct 12, 2017",17:30:00,MURDER,Nanyo,Panabo City,Shooting,rural,5.23,264,152,865,15
+257,125.81299999999999,7.45603,13/10/2017,"Fri - Oct 13, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo North,Tagum City,Swpu (Stolen While Parked),urban,7.19,665,370,2109,37
+258,125.68,7.3212600000000005,13/10/2017,"Fri - Oct 13, 2017",11:00:00,RAPE (Art. 266-A RC & R.A.8353),Quezon,Panabo City,"Force, Threat and Intimidation",rural,6.33,320,183,1045,18
+259,125.805,7.45775,13/10/2017,"Fri - Oct 13, 2017",19:30:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Mauling,urban,10.74,993,553,3151,56
+260,125.809,7.4478,13/10/2017,"Fri - Oct 13, 2017",13:30:00,Vehicular Traffic Accident,Magugpo Poblacion,Tagum City,Not Indicated,urban,2.43,225,125,714,13
+261,125.819,7.43152,14/10/2017,"Sat - Oct 14, 2017",18:00:00,THEFT,Apokon,Tagum City,Salisi (Akyat Bahay),urban,22.88,2115,1178,6712,119
+262,125.678,7.2973,14/10/2017,"Sat - Oct 14, 2017",9:00:00,THEFT,Gredu (Pob.),Panabo City,Qualified Theft,urban,22.51,1137,653,3720,64
+263,125.875,7.49194,15/10/2017,"Sun - Oct 15, 2017",23:00:00,RAPE (Art. 266-A RC & R.A.8353),Nueva Fuerza,Tagum City,"Force, Threat and Intimidation",rural,1.5,139,77,440,8
+264,125.822,7.41799,16/10/2017,"Mon - Oct 16, 2017",22:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+265,125.74600000000001,7.0072399999999995,17/10/2017,"Tue - Oct 17, 2017",4:00:00,THEFT,Anonang,Samal City,Salisi (Cellphone),rural,7.12,172,107,566,10
+266,125.65,7.284660000000001,18/10/2017,"Wed - Oct 18, 2017",21:00:00,MURDER,Maduao,Panabo City,Shooting,rural,4.24,214,123,700,12
+267,125.773,7.442410000000001,19/10/2017,"Thu - Oct 19, 2017",22:20:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo South,Tagum City,Swpu (Stolen While Parked),urban,8.33,770,429,2444,43
+268,125.713,7.1448,20/10/2017,"Fri - Oct 20, 2017",12:45:00,ROBBERY,Cogon,Samal City,Breaking and Entering,rural,8.38,202,126,666,11
+269,125.79899999999999,7.46097,21/10/2017,"Sat - Oct 21, 2017",4:00:00,ROBBERY,Magugpo West,Tagum City,Breaking and Entering,urban,10.74,993,553,3151,56
+270,125.694,7.1395,21/10/2017,"Sat - Oct 21, 2017",1:27:00,THEFT,Miranda (Pob.),Samal City,Salisi (Akyat Bahay),urban,20.32,491,305,1615,27
+271,125.803,7.46029,21/10/2017,"Sat - Oct 21, 2017",23:00:00,RAPE (Art. 266-A RC & R.A.8353),Magugpo West,Tagum City,"Force, Threat and Intimidation",urban,10.74,993,553,3151,56
+272,125.771,7.46565,22/10/2017,"Sun - Oct 22, 2017",22:30:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,2771,1543,8792,155
+273,125.773,7.46735,23/10/2017,"Mon - Oct 23, 2017",7:30:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,2771,1543,8792,155
+274,125.686,7.06877,24/10/2017,"Tue - Oct 24, 2017",18:00:00,Vehicular Traffic Accident,Catagman,Samal City,Not Indicated,rural,3.71,89,56,295,5
+275,125.801,7.4508399999999995,25/10/2017,"Wed - Oct 25, 2017",9:00:00,MURDER,Magugpo South,Tagum City,Shooting,urban,8.33,770,429,2444,43
+276,125.81200000000001,7.4492199999999995,25/10/2017,"Wed - Oct 25, 2017",21:41:00,THEFT,Magugpo East,Tagum City,Qualified Theft,urban,11.1,1026,571,3256,57
+277,125.677,7.29352,25/10/2017,"Wed - Oct 25, 2017",10:00:00,THEFT,Gredu (Pob.),Panabo City,Qualified Theft,urban,22.51,1137,653,3720,64
+278,125.7,7.184010000000001,26/10/2017,"Thu - Oct 26, 2017",14:25:00,THEFT,San Isidro (Babak),Samal City,Qualified Theft,rural,6.43,155,96,511,9
+279,125.81200000000001,7.4492,26/10/2017,"Thu - Oct 26, 2017",20:29:00,THEFT,Magugpo East,Tagum City,Qualified Theft,urban,11.1,1026,571,3256,57
+280,125.82600000000001,7.4497100000000005,27/10/2017,"Fri - Oct 27, 2017",2:34:00,THEFT,Magugpo East,Tagum City,Salisi (Akyat Bahay),urban,11.1,1026,571,3256,57
+281,125.811,7.45682,27/10/2017,"Fri - Oct 27, 2017",17:20:00,ROBBERY,Magugpo North,Tagum City,Breaking and Entering,urban,7.19,665,370,2109,37
+282,125.779,7.4073899999999995,27/10/2017,"Fri - Oct 27, 2017",22:00:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,763,425,2419,43
+283,125.774,7.46888,29/10/2017,"Sun - Oct 29, 2017",4:00:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,2771,1543,8792,155
+284,125.802,7.473260000000001,29/10/2017,"Sun - Oct 29, 2017",19:15:00,PHYSICAL INJURIES,La Filipina,Tagum City,Shooting,urban,11.84,1095,609,3473,61
+285,125.759,7.4825800000000005,29/10/2017,"Sun - Oct 29, 2017",20:00:00,PHYSICAL INJURIES,Pagsabangan,Tagum City,Mauling,rural,4.04,373,208,1185,21
+286,125.617,7.33161,29/10/2017,"Sun - Oct 29, 2017",20:00:00,PHYSICAL INJURIES,New Malitbog,Panabo City,Stabbing/Hacking,rural,4.46,225,129,737,13
+287,125.723,7.115069999999999,29/10/2017,"Sun - Oct 29, 2017",19:00:00,THEFT,Santo Niño,Samal City,Salisi,rural,4.45,107,67,354,6
+288,125.802,7.4435,30/10/2017,"Mon - Oct 30, 2017",0:30:00,PHYSICAL INJURIES,Magugpo South,Tagum City,Mauling,urban,8.33,770,429,2444,43
+289,125.76899999999999,6.92903,30/10/2017,"Mon - Oct 30, 2017",5:00:00,THEFT,Pangubatan (Talicod I),Samal City,Salisi (Akyat Bahay),rural,3.96,96,59,314,5
+290,125.771,7.4422,31/10/2017,"Tue - Oct 31, 2017",2:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,1232,686,3908,69
+291,125.71600000000001,7.079,31/10/2017,"Tue - Oct 31, 2017",19:00:00,Vehicular Traffic Accident,Peñaplata (Pob.),Samal City,Not Indicated,urban,17.42,420,261,1384,24
+292,125.80799999999999,7.4419699999999995,31/10/2017,"Tue - Oct 31, 2017",21:00:00,ROBBERY,Visayan Village,Tagum City,Akyat Bahay,urban,31.0,2866,1596,9093,161
+293,125.802,7.46046,31/10/2017,"Tue - Oct 31, 2017",23:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+294,125.801,7.476780000000001,01/11/2017,"Wed - Nov 1, 2017",16:00:00,THEFT,La Filipina,Tagum City,Salisi,urban,11.84,1095,609,3473,61
+295,125.684,7.3087100000000005,01/11/2017,"Wed - Nov 1, 2017",15:30:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,298,171,974,17
+296,125.67,7.28683,01/11/2017,"Wed - Nov 1, 2017",17:30:00,THEFT,J.P. Laurel,Panabo City,Salisi,urban,8.93,451,259,1475,25
+297,125.803,7.44227,02/11/2017,"Thu - Nov 2, 2017",0:00:00,PHYSICAL INJURIES,Magugpo South,Tagum City,Shooting,urban,8.33,770,429,2444,43
+298,125.823,7.43505,02/11/2017,"Thu - Nov 2, 2017",3:00:00,ROBBERY,Apokon,Tagum City,Breaking and Entering,urban,22.88,2115,1178,6712,119
+299,125.824,7.43078,02/11/2017,"Thu - Nov 2, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+300,125.8,7.46088,02/11/2017,"Thu - Nov 2, 2017",9:30:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Mauling,urban,10.74,993,553,3151,56
+301,125.816,7.43582,02/11/2017,"Thu - Nov 2, 2017",3:00:00,ROBBERY,Apokon,Tagum City,Destroying Window,urban,22.88,2115,1178,6712,119
+302,125.68,7.30922,02/11/2017,"Thu - Nov 2, 2017",6:30:00,ROBBERY,San Francisco (Pob.),Panabo City, in an Inhabited House or Edifice for Worship and Private Building,urban,17.46,882,506,2885,49
+303,125.816,7.451919999999999,02/11/2017,"Thu - Nov 2, 2017",11:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,1026,571,3256,57
+304,125.686,7.3056,04/11/2017,"Sat - Nov 4, 2017",19:40:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,298,171,974,17
+305,125.79899999999999,7.44005,04/11/2017,"Sat - Nov 4, 2017",4:30:00,THEFT,Magugpo South,Tagum City,Salisi,urban,8.33,770,429,2444,43
+306,125.78399999999999,7.458310000000001,05/11/2017,"Sun - Nov 5, 2017",1:30:00,THEFT,Mankilam,Tagum City,Salisi (Akyat Bahay),urban,29.97,2771,1543,8792,155
+307,125.811,7.44482,05/11/2017,"Sun - Nov 5, 2017",13:35:00,THEFT,Apokon,Tagum City,Plain Theft,urban,22.88,2115,1178,6712,119
+308,125.79899999999999,7.46073,05/11/2017,"Sun - Nov 5, 2017",0:50:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,993,553,3151,56
+309,125.68299999999999,7.30007,05/11/2017,"Sun - Nov 5, 2017",21:00:00,PHYSICAL INJURIES,New Pandan (Pob.),Panabo City,Shooting,urban,9.03,456,262,1492,26
+310,125.845,7.47543,05/11/2017,"Sun - Nov 5, 2017",23:45:00,PHYSICAL INJURIES,Magdum,Tagum City,Mauling,urban,7.86,727,405,2305,41
+311,125.73100000000001,7.03543,06/11/2017,"Mon - Nov 6, 2017",2:30:00,PHYSICAL INJURIES,San Remigio,Samal City,Shooting,rural,6.25,151,94,497,8
+312,125.807,7.45012,07/11/2017,"Tue - Nov 7, 2017",2:30:00,ROBBERY,Magugpo Poblacion,Tagum City,Cellphone Snatching,urban,2.43,225,125,714,13
+313,125.811,7.43699,07/11/2017,"Tue - Nov 7, 2017",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+314,125.822,7.434010000000001,07/11/2017,"Tue - Nov 7, 2017",22:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+315,125.803,7.4313899999999995,08/11/2017,"Wed - Nov 8, 2017",4:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+316,125.807,7.449389999999999,08/11/2017,"Wed - Nov 8, 2017",14:00:00,THEFT,Magugpo Poblacion,Tagum City,Pick-Pocketing,urban,2.43,225,125,714,13
+317,125.807,7.4501800000000005,09/11/2017,"Thu - Nov 9, 2017",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo South,Tagum City,Swpu (Stolen While Parked),urban,8.33,770,429,2444,43
+318,125.79700000000001,7.42603,09/11/2017,"Thu - Nov 9, 2017",3:00:00,ROBBERY,Visayan Village,Tagum City,Destroying Window,urban,31.0,2866,1596,9093,161
+319,125.81,7.44797,09/11/2017,"Thu - Nov 9, 2017",23:30:00,THEFT,Magugpo Poblacion,Tagum City,Shoplifting,urban,2.43,225,125,714,13
+320,125.807,7.45029,10/11/2017,"Fri - Nov 10, 2017",1:20:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Stabbing/Hacking,urban,2.43,225,125,714,13
+321,125.81200000000001,7.438039999999999,10/11/2017,"Fri - Nov 10, 2017",4:00:00,THEFT,Visayan Village,Tagum City,Salisi (Akyat Bahay),urban,31.0,2866,1596,9093,161
+322,125.686,7.3056,11/11/2017,"Sat - Nov 11, 2017",14:34:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,298,171,974,17
+323,125.679,7.29652,11/11/2017,"Sat - Nov 11, 2017",19:00:00,MURDER,Gredu (Pob.),Panabo City,Shooting,urban,22.51,1137,653,3720,64
+324,125.803,7.45697,12/11/2017,"Sun - Nov 12, 2017",3:30:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Stoning,urban,10.74,993,553,3151,56
+325,125.825,7.422160000000001,12/11/2017,"Sun - Nov 12, 2017",21:45:00,THEFT,Apokon,Tagum City,Salisi,urban,22.88,2115,1178,6712,119
+326,125.80799999999999,7.44837,12/11/2017,"Sun - Nov 12, 2017",21:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,1026,571,3256,57
+327,125.803,7.45752,12/11/2017,"Sun - Nov 12, 2017",22:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+328,125.79799999999999,7.43618,12/11/2017,"Sun - Nov 12, 2017",14:00:00,RAPE (Art. 266-A RC & R.A.8353),Visayan Village,Tagum City,Grave Abuse of Authority,urban,31.0,2866,1596,9093,161
+329,125.79899999999999,7.43475,12/11/2017,"Sun - Nov 12, 2017",10:00:00,THEFT,Visayan Village,Tagum City,Salisi,urban,31.0,2866,1596,9093,161
+330,125.772,7.441560000000001,13/11/2017,"Mon - Nov 13, 2017",1:10:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,1232,686,3908,69
+331,125.803,7.44705,13/11/2017,"Mon - Nov 13, 2017",2:30:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,225,125,714,13
+332,125.74600000000001,6.95178,13/11/2017,"Mon - Nov 13, 2017",15:30:00,PHYSICAL INJURIES,Libertad,Samal City,Shooting,rural,6.81,164,102,541,9
+333,125.59899999999999,7.29811,13/11/2017,"Mon - Nov 13, 2017",15:00:00,MURDER,Kauswagan,Panabo City,Shooting,rural,1.93,98,56,319,5
+334,125.678,7.08731,13/11/2017,"Mon - Nov 13, 2017",17:00:00,RAPE (Art. 266-A RC & R.A.8353),Limao,Samal City,"Force, Threat and Intimidation",rural,7.13,172,107,567,10
+335,125.804,7.4584600000000005,14/11/2017,"Tue - Nov 14, 2017",4:49:00,ROBBERY,Magugpo West,Tagum City,Breaking and Entering,urban,10.74,993,553,3151,56
+336,125.8,7.43565,15/11/2017,"Wed - Nov 15, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+337,125.804,7.447139999999999,15/11/2017,"Wed - Nov 15, 2017",22:30:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Mauling,urban,2.43,225,125,714,13
+338,125.8,7.43475,15/11/2017,"Wed - Nov 15, 2017",19:30:00,ROBBERY,Visayan Village,Tagum City,Snatching,urban,31.0,2866,1596,9093,161
+339,125.815,7.453310000000001,15/11/2017,"Wed - Nov 15, 2017",7:00:00,ROBBERY,Magugpo North,Tagum City,Breaking and Entering,urban,7.19,665,370,2109,37
+340,125.803,7.456919999999999,15/11/2017,"Wed - Nov 15, 2017",7:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+341,125.803,7.45786,15/11/2017,"Wed - Nov 15, 2017",9:40:00,ROBBERY,Magugpo West,Tagum City,Hold-Up W/ Gun,urban,10.74,993,553,3151,56
+342,125.805,7.44688,15/11/2017,"Wed - Nov 15, 2017",10:00:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Mauling,urban,2.43,225,125,714,13
+343,125.803,7.4573100000000005,16/11/2017,"Thu - Nov 16, 2017",2:30:00,ROBBERY,Magugpo South,Tagum City,Breaking and Entering,urban,8.33,770,429,2444,43
+344,125.801,7.43458,16/11/2017,"Thu - Nov 16, 2017",4:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,2866,1596,9093,161
+345,125.806,7.44965,17/11/2017,"Fri - Nov 17, 2017",9:00:00,ROBBERY,Magugpo Poblacion,Tagum City,Hold Up,urban,2.43,225,125,714,13
+346,125.803,7.45765,19/11/2017,"Sun - Nov 19, 2017",1:00:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Stabbing/Hacking,urban,10.74,993,553,3151,56
+347,125.649,7.303389999999999,19/11/2017,"Sun - Nov 19, 2017",19:10:00,PHYSICAL INJURIES,Little Panay,Panabo City,Stabbing/Hacking,rural,3.31,167,96,547,9
+348,125.801,7.43505,20/11/2017,"Mon - Nov 20, 2017",10:40:00,ROBBERY,Visayan Village,Tagum City,Akyat Bahay,urban,31.0,2866,1596,9093,161
+349,125.695,7.316089999999999,20/11/2017,"Mon - Nov 20, 2017",1:00:00,ROBBERY,San Vicente,Panabo City,In an Uninhabited Place or in a Private Building,urban,19.66,993,570,3249,56
+350,125.68700000000001,7.133189999999999,21/11/2017,"Tue - Nov 21, 2017",7:25:00,THEFT,Moncado (Pob.),Samal City,Salisi,rural,10.7,258,160,850,14
+351,125.791,7.48901,21/11/2017,"Tue - Nov 21, 2017",5:30:00,THEFT,Cuambogan,Tagum City,Salisi,urban,8.16,755,420,2395,42
+352,125.78,7.45786,21/11/2017,"Tue - Nov 21, 2017",0:45:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,2771,1543,8792,155
+353,125.824,7.42063,22/11/2017,"Wed - Nov 22, 2017",23:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2115,1178,6712,119
+354,125.8,7.4319,23/11/2017,"Thu - Nov 23, 2017",9:00:00,THEFT,Visayan Village,Tagum City,Plain Theft,urban,31.0,2866,1596,9093,161
+355,125.809,7.4480699999999995,23/11/2017,"Thu - Nov 23, 2017",19:00:00,ROBBERY,Magugpo East,Tagum City,Breaking and Entering,urban,11.1,1026,571,3256,57
+356,125.777,7.46335,24/11/2017,"Fri - Nov 24, 2017",1:00:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,2771,1543,8792,155
+357,125.68799999999999,7.3075600000000005,24/11/2017,"Fri - Nov 24, 2017",12:20:00,MURDER,Santo Niño (Pob.),Panabo City,Shooting,urban,5.89,298,171,974,17
+358,125.819,7.4493100000000005,25/11/2017,"Sat - Nov 25, 2017",21:00:00,PHYSICAL INJURIES,Magugpo East,Tagum City,Mauling,urban,11.1,1026,571,3256,57
+359,125.81700000000001,7.439610000000001,26/11/2017,"Sun - Nov 26, 2017",12:15:00,THEFT,Apokon,Tagum City,Salisi (Akyat Bahay),urban,22.88,2115,1178,6712,119
+360,125.913,7.520639999999999,26/11/2017,"Sun - Nov 26, 2017",14:00:00,RAPE (Art. 266-A RC & R.A.8353),San Agustin,Tagum City,"Force, Threat and Intimidation",rural,0.86,79,44,252,4
+361,125.81700000000001,7.39041,27/11/2017,"Mon - Nov 27, 2017",22:24:00,PHYSICAL INJURIES,Madaum,Tagum City,Shooting,urban,8.25,763,425,2419,43
+362,125.773,7.46663,28/11/2017,"Tue - Nov 28, 2017",7:00:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,2771,1543,8792,155
+363,125.803,7.4462,28/11/2017,"Tue - Nov 28, 2017",0:10:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+364,125.806,7.44765,28/11/2017,"Tue - Nov 28, 2017",22:30:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Hacking,urban,2.43,225,125,714,13
+365,125.68299999999999,7.2887,28/11/2017,"Tue - Nov 28, 2017",22:30:00,ROBBERY,Cagangohan,Panabo City,Hold Up,urban,18.74,947,544,3098,53
+366,125.755,7.37896,29/11/2017,"Wed - Nov 29, 2017",14:10:00,Vehicular Traffic Accident,Bincungan,Tagum City,Not Indicated,rural,3.25,301,167,954,17
+367,125.814,7.4558,29/11/2017,"Wed - Nov 29, 2017",22:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo North,Tagum City,Swpu (Stolen While Parked),urban,7.19,665,370,2109,37
+368,125.819,7.38973,30/11/2017,"Thu - Nov 30, 2017",15:30:00,PHYSICAL INJURIES,Madaum,Tagum City,Mauling,urban,8.25,763,425,2419,43
+369,125.80799999999999,7.44005,30/11/2017,"Thu - Nov 30, 2017",20:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+370,125.82700000000001,7.4126199999999995,01/12/2017,"Fri - Dec 1, 2017",3:00:00,THEFT,Apokon,Tagum City,Salisi,urban,22.88,2115,1178,6712,119
+371,125.811,7.416239999999999,01/12/2017,"Fri - Dec 1, 2017",0:25:00,THEFT,Madaum,Tagum City,Applied as Helper,urban,8.25,763,425,2419,43
+372,125.804,7.44992,01/12/2017,"Fri - Dec 1, 2017",19:45:00,ROBBERY,Magugpo Poblacion,Tagum City,Cellphone Snatching,urban,2.43,225,125,714,13
+373,125.806,7.4485600000000005,01/12/2017,"Fri - Dec 1, 2017",20:25:00,ROBBERY,Magugpo Poblacion,Tagum City,Hold-Up W/ Sharp Object,urban,2.43,225,125,714,13
+374,125.788,7.45688,01/12/2017,"Fri - Dec 1, 2017",20:55:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,2771,1543,8792,155
+375,125.684,7.30213,02/12/2017,"Sat - Dec 2, 2017",18:15:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,298,171,974,17
+376,125.78299999999999,7.39688,03/12/2017,"Sun - Dec 3, 2017",19:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+377,125.802,7.45288,04/12/2017,"Mon - Dec 4, 2017",2:32:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,993,553,3151,56
+378,125.81,7.4485399999999995,04/12/2017,"Mon - Dec 4, 2017",13:30:00,THEFT,Magugpo East,Tagum City,Shoplifting,urban,11.1,1026,571,3256,57
+379,125.803,7.457730000000001,05/12/2017,"Tue - Dec 5, 2017",1:45:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Shooting,urban,10.74,993,553,3151,56
+380,125.804,7.457139999999999,05/12/2017,"Tue - Dec 5, 2017",0:30:00,ROBBERY,Magugpo West,Tagum City,Hold Up,urban,10.74,993,553,3151,56
+381,125.772,7.44318,05/12/2017,"Tue - Dec 5, 2017",20:13:00,PHYSICAL INJURIES,San Miguel (Camp 4),Tagum City,Stabbing/Hacking,urban,13.32,1232,686,3908,69
+382,125.79799999999999,7.4359,05/12/2017,"Tue - Dec 5, 2017",12:30:00,ROBBERY,Visayan Village,Tagum City,Snatching,urban,31.0,2866,1596,9093,161
+383,125.685,7.30512,05/12/2017,"Tue - Dec 5, 2017",19:00:00,THEFT,Santo Niño (Pob.),Panabo City,Qualified Theft,urban,5.89,298,171,974,17
+384,125.803,7.45782,07/12/2017,"Thu - Dec 7, 2017",2:54:00,MURDER,Magugpo West,Tagum City,Shooting,urban,10.74,993,553,3151,56
+385,125.678,7.303780000000001,07/12/2017,"Thu - Dec 7, 2017",8:30:00,MURDER,San Francisco (Pob.),Panabo City,Shooting,urban,17.46,882,506,2885,49
+386,125.79899999999999,7.43467,07/12/2017,"Thu - Dec 7, 2017",2:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+387,125.79799999999999,7.4359,07/12/2017,"Thu - Dec 7, 2017",10:00:00,THEFT,Visayan Village,Tagum City,Salisi,urban,31.0,2866,1596,9093,161
+388,125.685,7.31675,07/12/2017,"Thu - Dec 7, 2017",19:35:00,MURDER,San Francisco (Pob.),Panabo City,Shooting,urban,17.46,882,506,2885,49
+389,125.81200000000001,7.44946,07/12/2017,"Thu - Dec 7, 2017",21:00:00,THEFT,Magugpo East,Tagum City,Plain Theft,urban,11.1,1026,571,3256,57
+390,125.79899999999999,7.43607,07/12/2017,"Thu - Dec 7, 2017",18:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,225,125,714,13
+391,125.74700000000001,7.127000000000001,08/12/2017,"Fri - Dec 8, 2017",18:30:00,HOMICIDE,San Antonio,Samal City,Mauling,rural,5.99,145,90,476,8
+392,125.79,7.4625,08/12/2017,"Fri - Dec 8, 2017",7:40:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,2771,1543,8792,155
+393,125.69,7.09657,09/12/2017,"Sat - Dec 9, 2017",5:00:00,THEFT,Peñaplata (Pob.),Samal City,Salisi,urban,17.42,420,261,1384,24
+394,125.775,7.46616,09/12/2017,"Sat - Dec 9, 2017",2:48:00,THEFT,Mankilam,Tagum City,Salisi (Akyat Bahay),urban,29.97,2771,1543,8792,155
+395,125.804,7.443989999999999,10/12/2017,"Sun - Dec 10, 2017",1:30:00,THEFT,Magugpo Poblacion,Tagum City,Snatching,urban,2.43,225,125,714,13
+396,125.79899999999999,7.4611600000000005,10/12/2017,"Sun - Dec 10, 2017",1:58:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Shooting,urban,10.74,993,553,3151,56
+397,125.71,7.10157,10/12/2017,"Sun - Dec 10, 2017",21:20:00,MURDER,Mambago-A,Samal City,Shooting,rural,5.24,126,79,416,7
+398,125.773,7.46667,11/12/2017,"Mon - Dec 11, 2017",23:30:00,ROBBERY,Mankilam,Tagum City,Hold Up,urban,29.97,2771,1543,8792,155
+399,125.79899999999999,7.43165,12/12/2017,"Tue - Dec 12, 2017",5:10:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+400,125.771,7.44326,12/12/2017,"Tue - Dec 12, 2017",19:30:00,ROBBERY,San Miguel (Camp 4),Tagum City,Breaking and Entering,urban,13.32,1232,686,3908,69
+401,125.771,7.44175,13/12/2017,"Wed - Dec 13, 2017",18:00:00,ROBBERY,San Miguel (Camp 4),Tagum City,Akyat Bahay,urban,13.32,1232,686,3908,69
+402,125.594,7.323410000000001,13/12/2017,"Wed - Dec 13, 2017",23:00:00,RAPE (Art. 266-A RC & R.A.8353),Sindaton,Panabo City,"Force, Threat and Intimidation",rural,4.62,233,134,764,13
+403,125.691,7.32178,14/12/2017,"Thu - Dec 14, 2017",0:15:00,HOMICIDE,Salvacion,Panabo City,Stabbing/Hacking,urban,12.95,655,376,2141,37
+404,125.78200000000001,7.460610000000001,14/12/2017,"Thu - Dec 14, 2017",23:45:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,2771,1543,8792,155
+405,125.78,7.45914,14/12/2017,"Thu - Dec 14, 2017",4:20:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,2771,1543,8792,155
+406,125.801,7.43452,15/12/2017,"Fri - Dec 15, 2017",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Bincungan,Tagum City,Swpu (Stolen While Parked),rural,3.25,301,167,954,17
+407,125.81,7.4469899999999996,16/12/2017,"Sat - Dec 16, 2017",3:05:00,Vehicular Traffic Accident,Apokon,Tagum City,Not Indicated,urban,22.88,2115,1178,6712,119
+408,125.79799999999999,7.43629,17/12/2017,"Sun - Dec 17, 2017",22:30:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,2866,1596,9093,161
+409,125.698,7.0773600000000005,18/12/2017,"Mon - Dec 18, 2017",5:00:00,THEFT,San Miguel (Magamono),Samal City,Salisi (Cellphone),rural,4.7,113,70,373,6
+410,125.684,7.31725,18/12/2017,"Mon - Dec 18, 2017",11:00:00,ROBBERY,San Francisco (Pob.),Panabo City, in an Inhabited House or Edifice for Worship and Private Building,urban,17.46,882,506,2885,49
+411,125.686,7.306260000000001,18/12/2017,"Mon - Dec 18, 2017",20:00:00,THEFT,Santo Niño (Pob.),Panabo City,Qualified Theft,urban,5.89,298,171,974,17
+412,125.694,7.13943,18/12/2017,"Mon - Dec 18, 2017",15:00:00,RAPE (Art. 266-A RC & R.A.8353),Miranda (Pob.),Samal City,"Force, Threat and Intimidation",urban,20.32,491,305,1615,27
+413,125.765,6.95746,19/12/2017,"Tue - Dec 19, 2017",16:00:00,RAPE (Art. 266-A RC & R.A.8353),Sion (Zion),Samal City,"Force, Threat and Intimidation",rural,1.97,48,30,157,3
+414,125.804,7.44735,19/12/2017,"Tue - Dec 19, 2017",8:30:00,ROBBERY,Magugpo Poblacion,Tagum City,Breaking and Entering,urban,2.43,225,125,714,13
+415,125.79899999999999,7.436030000000001,20/12/2017,"Wed - Dec 20, 2017",11:30:00,ROBBERY,Visayan Village,Tagum City,Snatching,urban,31.0,2866,1596,9093,161
+416,125.79899999999999,7.43527,20/12/2017,"Wed - Dec 20, 2017",6:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,2866,1596,9093,161
+417,125.695,7.13973,21/12/2017,"Thu - Dec 21, 2017",11:05:00,RAPE (Art. 266-A RC & R.A.8353),Miranda (Pob.),Samal City,"Force, Threat and Intimidation",urban,20.32,491,305,1615,27
+418,125.79799999999999,7.444710000000001,21/12/2017,"Thu - Dec 21, 2017",19:45:00,ROBBERY,Magugpo South,Tagum City,Breaking and Entering,urban,8.33,770,429,2444,43
+419,125.807,7.44803,21/12/2017,"Thu - Dec 21, 2017",3:00:00,ROBBERY,Magugpo East,Tagum City,Breaking and Entering,urban,11.1,1026,571,3256,57
+420,125.615,7.33533,23/12/2017,"Sat - Dec 23, 2017",16:20:00,THEFT,New Malitbog,Panabo City,Pick-Pocketing,rural,4.46,225,129,737,13
+421,125.806,7.462330000000001,23/12/2017,"Sat - Dec 23, 2017",23:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,1026,571,3256,57
+422,125.821,7.43001,23/12/2017,"Sat - Dec 23, 2017",18:28:00,PHYSICAL INJURIES,Apokon,Tagum City,Mauling,urban,22.88,2115,1178,6712,119
+423,125.63799999999999,7.3322,23/12/2017,"Sat - Dec 23, 2017",11:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Nanyo,Panabo City,Ftr (Failed to Return),rural,5.23,264,152,865,15
+424,125.805,7.44722,24/12/2017,"Sun - Dec 24, 2017",6:54:00,ROBBERY,Magugpo Poblacion,Tagum City,Hold-Up W/ Gun,urban,2.43,225,125,714,13
+425,125.772,7.466410000000001,24/12/2017,"Sun - Dec 24, 2017",11:00:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,2771,1543,8792,155
+426,125.79799999999999,7.436139999999999,24/12/2017,"Sun - Dec 24, 2017",16:00:00,RAPE (Art. 266-A RC & R.A.8353),Visayan Village,Tagum City,"Force, Threat and Intimidation",urban,31.0,2866,1596,9093,161
+427,125.79899999999999,7.43543,25/12/2017,"Mon - Dec 25, 2017",1:45:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Shooting,urban,31.0,2866,1596,9093,161
+428,125.79799999999999,7.435689999999999,26/12/2017,"Tue - Dec 26, 2017",15:15:00,Drug Related Incident (RA 9165),Visayan Village,Tagum City,Not Indicated,urban,31.0,2866,1596,9093,161
+429,125.79799999999999,7.4355199999999995,26/12/2017,"Tue - Dec 26, 2017",21:00:00,Drug Related Incident (RA 9165),Visayan Village,Tagum City,Not Indicated,urban,31.0,2866,1596,9093,161
+430,125.691,7.152360000000001,27/12/2017,"Wed - Dec 27, 2017",3:30:00,PHYSICAL INJURIES,Tambo,Samal City,Shooting,rural,12.49,301,187,992,17
+431,125.773,7.46714,28/12/2017,"Thu - Dec 28, 2017",17:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,2771,1543,8792,155
+432,125.773,7.4676100000000005,29/12/2017,"Fri - Dec 29, 2017",3:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,2771,1543,8792,155
+433,125.686,7.3056,29/12/2017,"Fri - Dec 29, 2017",20:00:00,THEFT,Santo Niño (Pob.),Panabo City,Qualified Theft,urban,5.89,298,171,974,17
+434,125.771,7.44275,30/12/2017,"Sat - Dec 30, 2017",4:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,1232,686,3908,69
+435,125.803,7.4579,30/12/2017,"Sat - Dec 30, 2017",1:40:00,MURDER,Magugpo West,Tagum City,Shooting,urban,10.74,993,553,3151,56
+436,125.79799999999999,7.445010000000001,30/12/2017,"Sat - Dec 30, 2017",10:00:00,MURDER,Magugpo South,Tagum City,Shooting,urban,8.33,770,429,2444,43
+437,125.79899999999999,7.45246,31/12/2017,"Sun - Dec 31, 2017",22:00:00,Vehicular Traffic Accident,Magugpo Poblacion,Tagum City,Not Indicated,urban,2.43,225,125,714,13
+438,125.71799999999999,7.132110000000001,01/01/2018,"Mon - Jan 1, 2018",0:15:00,PHYSICAL INJURIES,Toril,Samal City,Stabbing/Hacking,rural,8.94,207,136,722,13
+439,125.676,7.08467,01/01/2018,"Mon - Jan 1, 2018",13:15:00,PHYSICAL INJURIES,Limao,Samal City,Mauling,rural,7.13,165,109,576,10
+440,125.80799999999999,7.446089999999999,01/01/2018,"Mon - Jan 1, 2018",18:00:00,THEFT,Magugpo Poblacion,Tagum City,Plain Theft,urban,2.43,215,127,723,13
+441,125.771,6.915310000000001,02/01/2018,"Tue - Jan 2, 2018",5:00:00,MURDER,San Remigio,Samal City,Shooting,rural,6.25,145,95,504,9
+442,125.79899999999999,7.435689999999999,02/01/2018,"Tue - Jan 2, 2018",19:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+443,125.729,7.01925,02/01/2018,"Tue - Jan 2, 2018",18:20:00,PHYSICAL INJURIES,Adecor,Samal City,Hacking,urban,5.38,125,82,435,8
+444,125.803,7.456460000000001,02/01/2018,"Tue - Jan 2, 2018",19:20:00,ROBBERY,Magugpo West,Tagum City,Hold Up,urban,10.74,950,560,"3,192",59
+445,125.79700000000001,7.4726300000000005,02/01/2018,"Tue - Jan 2, 2018",20:00:00,Drug Related Incident (RA 9165),San Isidro,Tagum City,Not Indicated,rural,3.69,326,192,1096,20
+446,125.771,7.442710000000001,03/01/2018,"Wed - Jan 3, 2018",4:00:00,THEFT,San Miguel (Camp 4),Tagum City,Salisi,urban,13.32,"1,178",694,3958,73
+447,125.8,7.43509,03/01/2018,"Wed - Jan 3, 2018",3:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+448,125.77,7.44318,04/01/2018,"Thu - Jan 4, 2018",16:30:00,PHYSICAL INJURIES,San Miguel (Camp 4),Tagum City,Stabbing/Hacking,urban,13.32,"1,178",694,3958,73
+449,125.806,7.44688,04/01/2018,"Thu - Jan 4, 2018",20:40:00,ROBBERY,Magugpo Poblacion,Tagum City,Snatching,urban,2.43,215,127,723,13
+450,125.801,7.43146,06/01/2018,"Sat - Jan 6, 2018",3:20:00,ROBBERY,Visayan Village,Tagum City,Akyat Bahay,urban,31.0,"2,742","1,616","9,210",171
+451,125.816,7.452160000000001,06/01/2018,"Sat - Jan 6, 2018",21:30:00,ROBBERY,Magugpo East,Tagum City,Bag/Purse Snatching,urban,11.1,982,579,"3,297",61
+452,125.781,7.4566300000000005,07/01/2018,"Sun - Jan 7, 2018",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,"2,652",1563,"8,905",165
+453,125.805,7.447769999999999,07/01/2018,"Sun - Jan 7, 2018",22:20:00,ROBBERY,Magugpo Poblacion,Tagum City,Snatching,urban,2.43,215,127,723,13
+454,125.823,7.422110000000001,09/01/2018,"Tue - Jan 9, 2018",22:15:00,THEFT,Apokon,Tagum City,Salisi,urban,22.88,2024,1193,6798,126
+455,125.823,7.42271,09/01/2018,"Tue - Jan 9, 2018",22:15:00,Drug Related Incident (RA 9165),Apokon,Tagum City,Not Indicated,urban,22.88,2024,1193,6798,126
+456,125.686,7.304819999999999,10/01/2018,"Wed - Jan 10, 2018",20:50:00,Drug Related Incident (RA 9165),Santo Niño (Pob.),Panabo City,Not Indicated,urban,5.89,284,173,985,18
+457,125.805,7.447769999999999,10/01/2018,"Wed - Jan 10, 2018",22:50:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+458,125.704,7.2983,11/01/2018,"Thu - Jan 11, 2018",19:30:00,Drug Related Incident (RA 9165),San Pedro,Panabo City,Not Indicated,urban,5.7,275,167,953,17
+459,125.59700000000001,7.34825,13/01/2018,"Sat - Jan 13, 2018",1:00:00,MURDER,Manay,Panabo City,Mauling,urban,7.36,355,216,1229,22
+460,125.801,7.45097,13/01/2018,"Sat - Jan 13, 2018",1:20:00,Vehicular Traffic Accident,Magugpo West,Tagum City,Not Indicated,urban,10.74,950,560,"3,192",59
+461,125.68799999999999,7.30841,13/01/2018,"Sat - Jan 13, 2018",22:00:00,Drug Related Incident (RA 9165),Santo Niño (Pob.),Panabo City,Not Indicated,urban,5.89,284,173,985,18
+462,125.79700000000001,7.456410000000001,15/01/2018,"Mon - Jan 15, 2018",2:00:00,RAPE (Art. 266-A RC & R.A.8353),Magugpo West,Tagum City,"Force, Threat and Intimidation",urban,10.74,950,560,"3,192",59
+463,125.773,7.466069999999999,15/01/2018,"Mon - Jan 15, 2018",5:00:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,"2,652",1563,"8,905",165
+464,125.773,7.46565,01/01/2018,"Mon - Jan 1, 2018",1:00:00,PHYSICAL INJURIES,San Miguel (Camp 4),Tagum City,Mauling,urban,13.32,"1,178",694,3958,73
+465,125.79700000000001,7.4972199999999996,05/01/2018,"Fri - Jan 5, 2018",4:00:00,RAPE (Art. 266-A RC & R.A.8353),Cuambogan,Tagum City,"Force, Threat and Intimidation",urban,8.16,722,426,"2,425",45
+466,125.79799999999999,7.46105,16/01/2018,"Tue - Jan 16, 2018",3:00:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Mauling,urban,10.74,950,560,"3,192",59
+467,125.806,7.448919999999999,16/01/2018,"Tue - Jan 16, 2018",21:18:00,ROBBERY,Magugpo Poblacion,Tagum City,Destroying Window,urban,2.43,215,127,723,13
+468,125.79799999999999,7.4608,17/01/2018,"Wed - Jan 17, 2018",2:16:00,ROBBERY,Magugpo West,Tagum City,Destroying Window,urban,10.74,950,560,"3,192",59
+469,125.81700000000001,7.454389999999999,17/01/2018,"Wed - Jan 17, 2018",1:55:00,ROBBERY,Apokon,Tagum City,Breaking and Entering,urban,22.88,2024,1193,6798,126
+470,125.705,7.124039999999999,16/01/2018,"Tue - Jan 16, 2018",23:00:00,RAPE (Art. 266-A RC & R.A.8353),San Agustin,Samal City,"Force, Threat and Intimidation",rural,5.14,119,78,415,7
+471,125.76899999999999,7.41171,17/01/2018,"Wed - Jan 17, 2018",18:30:00,MURDER,Canocotan,Tagum City,Shooting,urban,6.26,554,326,1859,34
+472,125.818,7.46022,17/01/2018,"Wed - Jan 17, 2018",23:30:00,PHYSICAL INJURIES,Magugpo North,Tagum City,Shooting,urban,7.19,636,375,"2,136",40
+473,125.77600000000001,7.44318,18/01/2018,"Thu - Jan 18, 2018",1:00:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stray Bullet,urban,29.97,"2,652",1563,"8,905",165
+474,125.802,7.43233,18/01/2018,"Thu - Jan 18, 2018",17:41:00,ROBBERY,Visayan Village,Tagum City,Destroying Window,urban,31.0,"2,742","1,616","9,210",171
+475,125.801,7.4610899999999996,19/01/2018,"Fri - Jan 19, 2018",1:30:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Mauling,urban,10.74,950,560,"3,192",59
+476,125.805,7.43835,19/01/2018,"Fri - Jan 19, 2018",2:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+477,125.823,7.442139999999999,20/01/2018,"Sat - Jan 20, 2018",19:30:00,ROBBERY,Magugpo East,Tagum City,Hold-Up W/ Sharp Object,urban,11.1,982,579,"3,297",61
+478,125.804,7.44827,19/01/2018,"Fri - Jan 19, 2018",18:30:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+479,125.815,7.454689999999999,20/01/2018,"Sat - Jan 20, 2018",12:25:00,MURDER,Magugpo North,Tagum City,Shooting,urban,7.19,636,375,"2,136",40
+480,125.794,7.457269999999999,20/01/2018,"Sat - Jan 20, 2018",14:30:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,"2,652",1563,"8,905",165
+481,125.804,7.45897,21/01/2018,"Sun - Jan 21, 2018",3:30:00,MURDER,Magugpo West,Tagum City,Shooting,urban,10.74,950,560,"3,192",59
+482,125.814,7.443689999999999,21/01/2018,"Sun - Jan 21, 2018",10:00:00,THEFT,Visayan Village,Tagum City,Salisi,urban,31.0,"2,742","1,616","9,210",171
+483,125.801,7.476260000000001,21/01/2018,"Sun - Jan 21, 2018",4:00:00,THEFT,La Filipina,Tagum City,Salisi,urban,11.84,"1,047",617,"3,517",65
+484,125.829,7.422839999999999,21/01/2018,"Sun - Jan 21, 2018",18:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2024,1193,6798,126
+485,125.815,7.45441,22/01/2018,"Mon - Jan 22, 2018",23:15:00,PHYSICAL INJURIES,Magugpo East,Tagum City,Mauling,urban,11.1,982,579,"3,297",61
+486,125.79899999999999,7.46103,22/01/2018,"Mon - Jan 22, 2018",18:40:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,"2,652",1563,"8,905",165
+487,125.816,7.375939999999999,16/01/2018,"Tue - Jan 16, 2018",5:00:00,HOMICIDE,Magdum,Tagum City,Stabbing/Hacking,urban,7.86,695,410,"2,335",43
+488,125.822,7.4229,22/01/2018,"Mon - Jan 22, 2018",23:00:00,RAPE (Art. 266-A RC & R.A.8353),Apokon,Tagum City,Deprived of Reason or Unconcious (Under the Influence of Liquior),urban,22.88,2024,1193,6798,126
+489,125.79700000000001,7.42868,23/01/2018,"Tue - Jan 23, 2018",16:15:00,ROBBERY,Visayan Village,Tagum City,With Violence Against or Intimidation of Persons,urban,31.0,"2,742","1,616","9,210",171
+490,125.78,7.46307,22/01/2018,"Mon - Jan 22, 2018",0:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,"2,652",1563,"8,905",165
+491,125.815,7.444310000000001,24/01/2018,"Wed - Jan 24, 2018",13:20:00,THEFT,Apokon,Tagum City,Shoplifting,urban,22.88,2024,1193,6798,126
+492,125.807,7.4492899999999995,24/01/2018,"Wed - Jan 24, 2018",20:10:00,THEFT,Magugpo Poblacion,Tagum City,Salisi (Park),urban,2.43,215,127,723,13
+493,125.772,6.91701,27/01/2018,"Sat - Jan 27, 2018",2:10:00,Drug Related Incident (RA 9165),San Remigio,Samal City,Not Indicated,rural,6.25,145,95,504,9
+494,125.802,7.429069999999999,27/01/2018,"Sat - Jan 27, 2018",3:00:00,ROBBERY,Visayan Village,Tagum City,Akyat Bahay,urban,31.0,"2,742","1,616","9,210",171
+495,125.803,7.44985,27/01/2018,"Sat - Jan 27, 2018",16:30:00,MURDER,Magugpo Poblacion,Tagum City,Shooting,urban,2.43,215,127,723,13
+496,125.81700000000001,7.45748,28/01/2018,"Sun - Jan 28, 2018",2:30:00,ROBBERY,Magugpo North,Tagum City,Breaking and Entering,urban,7.19,636,375,"2,136",40
+497,125.78,7.46099,28/01/2018,"Sun - Jan 28, 2018",15:55:00,Drug Related Incident (RA 9165),Mankilam,Tagum City,Not Indicated,urban,29.97,"2,652",1563,"8,905",165
+498,125.772,7.444260000000001,28/01/2018,"Sun - Jan 28, 2018",18:00:00,ROBBERY,San Miguel (Camp 4),Tagum City,Destroying Window,urban,13.32,"1,178",694,3958,73
+499,125.823,7.43348,28/01/2018,"Sun - Jan 28, 2018",19:30:00,PHYSICAL INJURIES,Apokon,Tagum City,Stabbing/Hacking,urban,22.88,2024,1193,6798,126
+500,125.803,7.45905,29/01/2018,"Mon - Jan 29, 2018",3:30:00,THEFT,Magugpo West,Tagum City,Pick-Pocketing,urban,10.74,950,560,"3,192",59
+501,125.80799999999999,7.43135,29/01/2018,"Mon - Jan 29, 2018",2:30:00,THEFT,Visayan Village,Tagum City,Salisi (Akyat Bahay),urban,31.0,"2,742","1,616","9,210",171
+502,125.801,7.38179,29/01/2018,"Mon - Jan 29, 2018",5:00:00,ROBBERY,Madaum,Tagum City,Destroying Window,urban,8.25,730,430,2450,45
+503,125.81200000000001,7.4492,27/01/2018,"Sat - Jan 27, 2018",18:00:00,THEFT,Magugpo East,Tagum City,Shoplifting,urban,11.1,982,579,"3,297",61
+504,125.819,7.45184,28/01/2018,"Sun - Jan 28, 2018",5:00:00,ROBBERY,Magugpo East,Tagum City,Breaking and Entering,urban,11.1,982,579,"3,297",61
+505,125.79799999999999,7.46035,29/01/2018,"Mon - Jan 29, 2018",5:00:00,ROBBERY,Magugpo West,Tagum City,Destroying Window,urban,10.74,950,560,"3,192",59
+506,125.8,7.4238,29/01/2018,"Mon - Jan 29, 2018",5:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+507,125.79899999999999,7.42718,30/01/2018,"Tue - Jan 30, 2018",1:45:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Hitting With Hard Object,urban,31.0,"2,742","1,616","9,210",171
+508,125.792,7.45835,30/01/2018,"Tue - Jan 30, 2018",19:30:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,"2,652",1563,"8,905",165
+509,125.71700000000001,7.07879,29/01/2018,"Mon - Jan 29, 2018",1:00:00,RAPE (Art. 266-A RC & R.A.8353),Peñaplata (Pob.),Samal City,"Force, Threat and Intimidation",urban,17.42,404,265,1406,25
+510,125.779,7.45644,31/01/2018,"Wed - Jan 31, 2018",13:45:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,"2,652",1563,"8,905",165
+511,125.679,7.28742,31/01/2018,"Wed - Jan 31, 2018",12:30:00,Drug Related Incident (RA 9165),Cagangohan,Panabo City,Not Indicated,urban,18.74,905,549,3131,56
+512,125.79700000000001,7.4184600000000005,01/02/2018,"Thu - Feb 1, 2018",21:45:00,Drug Related Incident (RA 9165),Visayan Village,Tagum City,Not Indicated,urban,31.0,"2,742","1,616","9,210",171
+513,125.821,7.43697,02/02/2018,"Fri - Feb 2, 2018",2:24:00,ROBBERY,Apokon,Tagum City,Destroying Window,urban,22.88,2024,1193,6798,126
+514,125.81299999999999,7.443860000000001,01/02/2018,"Thu - Feb 1, 2018",19:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2024,1193,6798,126
+515,125.802,7.43146,03/02/2018,"Sat - Feb 3, 2018",5:55:00,ROBBERY,Visayan Village,Tagum City,Akyat Bahay,urban,31.0,"2,742","1,616","9,210",171
+516,125.574,7.39732,03/02/2018,"Sat - Feb 3, 2018",11:39:00,THEFT,A. O. Floirendo,Panabo City,Plain Theft,urban,6.6,318,193,1102,20
+517,125.809,7.44848,03/02/2018,"Sat - Feb 3, 2018",16:45:00,THEFT,Magugpo Poblacion,Tagum City,Shoplifting,urban,2.43,215,127,723,13
+518,125.7,7.16038,26/01/2018,"Fri - Jan 26, 2018",20:00:00,RAPE (Art. 266-A RC & R.A.8353),Tambo,Samal City,"Force, Threat and Intimidation",rural,12.49,289,190,1008,18
+519,125.801,7.46058,04/02/2018,"Sun - Feb 4, 2018",2:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+520,125.79799999999999,7.46105,04/02/2018,"Sun - Feb 4, 2018",18:20:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Stabbing/Hacking,urban,10.74,950,560,"3,192",59
+521,125.789,7.457439999999999,05/02/2018,"Mon - Feb 5, 2018",7:00:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,"2,652",1563,"8,905",165
+522,125.809,7.43567,05/02/2018,"Mon - Feb 5, 2018",15:00:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Stabbing/Hacking,urban,31.0,"2,742","1,616","9,210",171
+523,125.81200000000001,7.44918,05/02/2018,"Mon - Feb 5, 2018",19:00:00,THEFT,Magugpo East,Tagum City,Shoplifting,urban,11.1,982,579,"3,297",61
+524,125.805,7.447939999999999,05/02/2018,"Mon - Feb 5, 2018",23:23:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+525,125.66,7.330139999999999,06/02/2018,"Tue - Feb 6, 2018",6:50:00,Drug Related Incident (RA 9165),Southern Davao,Panabo City,Not Indicated,urban,12.27,592,360,2051,37
+526,125.823,7.421539999999999,31/01/2018,"Wed - Jan 31, 2018",11:00:00,RAPE (Art. 266-A RC & R.A.8353),Apokon,Tagum City,Grave Abuse of Authority,urban,22.88,2024,1193,6798,126
+527,125.805,7.43403,06/02/2018,"Tue - Feb 6, 2018",3:00:00,ROBBERY,Visayan Village,Tagum City,Destroying Window,urban,31.0,"2,742","1,616","9,210",171
+528,125.79899999999999,7.4599,06/02/2018,"Tue - Feb 6, 2018",22:50:00,Drug Related Incident (RA 9165),Magugpo West,Tagum City,Not Indicated,urban,10.74,950,560,"3,192",59
+529,125.801,7.47594,07/02/2018,"Wed - Feb 7, 2018",1:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,La Filipina,Tagum City,Swpu (Stolen While Parked),urban,11.84,"1,047",617,"3,517",65
+530,125.682,7.29513,06/02/2018,"Tue - Feb 6, 2018",20:15:00,Drug Related Incident (RA 9165),New Pandan (Pob.),Panabo City,Not Indicated,urban,9.03,436,265,1508,27
+531,125.79899999999999,7.4389199999999995,07/02/2018,"Wed - Feb 7, 2018",2:06:00,ROBBERY,Magugpo South,Tagum City,With Violence Against or Intimidation of Persons,urban,8.33,737,434,"2,476",46
+532,125.814,7.4444,07/02/2018,"Wed - Feb 7, 2018",13:00:00,THEFT,Magugpo East,Tagum City,Salisi (Establishment),urban,11.1,982,579,"3,297",61
+533,125.755,7.3794699999999995,06/02/2018,"Tue - Feb 6, 2018",2:00:00,THEFT,Bincungan,Tagum City,Salisi,rural,3.25,288,170,966,18
+534,125.807,7.4485399999999995,08/02/2018,"Thu - Feb 8, 2018",14:30:00,ROBBERY,Magugpo Poblacion,Tagum City,Cellphone Snatching,urban,2.43,215,127,723,13
+535,125.821,7.4172,10/02/2018,"Sat - Feb 10, 2018",1:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2024,1193,6798,126
+536,125.803,7.443460000000001,10/02/2018,"Sat - Feb 10, 2018",21:00:00,PHYSICAL INJURIES,Magugpo South,Tagum City,Strangulation,urban,8.33,737,434,"2,476",46
+537,125.818,7.45948,11/02/2018,"Sun - Feb 11, 2018",21:15:00,THEFT,Magugpo North,Tagum City,Salisi,urban,7.19,636,375,"2,136",40
+538,125.803,7.45355,12/02/2018,"Mon - Feb 12, 2018",4:40:00,ROBBERY,Magugpo West,Tagum City,Bag/Purse Snatching,urban,10.74,950,560,"3,192",59
+539,125.685,7.30917,27/01/2018,"Sat - Jan 27, 2018",22:45:00,RAPE (Art. 266-A RC & R.A.8353),Kasilak,Panabo City,Grave Abuse of Authority,urban,3.79,183,111,634,11
+540,125.79899999999999,7.460369999999999,11/02/2018,"Sun - Feb 11, 2018",21:30:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Mauling,urban,10.74,950,560,"3,192",59
+541,125.806,7.47443,13/02/2018,"Tue - Feb 13, 2018",3:10:00,THEFT,La Filipina,Tagum City,Salisi (Establishment),urban,11.84,"1,047",617,"3,517",65
+542,125.779,7.10204,09/02/2018,"Fri - Feb 9, 2018",21:00:00,RAPE (Art. 266-A RC & R.A.8353),Aumbay,Samal City,Deprived of Reason or Unconcious (Under the Influence of Liquior),rural,5.76,134,88,465,8
+543,125.803,7.433560000000001,13/02/2018,"Tue - Feb 13, 2018",4:30:00,ROBBERY,Visayan Village,Tagum City,Crowbar/Destroying Lock,urban,31.0,"2,742","1,616","9,210",171
+544,125.802,7.4332199999999995,13/02/2018,"Tue - Feb 13, 2018",10:30:00,THEFT,Visayan Village,Tagum City,Salisi (Establishment),urban,31.0,"2,742","1,616","9,210",171
+545,125.803,7.42973,13/02/2018,"Tue - Feb 13, 2018",18:10:00,Drug Related Incident (RA 9165),Visayan Village,Tagum City,Not Indicated,urban,31.0,"2,742","1,616","9,210",171
+546,125.803,7.4577100000000005,14/02/2018,"Wed - Feb 14, 2018",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+547,125.804,7.4482,14/02/2018,"Wed - Feb 14, 2018",12:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+548,125.804,7.43052,14/02/2018,"Wed - Feb 14, 2018",14:13:00,ROBBERY,Visayan Village,Tagum City,Crowbar/Destroying Lock,urban,31.0,"2,742","1,616","9,210",171
+549,125.77600000000001,7.46195,14/02/2018,"Wed - Feb 14, 2018",19:00:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,"2,652",1563,"8,905",165
+550,125.777,7.44429,14/02/2018,"Wed - Feb 14, 2018",16:40:00,MURDER,San Miguel (Camp 4),Tagum City,Shooting,urban,13.32,"1,178",694,3958,73
+551,125.73100000000001,6.971030000000001,14/02/2018,"Wed - Feb 14, 2018",18:30:00,PHYSICAL INJURIES,Poblacion (Kaputian),Samal City,Hitting With Hard Object,rural,11.38,264,173,919,16
+552,125.734,6.9721,14/02/2018,"Wed - Feb 14, 2018",14:00:00,RAPE (Art. 266-A RC & R.A.8353),Poblacion (Kaputian),Samal City,"Force, Threat and Intimidation",rural,11.38,264,173,919,16
+553,125.586,7.39332,16/02/2018,"Fri - Feb 16, 2018",19:44:00,THEFT,A. O. Floirendo,Panabo City,Qualified Theft,urban,6.6,318,193,1102,20
+554,125.775,7.46535,15/02/2018,"Thu - Feb 15, 2018",17:39:00,MURDER,Mankilam,Tagum City,Shooting,urban,29.97,"2,652",1563,"8,905",165
+555,125.815,7.45295,16/02/2018,"Fri - Feb 16, 2018",13:15:00,MURDER,Magdum,Tagum City,Shooting,urban,7.86,695,410,"2,335",43
+556,125.792,7.45073,17/02/2018,"Sat - Feb 17, 2018",3:10:00,MURDER,Mankilam,Tagum City,Shooting,urban,29.97,"2,652",1563,"8,905",165
+557,125.81200000000001,7.44935,17/02/2018,"Sat - Feb 17, 2018",3:00:00,ROBBERY,Magugpo East,Tagum City,Breaking and Entering,urban,11.1,982,579,"3,297",61
+558,125.699,7.30858,17/02/2018,"Sat - Feb 17, 2018",10:05:00,Drug Related Incident (RA 9165),San Vicente,Panabo City,Not Indicated,urban,19.66,949,576,3284,59
+559,125.681,7.2993,17/02/2018,"Sat - Feb 17, 2018",20:30:00,PHYSICAL INJURIES,New Pandan (Pob.),Panabo City,Stabbing/Hacking,urban,9.03,436,265,1508,27
+560,125.586,7.31049,17/02/2018,"Sat - Feb 17, 2018",22:00:00,MURDER,Kauswagan,Panabo City,Stabbing/Hacking,rural,1.93,93,57,323,6
+561,125.809,7.448010000000001,12/02/2018,"Mon - Feb 12, 2018",2:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+562,125.81200000000001,7.449560000000001,18/02/2018,"Sun - Feb 18, 2018",11:50:00,THEFT,Magugpo East,Tagum City,Shoplifting,urban,11.1,982,579,"3,297",61
+563,125.79799999999999,7.44888,19/02/2018,"Mon - Feb 19, 2018",4:00:00,ROBBERY,Magugpo South,Tagum City,Crowbar/Destroying Lock,urban,8.33,737,434,"2,476",46
+564,125.81200000000001,7.449439999999999,19/02/2018,"Mon - Feb 19, 2018",17:25:00,THEFT,Magugpo East,Tagum City,Salisi,urban,11.1,982,579,"3,297",61
+565,125.794,7.387810000000001,20/02/2018,"Tue - Feb 20, 2018",8:00:00,MURDER,San Isidro,Tagum City,Shooting,rural,3.69,326,192,1096,20
+566,125.62200000000001,7.31181,20/02/2018,"Tue - Feb 20, 2018",5:45:00,PHYSICAL INJURIES,Katipunan,Panabo City,Hacking,rural,2.5,121,73,417,7
+567,125.815,7.39213,20/02/2018,"Tue - Feb 20, 2018",4:00:00,ROBBERY,Madaum,Tagum City,Breaking and Entering,urban,8.25,730,430,2450,45
+568,125.803,7.42937,20/02/2018,"Tue - Feb 20, 2018",10:00:00,THEFT,Visayan Village,Tagum City,Salisi (Akyat Bahay),urban,31.0,"2,742","1,616","9,210",171
+569,125.821,7.436160000000001,20/02/2018,"Tue - Feb 20, 2018",11:00:00,THEFT,Apokon,Tagum City,Salisi (Establishment),urban,22.88,2024,1193,6798,126
+570,125.68299999999999,7.301089999999999,21/02/2018,"Wed - Feb 21, 2018",7:30:00,ROBBERY,New Pandan (Pob.),Panabo City,In an Uninhabited Place or in a Private Building,urban,9.03,436,265,1508,27
+571,125.822,7.418539999999999,21/02/2018,"Wed - Feb 21, 2018",15:30:00,THEFT,Apokon,Tagum City,Salisi (Establishment),urban,22.88,2024,1193,6798,126
+572,125.816,7.450419999999999,22/02/2018,"Thu - Feb 22, 2018",3:00:00,ROBBERY,Magugpo East,Tagum City,Cellphone Snatching,urban,11.1,982,579,"3,297",61
+573,125.78,7.45305,20/02/2018,"Tue - Feb 20, 2018",6:01:00,RAPE (Art. 266-A RC & R.A.8353),Visayan Village,Tagum City,"Force, Threat and Intimidation",urban,31.0,"2,742","1,616","9,210",171
+574,125.78,7.45305,14/02/2018,"Wed - Feb 14, 2018",7:30:00,RAPE (Art. 266-A RC & R.A.8353),Magugpo East,Tagum City,"Force, Threat and Intimidation",urban,11.1,982,579,"3,297",61
+575,125.69200000000001,7.3186,20/02/2018,"Tue - Feb 20, 2018",18:00:00,RAPE (Art. 266-A RC & R.A.8353),Salvacion,Panabo City,Grave Abuse of Authority,urban,12.95,625,380,2164,39
+576,125.675,7.31763,22/02/2018,"Thu - Feb 22, 2018",13:30:00,Drug Related Incident (RA 9165),San Francisco (Pob.),Panabo City,Not Indicated,urban,17.46,843,512,"2,917",52
+577,125.77,7.0033199999999995,22/02/2018,"Thu - Feb 22, 2018",10:37:00,Drug Related Incident (RA 9165),Tagbaobo,Samal City,Not Indicated,rural,6.23,144,95,503,9
+578,125.73700000000001,7.041060000000001,23/02/2018,"Fri - Feb 23, 2018",17:30:00,Vehicular Traffic Accident,Del Monte,Samal City,Not Indicated,rural,5.47,127,83,442,8
+579,125.78,7.45305,23/02/2018,"Fri - Feb 23, 2018",23:30:00,Vehicular Traffic Accident,Magdum,Tagum City,Not Indicated,urban,7.86,695,410,"2,335",43
+580,125.684,7.123589999999999,25/02/2018,"Sun - Feb 25, 2018",0:00:00,PHYSICAL INJURIES,Kinawitnon,Samal City,Stabbing/Hacking,rural,5.64,131,86,455,8
+581,125.804,7.43392,25/02/2018,"Sun - Feb 25, 2018",16:55:00,Drug Related Incident (RA 9165),Visayan Village,Tagum City,Not Indicated,urban,31.0,"2,742","1,616","9,210",171
+582,125.77600000000001,7.4626,26/02/2018,"Mon - Feb 26, 2018",8:04:00,MURDER,Mankilam,Tagum City,Shooting,urban,29.97,"2,652",1563,"8,905",165
+583,125.714,7.14416,26/02/2018,"Mon - Feb 26, 2018",16:00:00,ROBBERY,Cogon,Samal City, in an Uninhabited Place and by a Band,rural,8.38,194,128,677,12
+584,125.67399999999999,7.1201,14/02/2018,"Wed - Feb 14, 2018",1:30:00,PHYSICAL INJURIES,Kinawitnon,Samal City,Mauling,rural,5.64,131,86,455,8
+585,125.773,7.4431,28/02/2018,"Wed - Feb 28, 2018",2:15:00,Drug Related Incident (RA 9165),San Miguel (Camp 4),Tagum City,Not Indicated,urban,13.32,"1,178",694,3958,73
+586,125.801,7.477539999999999,28/02/2018,"Wed - Feb 28, 2018",21:00:00,PHYSICAL INJURIES,La Filipina,Tagum City,Shooting,urban,11.84,"1,047",617,"3,517",65
+587,125.73299999999999,7.050510000000001,27/02/2018,"Tue - Feb 27, 2018",21:00:00,RAPE (Art. 266-A RC & R.A.8353),Balet,Samal City,"Force, Threat and Intimidation",rural,8.25,191,126,666,12
+588,125.71,7.0778,08/02/2018,"Thu - Feb 8, 2018",3:00:00,PHYSICAL INJURIES,Peñaplata (Pob.),Samal City,Stabbing/Hacking,urban,17.42,404,265,1406,25
+589,125.81700000000001,7.392639999999999,02/03/2018,"Fri - Mar 2, 2018",20:00:00,PHYSICAL INJURIES,Madaum,Tagum City,Shooting,urban,8.25,730,430,2450,45
+590,125.81200000000001,7.448919999999999,02/03/2018,"Fri - Mar 2, 2018",18:15:00,THEFT,Magugpo Poblacion,Tagum City,Plain Theft,urban,2.43,215,127,723,13
+591,125.80799999999999,7.449089999999999,03/03/2018,"Sat - Mar 3, 2018",15:05:00,THEFT,Magugpo Poblacion,Tagum City,Plain Theft,urban,2.43,215,127,723,13
+592,125.682,7.3000300000000005,03/03/2018,"Sat - Mar 3, 2018",20:15:00,Drug Related Incident (RA 9165),New Pandan (Pob.),Panabo City,Not Indicated,urban,9.03,436,265,1508,27
+593,125.70200000000001,7.301880000000001,04/03/2018,"Sun - Mar 4, 2018",3:00:00,ROBBERY,San Vicente,Panabo City,Destroying Window,urban,19.66,949,576,3284,59
+594,125.801,7.42888,03/03/2018,"Sat - Mar 3, 2018",18:00:00,ROBBERY,Visayan Village,Tagum City,Akyat Bahay,urban,31.0,"2,742","1,616","9,210",171
+595,125.705,7.32215,04/03/2018,"Sun - Mar 4, 2018",14:00:00,PHYSICAL INJURIES,San Vicente,Panabo City,Hacking,urban,19.66,949,576,3284,59
+596,125.806,7.45858,05/03/2018,"Mon - Mar 5, 2018",18:20:00,THEFT,Magugpo West,Tagum City,Bag Snatching,urban,10.74,950,560,"3,192",59
+597,125.806,7.44827,05/03/2018,"Mon - Mar 5, 2018",20:00:00,THEFT,Magugpo Poblacion,Tagum City,Qualified Theft,urban,2.43,215,127,723,13
+598,125.806,7.44875,06/03/2018,"Tue - Mar 6, 2018",9:40:00,MURDER,Magugpo Poblacion,Tagum City,Shooting,urban,2.43,215,127,723,13
+599,125.819,7.4335,06/03/2018,"Tue - Mar 6, 2018",16:15:00,PHYSICAL INJURIES,Apokon,Tagum City,Shooting,urban,22.88,2024,1193,6798,126
+600,125.685,7.3034,04/03/2018,"Sun - Mar 4, 2018",17:00:00,ROBBERY,Santo Niño (Pob.),Panabo City, in an Uninhabited Place and by a Band,urban,5.89,284,173,985,18
+601,125.807,7.4489,06/03/2018,"Tue - Mar 6, 2018",16:35:00,THEFT,Magugpo Poblacion,Tagum City,Shoplifting,urban,2.43,215,127,723,13
+602,125.819,7.43637,01/03/2018,"Thu - Mar 1, 2018",17:20:00,Drug Related Incident (RA 9165),Apokon,Tagum City,Not Indicated,urban,22.88,2024,1193,6798,126
+603,125.705,7.076980000000001,07/03/2018,"Wed - Mar 7, 2018",22:30:00,THEFT,Peñaplata (Pob.),Samal City,Pick-Pocketing,urban,17.42,404,265,1406,25
+604,125.749,7.125210000000001,09/03/2018,"Fri - Mar 9, 2018",0:00:00,PHYSICAL INJURIES,San Antonio,Samal City,Stabbing/Hacking,rural,5.99,139,91,484,9
+605,125.749,7.125889999999999,09/03/2018,"Fri - Mar 9, 2018",0:00:00,HOMICIDE,San Antonio,Samal City,Stabbing/Hacking,rural,5.99,139,91,484,9
+606,125.823,7.42105,07/03/2018,"Wed - Mar 7, 2018",17:00:00,RAPE (Art. 266-A RC & R.A.8353),Apokon,Tagum City,"Force, Threat and Intimidation",urban,22.88,2024,1193,6798,126
+607,125.73700000000001,7.0418199999999995,09/03/2018,"Fri - Mar 9, 2018",18:00:00,RAPE (Art. 266-A RC & R.A.8353),Del Monte,Samal City,"Force, Threat and Intimidation",rural,5.47,127,83,442,8
+608,125.804,7.461119999999999,09/03/2018,"Fri - Mar 9, 2018",20:30:00,Drug Related Incident (RA 9165),Apokon,Tagum City,Not Indicated,urban,22.88,2024,1193,6798,126
+609,125.803,7.43405,09/03/2018,"Fri - Mar 9, 2018",19:01:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,"2,742","1,616","9,210",171
+610,125.67299999999999,7.283639999999999,11/03/2018,"Sun - Mar 11, 2018",1:00:00,MURDER,J.P. Laurel,Panabo City,Shooting,urban,8.93,431,262,"1,491",27
+611,125.77799999999999,6.940869999999999,10/03/2018,"Sat - Mar 10, 2018",17:50:00,PHYSICAL INJURIES,Pangubatan (Talicod I),Samal City,Hitting With Hard Object,rural,3.96,92,60,319,6
+612,125.807,7.43663,10/03/2018,"Sat - Mar 10, 2018",13:30:00,ROBBERY,Visayan Village,Tagum City,Bag/Purse Snatching,urban,31.0,"2,742","1,616","9,210",171
+613,125.80799999999999,7.44809,11/03/2018,"Sun - Mar 11, 2018",9:10:00,MURDER,Magugpo Poblacion,Tagum City,Shooting,urban,2.43,215,127,723,13
+614,125.656,7.31035,11/03/2018,"Sun - Mar 11, 2018",2:30:00,ROBBERY,New Visayas,Panabo City,Agaw-Armas,urban,22.54,"1,088",661,"3,766",68
+615,125.809,7.4375800000000005,11/03/2018,"Sun - Mar 11, 2018",19:30:00,THEFT,Visayan Village,Tagum City,Bag Snatching,urban,31.0,"2,742","1,616","9,210",171
+616,125.824,7.4316,12/03/2018,"Mon - Mar 12, 2018",7:10:00,MURDER,Apokon,Tagum City,Shooting,urban,22.88,2024,1193,6798,126
+617,125.814,7.45167,12/03/2018,"Mon - Mar 12, 2018",17:30:00,THEFT,Magugpo East,Tagum City,Salisi (Establishment),urban,11.1,982,579,"3,297",61
+618,125.79899999999999,7.41926,12/03/2018,"Mon - Mar 12, 2018",20:00:00,ROBBERY,Visayan Village,Tagum City,Destroying Window,urban,31.0,"2,742","1,616","9,210",171
+619,125.774,7.44373,12/03/2018,"Mon - Mar 12, 2018",22:30:00,ROBBERY,San Miguel (Camp 4),Tagum City,With Violence Against or Intimidation of Persons,urban,13.32,"1,178",694,3958,73
+620,125.796,7.42926,13/03/2018,"Tue - Mar 13, 2018",2:00:00,THEFT,Visayan Village,Tagum City,Salisi (Establishment),urban,31.0,"2,742","1,616","9,210",171
+621,125.79899999999999,7.46133,14/03/2018,"Wed - Mar 14, 2018",18:00:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Hitting With Hard Object,urban,10.74,950,560,"3,192",59
+622,125.8,7.459969999999999,15/03/2018,"Thu - Mar 15, 2018",0:00:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Mauling,urban,10.74,950,560,"3,192",59
+623,125.69200000000001,7.13537,13/03/2018,"Tue - Mar 13, 2018",22:22:00,THEFT,Miranda (Pob.),Samal City,Not Indicated,urban,20.32,471,310,1641,29
+624,125.78399999999999,7.456410000000001,16/03/2018,"Fri - Mar 16, 2018",8:40:00,MURDER,Mankilam,Tagum City,Shooting,urban,29.97,"2,652",1563,"8,905",165
+625,125.80799999999999,7.4451600000000004,16/03/2018,"Fri - Mar 16, 2018",17:45:00,THEFT,Visayan Village,Tagum City,Shoplifting,urban,31.0,"2,742","1,616","9,210",171
+626,125.772,7.39841,16/03/2018,"Fri - Mar 16, 2018",22:40:00,Drug Related Incident (RA 9165),San Isidro,Tagum City,Not Indicated,rural,3.69,326,192,1096,20
+627,125.772,7.39843,17/03/2018,"Sat - Mar 17, 2018",1:30:00,Drug Related Incident (RA 9165),San Isidro,Tagum City,Not Indicated,rural,3.69,326,192,1096,20
+628,125.802,7.4592,18/03/2018,"Sun - Mar 18, 2018",4:00:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Hacking,urban,10.74,950,560,"3,192",59
+629,125.678,7.31658,20/03/2018,"Tue - Mar 20, 2018",18:40:00,Drug Related Incident (RA 9165),San Francisco (Pob.),Panabo City,Not Indicated,urban,17.46,843,512,"2,917",52
+630,125.772,7.441730000000001,21/03/2018,"Wed - Mar 21, 2018",2:20:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,"1,178",694,3958,73
+631,125.79899999999999,7.435389999999999,20/03/2018,"Tue - Mar 20, 2018",23:15:00,Drug Related Incident (RA 9165),Visayan Village,Tagum City,Not Indicated,urban,31.0,"2,742","1,616","9,210",171
+632,125.79799999999999,7.43573,20/03/2018,"Tue - Mar 20, 2018",21:47:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Shooting,urban,31.0,"2,742","1,616","9,210",171
+633,125.648,7.29025,19/03/2018,"Mon - Mar 19, 2018",23:00:00,RAPE (Art. 266-A RC & R.A.8353),Maduao,Panabo City,Gang/Party,rural,4.24,204,124,708,13
+634,125.773,7.46782,20/03/2018,"Tue - Mar 20, 2018",22:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,"2,652",1563,"8,905",165
+635,125.59,7.305619999999999,22/03/2018,"Thu - Mar 22, 2018",8:15:00,Drug Related Incident (RA 9165),Kauswagan,Panabo City,Not Indicated,rural,1.93,93,57,323,6
+636,125.80799999999999,7.45863,23/03/2018,"Fri - Mar 23, 2018",20:30:00,ROBBERY,Magugpo West,Tagum City,With Violence Against or Intimidation of Persons,urban,10.74,950,560,"3,192",59
+637,125.78,7.392010000000001,23/03/2018,"Fri - Mar 23, 2018",23:00:00,Drug Related Incident (RA 9165),San Isidro,Tagum City,Not Indicated,rural,3.69,326,192,1096,20
+638,125.77799999999999,7.44469,24/03/2018,"Sat - Mar 24, 2018",12:00:00,Drug Related Incident (RA 9165),San Miguel (Camp 4),Tagum City,Not Indicated,urban,13.32,"1,178",694,3958,73
+639,125.67299999999999,7.2854600000000005,25/03/2018,"Sun - Mar 25, 2018",21:30:00,THEFT,J.P. Laurel,Panabo City,Pick-Pocketing,urban,8.93,431,262,"1,491",27
+640,125.796,7.49867,25/03/2018,"Sun - Mar 25, 2018",22:00:00,Vehicular Traffic Accident,Cuambogan,Tagum City,Not Indicated,urban,8.16,722,426,"2,425",45
+641,125.775,7.44367,25/03/2018,"Sun - Mar 25, 2018",18:04:00,MURDER,San Miguel (Camp 4),Tagum City,Shooting,urban,13.32,"1,178",694,3958,73
+642,125.804,7.44683,26/03/2018,"Mon - Mar 26, 2018",2:30:00,THEFT,Magugpo Poblacion,Tagum City,Snatching,urban,2.43,215,127,723,13
+643,125.779,7.4609,26/03/2018,"Mon - Mar 26, 2018",7:00:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,"2,652",1563,"8,905",165
+644,125.649,7.3175,27/03/2018,"Tue - Mar 27, 2018",14:40:00,THEFT,Datu Abdul Dadia,Panabo City,Plain Theft,urban,7.88,380,231,1317,24
+645,125.76,7.37645,27/03/2018,"Tue - Mar 27, 2018",22:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Bincungan,Tagum City,Swpu (Stolen While Parked),rural,3.25,288,170,966,18
+646,125.68700000000001,7.3046,28/03/2018,"Wed - Mar 28, 2018",18:50:00,Drug Related Incident (RA 9165),Santo Niño (Pob.),Panabo City,Not Indicated,urban,5.89,284,173,985,18
+647,125.68,7.3,31/03/2018,"Sat - Mar 31, 2018",5:30:00,ROBBERY,Gredu (Pob.),Panabo City,Breaking and Entering,urban,22.51,"1,086",660,3760,68
+648,125.588,7.32935,31/03/2018,"Sat - Mar 31, 2018",16:50:00,HOMICIDE,Kasilak,Panabo City,Stabbing/Hacking,urban,3.79,183,111,634,11
+649,125.711,7.071510000000001,01/04/2018,"Sun - Apr 1, 2018",14:05:00,PHYSICAL INJURIES,Peñaplata (Pob.),Samal City,Stabbing/Hacking,urban,17.42,404,265,1406,25
+650,125.795,7.477410000000001,02/04/2018,"Mon - Apr 2, 2018",3:30:00,MURDER,La Filipina,Tagum City,Shooting,urban,11.84,"1,047",617,"3,517",65
+651,125.79299999999999,7.499689999999999,02/04/2018,"Mon - Apr 2, 2018",8:30:00,MURDER,Cuambogan,Tagum City,Shooting,urban,8.16,722,426,"2,425",45
+652,125.823,7.425330000000001,02/04/2018,"Mon - Apr 2, 2018",11:15:00,PHYSICAL INJURIES,Apokon,Tagum City,Shooting,urban,22.88,2024,1193,6798,126
+653,125.772,7.44448,02/04/2018,"Mon - Apr 2, 2018",19:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,"1,178",694,3958,73
+654,125.74600000000001,7.00749,19/03/2018,"Mon - Mar 19, 2018",10:00:00,RAPE (Art. 266-A RC & R.A.8353),Anonang,Samal City,"Force, Threat and Intimidation",rural,7.12,165,108,575,10
+655,125.76700000000001,7.440010000000001,03/04/2018,"Tue - Apr 3, 2018",20:49:00,MURDER,San Miguel (Camp 4),Tagum City,Clubbing,urban,13.32,"1,178",694,3958,73
+656,125.781,7.46175,04/04/2018,"Wed - Apr 4, 2018",8:20:00,ROBBERY,Mankilam,Tagum City,Cellphone Snatching,urban,29.97,"2,652",1563,"8,905",165
+657,125.774,7.44331,05/04/2018,"Thu - Apr 5, 2018",0:45:00,ROBBERY,San Miguel (Camp 4),Tagum City,Hold-Up W/ Gun,urban,13.32,"1,178",694,3958,73
+658,125.76,7.377489999999999,04/04/2018,"Wed - Apr 4, 2018",9:11:00,MURDER,Bincungan,Tagum City,Stabbing/Hacking,rural,3.25,288,170,966,18
+659,125.758,7.47365,05/04/2018,"Thu - Apr 5, 2018",3:00:00,ROBBERY,Pagsabangan,Tagum City,Hold-Up W/ Gun,rural,4.04,357,211,1200,22
+660,125.786,7.49945,05/04/2018,"Thu - Apr 5, 2018",18:40:00,MURDER,Cuambogan,Tagum City,Shooting,urban,8.16,722,426,"2,425",45
+661,125.79700000000001,7.4469899999999996,05/04/2018,"Thu - Apr 5, 2018",23:00:00,ROBBERY,Magugpo South,Tagum City,Breaking and Entering,urban,8.33,737,434,"2,476",46
+662,125.611,7.40207,06/04/2018,"Fri - Apr 6, 2018",15:10:00,THEFT,A. O. Floirendo,Panabo City,Plain Theft,urban,6.6,318,193,1102,20
+663,125.556,7.25335,06/04/2018,"Fri - Apr 6, 2018",16:25:00,HOMICIDE,Santa Cruz,Panabo City,Stabbing/Hacking,rural,1.66,80,49,278,5
+664,125.686,7.306,07/04/2018,"Sat - Apr 7, 2018",17:30:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,284,173,985,18
+665,125.68,7.3007800000000005,07/04/2018,"Sat - Apr 7, 2018",19:43:00,MURDER,Gredu (Pob.),Panabo City,Shooting,urban,22.51,"1,086",660,3760,68
+666,125.79899999999999,7.44682,06/04/2018,"Fri - Apr 6, 2018",0:00:00,ROBBERY,Nueva Fuerza,Tagum City,Hold-Up W/ Gun,rural,1.5,133,78,446,8
+667,125.79799999999999,7.423710000000001,06/04/2018,"Fri - Apr 6, 2018",19:20:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,"2,742","1,616","9,210",171
+668,125.803,7.45914,07/04/2018,"Sat - Apr 7, 2018",21:00:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+669,125.771,7.37907,08/04/2018,"Sun - Apr 8, 2018",3:19:00,PHYSICAL INJURIES,Madaum,Tagum City,Shooting,urban,8.25,730,430,2450,45
+670,125.80799999999999,7.418880000000001,08/04/2018,"Sun - Apr 8, 2018",3:00:00,THEFT,Canocotan,Tagum City,Plain Theft,urban,6.26,554,326,1859,34
+671,125.819,7.43697,09/04/2018,"Mon - Apr 9, 2018",9:25:00,MURDER,Apokon,Tagum City,Shooting,urban,22.88,2024,1193,6798,126
+672,125.823,7.45631,10/04/2018,"Tue - Apr 10, 2018",4:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,982,579,"3,297",61
+673,125.78,7.461239999999999,09/04/2018,"Mon - Apr 9, 2018",13:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,"2,652",1563,"8,905",165
+674,125.796,7.4336899999999995,08/04/2018,"Sun - Apr 8, 2018",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,"2,742","1,616","9,210",171
+675,125.682,7.300610000000001,10/04/2018,"Tue - Apr 10, 2018",16:40:00,Drug Related Incident (RA 9165),New Pandan (Pob.),Panabo City,Not Indicated,urban,9.03,436,265,1508,27
+676,125.679,7.121630000000001,11/04/2018,"Wed - Apr 11, 2018",7:15:00,THEFT,Kinawitnon,Samal City,Salisi (Cellphone),rural,5.64,131,86,455,8
+677,125.76700000000001,7.40607,06/04/2018,"Fri - Apr 6, 2018",10:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Canocotan,Tagum City,Swpu (Stolen While Parked),urban,6.26,554,326,1859,34
+678,125.802,7.45178,12/04/2018,"Thu - Apr 12, 2018",9:30:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+679,125.80799999999999,7.38007,12/04/2018,"Thu - Apr 12, 2018",20:45:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+680,125.802,7.44552,13/04/2018,"Fri - Apr 13, 2018",1:55:00,MURDER,Magugpo South,Tagum City,Shooting,urban,8.33,737,434,"2,476",46
+681,125.67200000000001,7.30605,13/04/2018,"Fri - Apr 13, 2018",16:00:00,PHYSICAL INJURIES,New Visayas,Panabo City,Mauling,urban,22.54,"1,088",661,"3,766",68
+682,125.649,7.27893,14/04/2018,"Sat - Apr 14, 2018",20:00:00,MURDER,Upper Licanan,Panabo City,Shooting,rural,2.16,104,63,361,6
+683,125.79299999999999,7.500030000000001,15/04/2018,"Sun - Apr 15, 2018",2:00:00,ROBBERY,Cuambogan,Tagum City,With Violence Against or Intimidation of Persons,urban,8.16,722,426,"2,425",45
+684,125.79899999999999,7.385339999999999,14/04/2018,"Sat - Apr 14, 2018",13:43:00,MURDER,Madaum,Tagum City,Shooting,urban,8.25,730,430,2450,45
+685,125.814,7.451569999999999,14/04/2018,"Sat - Apr 14, 2018",16:50:00,THEFT,Magugpo East,Tagum City,Shoplifting,urban,11.1,982,579,"3,297",61
+686,125.809,7.37892,16/04/2018,"Mon - Apr 16, 2018",20:55:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+687,125.751,7.09318,15/04/2018,"Sun - Apr 15, 2018",16:00:00,PHYSICAL INJURIES,Tagbitan-Ag,Samal City,Shooting,rural,6.24,145,95,504,9
+688,125.681,7.30036,17/04/2018,"Tue - Apr 17, 2018",11:15:00,PHYSICAL INJURIES,New Pandan (Pob.),Panabo City,Shooting,urban,9.03,436,265,1508,27
+689,125.689,7.3178399999999995,03/04/2018,"Tue - Apr 3, 2018",12:00:00,RAPE (Art. 266-A RC & R.A.8353),Salvacion,Panabo City,"Force, Threat and Intimidation",urban,12.95,625,380,2164,39
+690,125.805,7.44727,15/04/2018,"Sun - Apr 15, 2018",3:00:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Mauling,urban,2.43,215,127,723,13
+691,125.816,7.45535,17/04/2018,"Tue - Apr 17, 2018",9:43:00,THEFT,Magugpo North,Tagum City,Salisi,urban,7.19,636,375,"2,136",40
+692,125.68299999999999,7.3090399999999995,19/04/2018,"Thu - Apr 19, 2018",3:30:00,MURDER,San Francisco (Pob.),Panabo City,Stabbing/Hacking,urban,17.46,843,512,"2,917",52
+693,125.714,7.0783,18/04/2018,"Wed - Apr 18, 2018",9:00:00,THEFT,Peñaplata (Pob.),Samal City,Salisi (Others),urban,17.42,404,265,1406,25
+694,125.814,7.4455,19/04/2018,"Thu - Apr 19, 2018",2:35:00,ROBBERY,Apokon,Tagum City,Breaking and Entering,urban,22.88,2024,1193,6798,126
+695,125.79799999999999,7.46024,19/04/2018,"Thu - Apr 19, 2018",4:27:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+696,125.823,7.4358,19/04/2018,"Thu - Apr 19, 2018",16:50:00,Drug Related Incident (RA 9165),Magugpo West,Tagum City,Not Indicated,urban,10.74,950,560,"3,192",59
+697,125.625,7.27597,19/04/2018,"Thu - Apr 19, 2018",10:00:00,THEFT,Upper Licanan,Panabo City,Plain Theft,rural,2.16,104,63,361,6
+698,125.822,7.43465,20/04/2018,"Fri - Apr 20, 2018",9:00:00,THEFT,Apokon,Tagum City,Salisi,urban,22.88,2024,1193,6798,126
+699,125.76799999999999,7.0049399999999995,20/04/2018,"Fri - Apr 20, 2018",18:00:00,RAPE (Art. 266-A RC & R.A.8353),Tagbaobo,Samal City,Deprived of Reason or Unconcious (Under the Influence of Liquior),rural,6.23,144,95,503,9
+700,125.79700000000001,7.43469,20/04/2018,"Fri - Apr 20, 2018",15:54:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,"2,742","1,616","9,210",171
+701,125.791,7.4199399999999995,22/04/2018,"Sun - Apr 22, 2018",13:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,982,579,"3,297",61
+702,125.699,7.162000000000001,20/04/2018,"Fri - Apr 20, 2018",10:00:00,THEFT,Tambo,Samal City,Qualified Theft,rural,12.49,289,190,1008,18
+703,125.583,7.39668,22/04/2018,"Sun - Apr 22, 2018",10:45:00,THEFT,A. O. Floirendo,Panabo City,Qualified Theft,urban,6.6,318,193,1102,20
+704,125.773,7.4676100000000005,23/04/2018,"Mon - Apr 23, 2018",4:20:00,PHYSICAL INJURIES,Mankilam,Tagum City,Shooting,urban,29.97,"2,652",1563,"8,905",165
+705,125.59,7.347989999999999,22/04/2018,"Sun - Apr 22, 2018",18:30:00,MURDER,New Malaga (Dalisay),Panabo City,Stabbing/Hacking,rural,2.5,120,73,417,7
+706,125.775,7.46373,23/04/2018,"Mon - Apr 23, 2018",3:20:00,THEFT,Mankilam,Tagum City,Salisi (Others),urban,29.97,"2,652",1563,"8,905",165
+707,125.66799999999999,7.307980000000001,22/04/2018,"Sun - Apr 22, 2018",21:00:00,MURDER,New Visayas,Panabo City,Stabbing/Hacking,urban,22.54,"1,088",661,"3,766",68
+708,125.84700000000001,7.475789999999999,18/04/2018,"Wed - Apr 18, 2018",12:00:00,RAPE (Art. 266-A RC & R.A.8353),Magdum,Tagum City,"Force, Threat and Intimidation",urban,7.86,695,410,"2,335",43
+709,125.792,7.45384,23/04/2018,"Mon - Apr 23, 2018",21:00:00,ROBBERY,Mankilam,Tagum City,Akyat Bahay,urban,29.97,"2,652",1563,"8,905",165
+710,125.80799999999999,7.3796800000000005,24/04/2018,"Tue - Apr 24, 2018",13:30:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+711,125.68299999999999,7.30047,24/04/2018,"Tue - Apr 24, 2018",16:50:00,THEFT,New Pandan (Pob.),Panabo City,Salisi (Others),urban,9.03,436,265,1508,27
+712,125.698,7.18355,24/04/2018,"Tue - Apr 24, 2018",10:20:00,THEFT,Camudmud,Samal City,Salisi (Others),rural,7.33,170,112,591,11
+713,125.801,7.4341800000000005,25/04/2018,"Wed - Apr 25, 2018",21:05:00,Drug Related Incident (RA 9165),Visayan Village,Tagum City,Not Indicated,urban,31.0,"2,742","1,616","9,210",171
+714,125.714,7.077939999999999,26/04/2018,"Thu - Apr 26, 2018",12:10:00,Vehicular Traffic Accident,Peñaplata (Pob.),Samal City,Not Indicated,urban,17.42,404,265,1406,25
+715,125.70100000000001,7.07747,27/04/2018,"Fri - Apr 27, 2018",0:10:00,THEFT,San Miguel (Magamono),Samal City,Salisi (Akyat Bahay),rural,4.7,109,72,379,7
+716,125.586,7.310110000000001,26/04/2018,"Thu - Apr 26, 2018",17:00:00,PHYSICAL INJURIES,Kauswagan,Panabo City,Stabbing/Hacking,rural,1.93,93,57,323,6
+717,125.779,6.96668,29/04/2018,"Sun - Apr 29, 2018",0:22:00,THEFT,Kanaan,Samal City,Salisi (Others),rural,4.14,96,63,334,6
+718,125.82700000000001,7.4215800000000005,28/04/2018,"Sat - Apr 28, 2018",2:30:00,THEFT,Apokon,Tagum City,Salisi,urban,22.88,2024,1193,6798,126
+719,125.794,7.504160000000001,28/04/2018,"Sat - Apr 28, 2018",20:00:00,PHYSICAL INJURIES,Nueva Fuerza,Tagum City,Hacking,rural,1.5,133,78,446,8
+720,125.818,7.45982,29/04/2018,"Sun - Apr 29, 2018",0:50:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo North,Tagum City,Swpu (Stolen While Parked),urban,7.19,636,375,"2,136",40
+721,125.68299999999999,7.3101899999999995,01/05/2018,"Tue - May 1, 2018",22:00:00,Drug Related Incident (RA 9165),San Francisco (Pob.),Panabo City,Not Indicated,urban,17.46,843,512,"2,917",52
+722,125.794,7.4913300000000005,01/05/2018,"Tue - May 1, 2018",3:30:00,PHYSICAL INJURIES,Cuambogan,Tagum City,Stabbing/Hacking,urban,8.16,722,426,"2,425",45
+723,125.8,7.4608,02/05/2018,"Wed - May 2, 2018",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+724,125.824,7.42703,02/05/2018,"Wed - May 2, 2018",23:35:00,Drug Related Incident (RA 9165),Apokon,Tagum City,Not Indicated,urban,22.88,2024,1193,6798,126
+725,125.824,7.4508600000000005,03/05/2018,"Thu - May 3, 2018",4:15:00,THEFT,Magugpo East,Tagum City,Salisi (Establishment),urban,11.1,982,579,"3,297",61
+726,125.802,7.44718,03/05/2018,"Thu - May 3, 2018",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+727,125.792,7.42639,03/05/2018,"Thu - May 3, 2018",13:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+728,125.689,7.137980000000001,05/05/2018,"Sat - May 5, 2018",7:55:00,THEFT,Miranda (Pob.),Samal City,Salisi (Cellphone),urban,20.32,471,310,1641,29
+729,125.74600000000001,7.1607199999999995,05/05/2018,"Sat - May 5, 2018",13:05:00,THEFT,Balet,Samal City,Salisi (Others),rural,8.25,191,126,666,12
+730,125.818,7.37392,05/05/2018,"Sat - May 5, 2018",5:20:00,ROBBERY,Madaum,Tagum City,Breaking and Entering,urban,8.25,730,430,2450,45
+731,125.801,7.452780000000001,06/05/2018,"Sun - May 6, 2018",15:00:00,THEFT,Magugpo Poblacion,Tagum City,Pick-Pocketing,urban,2.43,215,127,723,13
+732,125.796,7.4586,07/05/2018,"Mon - May 7, 2018",3:00:00,THEFT,Magugpo West,Tagum City,Salisi (Akyat Bahay),urban,10.74,950,560,"3,192",59
+733,125.804,7.43354,07/05/2018,"Mon - May 7, 2018",4:00:00,THEFT,Visayan Village,Tagum City,Salisi (Akyat Bahay),urban,31.0,"2,742","1,616","9,210",171
+734,125.805,7.4759899999999995,02/05/2018,"Wed - May 2, 2018",17:00:00,RAPE (Art. 266-A RC & R.A.8353),La Filipina,Tagum City,"Force, Threat and Intimidation",urban,11.84,"1,047",617,"3,517",65
+735,125.805,7.4485600000000005,07/05/2018,"Mon - May 7, 2018",20:30:00,THEFT,Magugpo Poblacion,Tagum City,Pick-Pocketing,urban,2.43,215,127,723,13
+736,125.803,7.448060000000001,07/05/2018,"Mon - May 7, 2018",21:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+737,125.669,7.113519999999999,07/05/2018,"Mon - May 7, 2018",1:00:00,Drug Related Incident (RA 9165),Caliclic (Dangca-An),Samal City,Not Indicated,urban,6.81,158,104,550,10
+738,125.804,7.45907,08/05/2018,"Tue - May 8, 2018",10:00:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,950,560,"3,192",59
+739,125.81700000000001,7.392239999999999,08/05/2018,"Tue - May 8, 2018",6:30:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+740,125.76799999999999,7.46697,27/03/2018,"Tue - Mar 27, 2018",19:30:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,"2,652",1563,"8,905",165
+741,125.775,7.46369,27/03/2018,"Tue - Mar 27, 2018",20:30:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,"2,652",1563,"8,905",165
+742,125.834,7.46909,08/05/2018,"Tue - May 8, 2018",4:00:00,ROBBERY,Magdum,Tagum City,Destroying Window,urban,7.86,695,410,"2,335",43
+743,125.79799999999999,7.44635,09/05/2018,"Wed - May 9, 2018",0:45:00,PHYSICAL INJURIES,Magugpo South,Tagum City,Stabbing/Hacking,urban,8.33,737,434,"2,476",46
+744,125.8,7.44727,09/05/2018,"Wed - May 9, 2018",3:00:00,ROBBERY,Magugpo South,Tagum City,Breaking and Entering,urban,8.33,737,434,"2,476",46
+745,125.79899999999999,7.44727,09/05/2018,"Wed - May 9, 2018",3:00:00,ROBBERY,Magugpo South,Tagum City,Breaking and Entering,urban,8.33,737,434,"2,476",46
+746,125.723,7.05991,09/05/2018,"Wed - May 9, 2018",8:20:00,ROBBERY,Cawag,Samal City,Destroying Window,rural,7.39,171,112,596,11
+747,125.79899999999999,7.47841,06/05/2018,"Sun - May 6, 2018",12:45:00,PHYSICAL INJURIES,La Filipina,Tagum City,Mauling,urban,11.84,"1,047",617,"3,517",65
+748,125.807,7.4499699999999995,10/05/2018,"Thu - May 10, 2018",5:10:00,MURDER,Magugpo Poblacion,Tagum City,Shooting,urban,2.43,215,127,723,13
+749,125.79,7.4992,10/05/2018,"Thu - May 10, 2018",20:40:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Cuambogan,Tagum City,Forcibly Taken,urban,8.16,722,426,"2,425",45
+750,125.816,7.461689999999999,12/05/2018,"Sat - May 12, 2018",3:30:00,THEFT,Magugpo West,Tagum City,Plain Theft,urban,10.74,950,560,"3,192",59
+751,125.814,7.4496899999999995,12/05/2018,"Sat - May 12, 2018",10:00:00,THEFT,Magugpo East,Tagum City,Salisi (Cellphone),urban,11.1,982,579,"3,297",61
+752,125.77,7.44335,12/05/2018,"Sat - May 12, 2018",4:20:00,THEFT,San Miguel (Camp 4),Tagum City,Salisi (Establishment),urban,13.32,"1,178",694,3958,73
+753,125.77,7.410010000000001,12/05/2018,"Sat - May 12, 2018",17:00:00,Drug Related Incident (RA 9165),Canocotan,Tagum City,Not Indicated,urban,6.26,554,326,1859,34
+754,125.835,7.4188,13/05/2018,"Sun - May 13, 2018",14:52:00,Drug Related Incident (RA 9165),Apokon,Tagum City,Not Indicated,urban,22.88,2024,1193,6798,126
+755,125.816,7.392639999999999,11/05/2018,"Fri - May 11, 2018",4:10:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+756,125.666,7.33435,15/05/2018,"Tue - May 15, 2018",16:00:00,PHYSICAL INJURIES,Quezon,Panabo City,Stabbing/Hacking,rural,6.33,305,185,"1,057",19
+757,125.649,7.281630000000001,16/05/2018,"Wed - May 16, 2018",4:00:00,PHYSICAL INJURIES,Maduao,Panabo City,Hacking,rural,4.24,204,124,708,13
+758,125.78299999999999,7.459969999999999,16/05/2018,"Wed - May 16, 2018",13:00:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,"2,652",1563,"8,905",165
+759,125.82799999999999,7.42295,17/05/2018,"Thu - May 17, 2018",2:22:00,MURDER,Apokon,Tagum City,Shooting,urban,22.88,2024,1193,6798,126
+760,125.69200000000001,7.1113100000000005,16/05/2018,"Wed - May 16, 2018",11:00:00,RAPE (Art. 266-A RC & R.A.8353),Mambago-B,Samal City,Deprived of Reason or Unconcious (Under the Influence of Liquior),rural,7.57,175,115,611,11
+761,125.689,7.28437,16/05/2018,"Wed - May 16, 2018",21:42:00,Drug Related Incident (RA 9165),Cagangohan,Panabo City,Not Indicated,urban,18.74,905,549,3131,56
+762,125.706,7.314260000000001,16/05/2018,"Wed - May 16, 2018",23:40:00,Drug Related Incident (RA 9165),San Vicente,Panabo City,Not Indicated,urban,19.66,949,576,3284,59
+763,125.71,7.100339999999999,17/05/2018,"Thu - May 17, 2018",4:00:00,THEFT,Mambago-A,Samal City,Salisi (Akyat Bahay),rural,5.24,121,80,423,8
+764,125.803,7.4513300000000005,17/05/2018,"Thu - May 17, 2018",3:00:00,ROBBERY,Magugpo Poblacion,Tagum City,Breaking and Entering,urban,2.43,215,127,723,13
+765,125.77799999999999,7.444560000000001,17/05/2018,"Thu - May 17, 2018",11:10:00,ROBBERY,San Miguel (Camp 4),Tagum City,Bag/Purse Snatching,urban,13.32,"1,178",694,3958,73
+766,125.804,7.4348,17/05/2018,"Thu - May 17, 2018",16:00:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Mauling,urban,31.0,"2,742","1,616","9,210",171
+767,125.81700000000001,7.3919,17/05/2018,"Thu - May 17, 2018",12:12:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+768,125.78200000000001,7.459239999999999,17/05/2018,"Thu - May 17, 2018",17:40:00,MURDER,Mankilam,Tagum City,Shooting,urban,29.97,"2,652",1563,"8,905",165
+769,125.648,7.300489999999999,17/05/2018,"Thu - May 17, 2018",10:15:00,MURDER,Little Panay,Panabo City,Shooting,rural,3.31,160,97,553,10
+770,125.588,7.40136,17/05/2018,"Thu - May 17, 2018",16:41:00,THEFT,A. O. Floirendo,Panabo City,Qualified Theft,urban,6.6,318,193,1102,20
+771,125.789,7.499110000000001,17/05/2018,"Thu - May 17, 2018",15:00:00,THEFT,Cuambogan,Tagum City,Salisi,urban,8.16,722,426,"2,425",45
+772,125.81700000000001,7.379339999999999,17/05/2018,"Thu - May 17, 2018",15:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Madaum,Tagum City,Forcibly Taken,urban,8.25,730,430,2450,45
+773,125.685,7.27925,18/05/2018,"Fri - May 18, 2018",23:30:00,ROBBERY,Cagangohan,Panabo City,In an Uninhabited Place or in a Private Building,urban,18.74,905,549,3131,56
+774,125.68299999999999,7.3025,19/05/2018,"Sat - May 19, 2018",4:33:00,THEFT,Santo Niño (Pob.),Panabo City,Salisi,urban,5.89,284,173,985,18
+775,125.801,7.46088,19/05/2018,"Sat - May 19, 2018",11:00:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Stabbing/Hacking,urban,10.74,950,560,"3,192",59
+776,125.79,7.421069999999999,19/05/2018,"Sat - May 19, 2018",23:01:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Canocotan,Tagum City,Swpu (Stolen While Parked),urban,6.26,554,326,1859,34
+777,125.803,7.44665,20/05/2018,"Sun - May 20, 2018",9:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+778,125.806,7.43756,19/05/2018,"Sat - May 19, 2018",4:17:00,ROBBERY,Visayan Village,Tagum City,Crowbar/Destroying Lock,urban,31.0,"2,742","1,616","9,210",171
+779,125.8,7.4598,21/05/2018,"Mon - May 21, 2018",0:35:00,Drug Related Incident (RA 9165),Magugpo West,Tagum City,Not Indicated,urban,10.74,950,560,"3,192",59
+780,125.779,7.3916,21/05/2018,"Mon - May 21, 2018",2:03:00,ROBBERY,San Isidro,Tagum City,Breaking and Entering,rural,3.69,326,192,1096,20
+781,125.815,7.433160000000001,21/05/2018,"Mon - May 21, 2018",11:15:00,MURDER,Apokon,Tagum City,Shooting,urban,22.88,2024,1193,6798,126
+782,125.814,7.46097,21/05/2018,"Mon - May 21, 2018",21:00:00,ROBBERY,Magugpo North,Tagum City,With Violence Against or Intimidation of Persons,urban,7.19,636,375,"2,136",40
+783,125.67399999999999,7.2957,21/05/2018,"Mon - May 21, 2018",17:20:00,Drug Related Incident (RA 9165),Gredu (Pob.),Panabo City,Not Indicated,urban,22.51,"1,086",660,3760,68
+784,125.805,7.450139999999999,22/05/2018,"Tue - May 22, 2018",0:46:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Shooting,urban,2.43,215,127,723,13
+785,125.79799999999999,7.46105,23/05/2018,"Wed - May 23, 2018",0:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+786,125.806,7.44722,22/05/2018,"Tue - May 22, 2018",15:25:00,MURDER,Magugpo Poblacion,Tagum City,Shooting,urban,2.43,215,127,723,13
+787,125.865,7.490880000000001,23/05/2018,"Wed - May 23, 2018",6:15:00,PHYSICAL INJURIES,La Filipina,Tagum City,Shooting,urban,11.84,"1,047",617,"3,517",65
+788,125.804,7.44968,23/05/2018,"Wed - May 23, 2018",13:00:00,THEFT,Magugpo Poblacion,Tagum City,Pick-Pocketing,urban,2.43,215,127,723,13
+789,125.816,7.441330000000001,19/05/2018,"Sat - May 19, 2018",8:00:00,PHYSICAL INJURIES,Bincungan,Tagum City,Hacking,rural,3.25,288,170,966,18
+790,125.804,7.44614,24/05/2018,"Thu - May 24, 2018",8:30:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+791,125.802,7.4591199999999995,24/05/2018,"Thu - May 24, 2018",4:30:00,ROBBERY,Magugpo West,Tagum City,Breaking and Entering,urban,10.74,950,560,"3,192",59
+792,125.79,7.498189999999999,12/05/2018,"Sat - May 12, 2018",10:00:00,RAPE (Art. 266-A RC & R.A.8353),Cuambogan,Tagum City,"Force, Threat and Intimidation",urban,8.16,722,426,"2,425",45
+793,125.666,7.30665,24/05/2018,"Thu - May 24, 2018",23:00:00,THEFT,New Visayas,Panabo City,Plain Theft,urban,22.54,"1,088",661,"3,766",68
+794,125.807,7.434069999999999,25/05/2018,"Fri - May 25, 2018",16:00:00,ROBBERY,Visayan Village,Tagum City,Hold-Up W/ Gun,urban,31.0,"2,742","1,616","9,210",171
+795,125.801,7.429180000000001,25/05/2018,"Fri - May 25, 2018",20:00:00,ROBBERY,Visayan Village,Tagum City,Akyat Bahay,urban,31.0,"2,742","1,616","9,210",171
+796,125.807,7.44871,26/05/2018,"Sat - May 26, 2018",13:00:00,THEFT,Mankilam,Tagum City,Salisi,urban,29.97,"2,652",1563,"8,905",165
+797,125.774,7.4438,26/05/2018,"Sat - May 26, 2018",11:00:00,THEFT,San Miguel (Camp 4),Tagum City,Salisi (Akyat Bahay),urban,13.32,"1,178",694,3958,73
+798,125.802,7.454089999999999,26/05/2018,"Sat - May 26, 2018",14:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+799,125.8,7.461139999999999,26/05/2018,"Sat - May 26, 2018",16:00:00,THEFT,Magugpo West,Tagum City,Salisi (Cellphone),urban,10.74,950,560,"3,192",59
+800,125.803,7.43548,27/05/2018,"Sun - May 27, 2018",4:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,"2,742","1,616","9,210",171
+801,125.802,7.42905,26/05/2018,"Sat - May 26, 2018",19:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,"2,742","1,616","9,210",171
+802,125.775,7.44375,27/05/2018,"Sun - May 27, 2018",19:30:00,PHYSICAL INJURIES,San Miguel (Camp 4),Tagum City,Hacking,urban,13.32,"1,178",694,3958,73
+803,125.801,7.44292,28/05/2018,"Mon - May 28, 2018",3:00:00,ROBBERY,Magugpo South,Tagum City,Snatching,urban,8.33,737,434,"2,476",46
+804,125.803,7.446330000000001,28/05/2018,"Mon - May 28, 2018",0:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+805,125.679,7.3263300000000005,22/05/2018,"Tue - May 22, 2018",3:00:00,RAPE (Art. 266-A RC & R.A.8353),Quezon,Panabo City,"Force, Threat and Intimidation",rural,6.33,305,185,"1,057",19
+806,125.818,7.3923,28/05/2018,"Mon - May 28, 2018",15:25:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+807,125.802,7.45856,29/05/2018,"Tue - May 29, 2018",3:30:00,ROBBERY,Magugpo West,Tagum City,Destroying Window,urban,10.74,950,560,"3,192",59
+808,125.76799999999999,7.41016,29/05/2018,"Tue - May 29, 2018",11:33:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Canocotan,Tagum City,Swpu (Stolen While Parked),urban,6.26,554,326,1859,34
+809,125.75200000000001,7.482239999999999,30/05/2018,"Wed - May 30, 2018",0:15:00,ROBBERY,Pagsabangan,Tagum City,With Violence Against or Intimidation of Persons,rural,4.04,357,211,1200,22
+810,125.77799999999999,7.445310000000001,29/05/2018,"Tue - May 29, 2018",21:00:00,MURDER,San Miguel (Camp 4),Tagum City,Shooting,urban,13.32,"1,178",694,3958,73
+811,125.79700000000001,7.477860000000001,29/05/2018,"Tue - May 29, 2018",23:00:00,ROBBERY,La Filipina,Tagum City,Destroying Window,urban,11.84,"1,047",617,"3,517",65
+812,125.79899999999999,7.45903,29/05/2018,"Tue - May 29, 2018",23:00:00,ROBBERY,Magugpo West,Tagum City,Breaking and Entering,urban,10.74,950,560,"3,192",59
+813,125.709,7.10123,31/05/2018,"Thu - May 31, 2018",20:50:00,Drug Related Incident (RA 9165),Mambago-A,Samal City,Not Indicated,rural,5.24,121,80,423,8
+814,125.773,7.443460000000001,31/05/2018,"Thu - May 31, 2018",11:45:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,"1,178",694,3958,73
+815,125.602,7.3474,15/03/2018,"Thu - Mar 15, 2018",11:00:00,RAPE (Art. 266-A RC & R.A.8353),Manay,Panabo City,Grave Abuse of Authority,urban,7.36,355,216,1229,22
+816,125.67,7.32603,21/04/2018,"Sat - Apr 21, 2018",10:00:00,PHYSICAL INJURIES,Quezon,Panabo City,Hitting With Hard Object,rural,6.33,305,185,"1,057",19
+817,125.58,7.39675,02/06/2018,"Sat - Jun 2, 2018",16:20:00,THEFT,A. O. Floirendo,Panabo City,Plain Theft,urban,6.6,318,193,1102,20
+818,125.81700000000001,7.391769999999999,02/06/2018,"Sat - Jun 2, 2018",11:00:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+819,125.803,7.450819999999999,03/06/2018,"Sun - Jun 3, 2018",4:00:00,ROBBERY,Magugpo Poblacion,Tagum City,Hold-Up W/ Sharp Object,urban,2.43,215,127,723,13
+820,125.771,7.44297,02/06/2018,"Sat - Jun 2, 2018",4:00:00,ROBBERY,San Miguel (Camp 4),Tagum City,Destroying Window,urban,13.32,"1,178",694,3958,73
+821,125.79799999999999,7.4611600000000005,04/06/2018,"Mon - Jun 4, 2018",2:00:00,MURDER,Magugpo West,Tagum City,Stabbing/Hacking,urban,10.74,950,560,"3,192",59
+822,125.67200000000001,7.117939999999999,01/06/2018,"Fri - Jun 1, 2018",22:52:00,THEFT,Caliclic (Dangca-An),Samal City,Salisi (Cellphone),urban,6.81,158,104,550,10
+823,125.803,7.44924,26/05/2018,"Sat - May 26, 2018",8:00:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Stabbing/Hacking,urban,2.43,215,127,723,13
+824,125.79700000000001,7.46201,04/06/2018,"Mon - Jun 4, 2018",23:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+825,125.816,7.3918800000000005,01/06/2018,"Fri - Jun 1, 2018",10:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Madaum,Tagum City,Swpu (Stolen While Parked),urban,8.25,730,430,2450,45
+826,125.803,7.46288,05/06/2018,"Tue - Jun 5, 2018",19:22:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+827,125.807,7.45016,03/06/2018,"Sun - Jun 3, 2018",1:00:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Stabbing/Hacking,urban,2.43,215,127,723,13
+828,125.804,7.450010000000001,06/06/2018,"Wed - Jun 6, 2018",9:30:00,THEFT,Magugpo Poblacion,Tagum City,Pick-Pocketing,urban,2.43,215,127,723,13
+829,125.685,7.30231,06/06/2018,"Wed - Jun 6, 2018",17:30:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,284,173,985,18
+830,125.77600000000001,7.4640699999999995,06/06/2018,"Wed - Jun 6, 2018",14:00:00,ROBBERY,Mankilam,Tagum City,With Violence Against or Intimidation of Persons,urban,29.97,"2,652",1563,"8,905",165
+831,125.801,7.46005,07/06/2018,"Thu - Jun 7, 2018",6:00:00,THEFT,Mankilam,Tagum City,Salisi,urban,29.97,"2,652",1563,"8,905",165
+832,125.667,7.277139999999999,07/06/2018,"Thu - Jun 7, 2018",5:30:00,Drug Related Incident (RA 9165),J.P. Laurel,Panabo City,Not Indicated,urban,8.93,431,262,"1,491",27
+833,125.681,7.30127,07/06/2018,"Thu - Jun 7, 2018",13:10:00,MURDER,New Pandan (Pob.),Panabo City,Shooting,urban,9.03,436,265,1508,27
+834,125.684,7.3099300000000005,07/06/2018,"Thu - Jun 7, 2018",19:00:00,ROBBERY,San Francisco (Pob.),Panabo City,Hold-Up W/ Sharp Object,urban,17.46,843,512,"2,917",52
+835,125.816,7.3919,07/06/2018,"Thu - Jun 7, 2018",15:02:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+836,125.807,7.44948,07/06/2018,"Thu - Jun 7, 2018",13:00:00,THEFT,Magugpo Poblacion,Tagum City,Pick-Pocketing,urban,2.43,215,127,723,13
+837,125.811,7.4491,08/06/2018,"Fri - Jun 8, 2018",12:30:00,THEFT,Magugpo East,Tagum City,Pick-Pocketing,urban,11.1,982,579,"3,297",61
+838,125.677,7.287739999999999,08/06/2018,"Fri - Jun 8, 2018",20:40:00,PHYSICAL INJURIES,Cagangohan,Panabo City,Stabbing/Hacking,urban,18.74,905,549,3131,56
+839,125.655,7.2857,08/06/2018,"Fri - Jun 8, 2018",21:00:00,MURDER,Maduao,Panabo City,Stabbing/Hacking,rural,4.24,204,124,708,13
+840,125.772,7.442539999999999,09/06/2018,"Sat - Jun 9, 2018",19:00:00,THEFT,San Miguel (Camp 4),Tagum City,Salisi,urban,13.32,"1,178",694,3958,73
+841,125.775,7.46586,10/06/2018,"Sun - Jun 10, 2018",4:00:00,ROBBERY,Mankilam,Tagum City,Hold-Up W/ Gun,urban,29.97,"2,652",1563,"8,905",165
+842,125.807,7.451689999999999,09/06/2018,"Sat - Jun 9, 2018",0:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,982,579,"3,297",61
+843,125.759,7.3769,29/05/2018,"Tue - May 29, 2018",9:00:00,RAPE (Art. 266-A RC & R.A.8353),Bincungan,Tagum City,"Force, Threat and Intimidation",rural,3.25,288,170,966,18
+844,125.80799999999999,7.4387300000000005,11/06/2018,"Mon - Jun 11, 2018",14:50:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,"2,742","1,616","9,210",171
+845,125.79,7.4225,11/06/2018,"Mon - Jun 11, 2018",11:00:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,"2,742","1,616","9,210",171
+846,125.811,7.45782,11/06/2018,"Mon - Jun 11, 2018",16:40:00,ROBBERY,Magugpo North,Tagum City,Akyat Bahay,urban,7.19,636,375,"2,136",40
+847,125.684,7.30227,12/06/2018,"Tue - Jun 12, 2018",17:20:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,284,173,985,18
+848,125.61,7.396789999999999,14/06/2018,"Thu - Jun 14, 2018",16:35:00,THEFT,A. O. Floirendo,Panabo City,Salisi,urban,6.6,318,193,1102,20
+849,125.682,7.30258,15/06/2018,"Fri - Jun 15, 2018",5:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Santo Niño (Pob.),Panabo City,Swpu (Stolen While Parked),urban,5.89,284,173,985,18
+850,125.805,7.452160000000001,15/06/2018,"Fri - Jun 15, 2018",15:30:00,THEFT,Magugpo East,Tagum City,Cable/Electric Meter,urban,11.1,982,579,"3,297",61
+851,125.818,7.44999,15/06/2018,"Fri - Jun 15, 2018",22:00:00,THEFT,Magugpo East,Tagum City,Plain Theft,urban,11.1,982,579,"3,297",61
+852,125.815,7.458289999999999,16/06/2018,"Sat - Jun 16, 2018",4:30:00,THEFT,Magugpo North,Tagum City,Plain Theft,urban,7.19,636,375,"2,136",40
+853,125.807,7.4222399999999995,16/06/2018,"Sat - Jun 16, 2018",4:00:00,ROBBERY,Visayan Village,Tagum City,Crowbar/Destroying Lock,urban,31.0,"2,742","1,616","9,210",171
+854,125.821,7.436560000000001,16/06/2018,"Sat - Jun 16, 2018",19:30:00,ROBBERY,Apokon,Tagum City,Taxi Hold-Up W/ Gun,urban,22.88,2024,1193,6798,126
+855,125.8,7.44107,17/06/2018,"Sun - Jun 17, 2018",14:50:00,THEFT,Magugpo South,Tagum City,Salisi,urban,8.33,737,434,"2,476",46
+856,125.785,7.41565,17/06/2018,"Sun - Jun 17, 2018",21:45:00,Drug Related Incident (RA 9165),Canocotan,Tagum City,Not Indicated,urban,6.26,554,326,1859,34
+857,125.82,7.46165,17/06/2018,"Sun - Jun 17, 2018",15:00:00,ROBBERY,Magdum,Tagum City,Crowbar/Destroying Lock,urban,7.86,695,410,"2,335",43
+858,125.77,7.408939999999999,17/06/2018,"Sun - Jun 17, 2018",20:24:00,PHYSICAL INJURIES,Canocotan,Tagum City,Shooting,urban,6.26,554,326,1859,34
+859,125.824,7.42943,18/06/2018,"Mon - Jun 18, 2018",16:00:00,PHYSICAL INJURIES,Apokon,Tagum City,Stabbing/Hacking,urban,22.88,2024,1193,6798,126
+860,125.805,7.44676,19/06/2018,"Tue - Jun 19, 2018",2:30:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Stabbing/Hacking,urban,2.43,215,127,723,13
+861,125.77799999999999,7.44365,19/06/2018,"Tue - Jun 19, 2018",3:00:00,ROBBERY,San Miguel (Camp 4),Tagum City,Crowbar/Destroying Lock,urban,13.32,"1,178",694,3958,73
+862,125.801,7.4265,19/06/2018,"Tue - Jun 19, 2018",1:57:00,THEFT,Visayan Village,Tagum City,Salisi (Akyat Bahay),urban,31.0,"2,742","1,616","9,210",171
+863,125.806,7.43297,19/06/2018,"Tue - Jun 19, 2018",23:01:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Mauling,urban,31.0,"2,742","1,616","9,210",171
+864,125.803,7.459919999999999,20/06/2018,"Wed - Jun 20, 2018",1:20:00,MURDER,Magugpo West,Tagum City,Stabbing/Hacking,urban,10.74,950,560,"3,192",59
+865,125.774,7.468089999999999,20/06/2018,"Wed - Jun 20, 2018",1:00:00,ROBBERY,Mankilam,Tagum City,Breaking and Entering,urban,29.97,"2,652",1563,"8,905",165
+866,125.709,7.12387,21/06/2018,"Thu - Jun 21, 2018",3:00:00,PHYSICAL INJURIES,San Agustin,Samal City,Stabbing/Hacking,rural,5.14,119,78,415,7
+867,125.677,7.2930399999999995,15/06/2018,"Fri - Jun 15, 2018",17:00:00,THEFT,Gredu (Pob.),Panabo City,Qualified Theft,urban,22.51,"1,086",660,3760,68
+868,125.679,7.28742,21/06/2018,"Thu - Jun 21, 2018",16:00:00,PHYSICAL INJURIES,Cagangohan,Panabo City,Mauling,urban,18.74,905,549,3131,56
+869,125.804,7.44544,21/06/2018,"Thu - Jun 21, 2018",15:30:00,Drug Related Incident (RA 9165),Magugpo Poblacion,Tagum City,Not Indicated,urban,2.43,215,127,723,13
+870,125.803,7.45878,22/06/2018,"Fri - Jun 22, 2018",3:30:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Mauling,urban,10.74,950,560,"3,192",59
+871,125.781,7.09455,20/06/2018,"Wed - Jun 20, 2018",16:05:00,THEFT,Aundanao,Samal City,Qualified Theft,rural,3.68,85,56,297,5
+872,125.821,7.45397,22/06/2018,"Fri - Jun 22, 2018",3:00:00,PHYSICAL INJURIES,Magugpo East,Tagum City,Stabbing/Hacking,urban,11.1,982,579,"3,297",61
+873,125.69200000000001,7.3176,22/06/2018,"Fri - Jun 22, 2018",11:10:00,Drug Related Incident (RA 9165),Salvacion,Panabo City,Not Indicated,urban,12.95,625,380,2164,39
+874,125.68299999999999,7.3087100000000005,22/06/2018,"Fri - Jun 22, 2018",16:45:00,THEFT,San Francisco (Pob.),Panabo City,Salisi (Establishment),urban,17.46,843,512,"2,917",52
+875,125.71,7.29638,23/06/2018,"Sat - Jun 23, 2018",0:20:00,Drug Related Incident (RA 9165),San Pedro,Panabo City,Not Indicated,urban,5.7,275,167,953,17
+876,125.814,7.4588600000000005,23/06/2018,"Sat - Jun 23, 2018",6:00:00,THEFT,Magugpo North,Tagum City,Salisi,urban,7.19,636,375,"2,136",40
+877,125.788,7.45665,23/06/2018,"Sat - Jun 23, 2018",22:13:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,"2,652",1563,"8,905",165
+878,125.802,7.4558,23/06/2018,"Sat - Jun 23, 2018",23:56:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Shooting,urban,10.74,950,560,"3,192",59
+879,125.807,7.44988,23/06/2018,"Sat - Jun 23, 2018",21:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+880,125.68299999999999,7.30635,24/06/2018,"Sun - Jun 24, 2018",22:00:00,PHYSICAL INJURIES,San Francisco (Pob.),Panabo City,Stabbing/Hacking,urban,17.46,843,512,"2,917",52
+881,125.698,7.16183,24/06/2018,"Sun - Jun 24, 2018",18:00:00,THEFT,Tambo,Samal City,Salisi (Cellphone),rural,12.49,289,190,1008,18
+882,125.819,7.4518,22/06/2018,"Fri - Jun 22, 2018",20:30:00,THEFT,Magugpo East,Tagum City,Salisi,urban,11.1,982,579,"3,297",61
+883,125.773,7.44358,25/06/2018,"Mon - Jun 25, 2018",2:20:00,PHYSICAL INJURIES,San Miguel (Camp 4),Tagum City,Mauling,urban,13.32,"1,178",694,3958,73
+884,125.802,7.458710000000001,26/06/2018,"Tue - Jun 26, 2018",3:30:00,ROBBERY,Magugpo West,Tagum City,Breaking and Entering,urban,10.74,950,560,"3,192",59
+885,125.78399999999999,7.415260000000001,26/06/2018,"Tue - Jun 26, 2018",13:30:00,Drug Related Incident (RA 9165),Canocotan,Tagum City,Not Indicated,urban,6.26,554,326,1859,34
+886,125.684,7.134119999999999,26/06/2018,"Tue - Jun 26, 2018",17:35:00,Drug Related Incident (RA 9165),Moncado (Pob.),Samal City,Not Indicated,rural,10.7,248,163,864,15
+887,125.772,7.44297,26/06/2018,"Tue - Jun 26, 2018",13:40:00,Drug Related Incident (RA 9165),San Miguel (Camp 4),Tagum City,Not Indicated,urban,13.32,"1,178",694,3958,73
+888,125.819,7.45943,27/06/2018,"Wed - Jun 27, 2018",1:00:00,ROBBERY,Magugpo North,Tagum City,With Violence Against or Intimidation of Persons,urban,7.19,636,375,"2,136",40
+889,125.805,7.4438699999999995,27/06/2018,"Wed - Jun 27, 2018",2:00:00,ROBBERY,Magugpo Poblacion,Tagum City,With Violence Against or Intimidation of Persons,urban,2.43,215,127,723,13
+890,125.801,7.4775,27/06/2018,"Wed - Jun 27, 2018",12:57:00,THEFT,La Filipina,Tagum City,Salisi (Establishment),urban,11.84,"1,047",617,"3,517",65
+891,125.816,7.45748,27/06/2018,"Wed - Jun 27, 2018",20:45:00,PHYSICAL INJURIES,Magugpo North,Tagum City,Stabbing/Hacking,urban,7.19,636,375,"2,136",40
+892,125.806,7.43388,28/06/2018,"Thu - Jun 28, 2018",3:27:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+893,125.806,7.44797,23/06/2018,"Sat - Jun 23, 2018",4:00:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+894,125.77,7.44405,28/06/2018,"Thu - Jun 28, 2018",22:00:00,PHYSICAL INJURIES,San Miguel (Camp 4),Tagum City,Mauling,urban,13.32,"1,178",694,3958,73
+895,125.619,7.288310000000001,14/04/2018,"Sat - Apr 14, 2018",21:05:00,THEFT,Katualan,Panabo City,Plain Theft,rural,1.01,49,30,169,3
+896,125.8,7.46197,29/06/2018,"Fri - Jun 29, 2018",18:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+897,125.806,7.4462,30/06/2018,"Sat - Jun 30, 2018",1:20:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+898,125.804,7.429289999999999,30/06/2018,"Sat - Jun 30, 2018",10:45:00,THEFT,Visayan Village,Tagum City,Salisi (Establishment),urban,31.0,"2,742","1,616","9,210",171
+899,125.70700000000001,7.075830000000001,01/07/2018,"Sun - Jul 1, 2018",0:27:00,PHYSICAL INJURIES,Peñaplata (Pob.),Samal City,Stabbing/Hacking,urban,17.42,404,265,1406,25
+900,125.816,7.391839999999999,30/06/2018,"Sat - Jun 30, 2018",19:20:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+901,125.79899999999999,7.42507,30/06/2018,"Sat - Jun 30, 2018",19:00:00,ROBBERY,Visayan Village,Tagum City,Destroying Window,urban,31.0,"2,742","1,616","9,210",171
+902,125.803,7.44993,01/07/2018,"Sun - Jul 1, 2018",18:45:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+903,125.80799999999999,7.4178,01/07/2018,"Sun - Jul 1, 2018",20:00:00,ROBBERY,Visayan Village,Tagum City,Hold-Up W/ Gun,urban,31.0,"2,742","1,616","9,210",171
+904,125.78399999999999,7.4554100000000005,01/07/2018,"Sun - Jul 1, 2018",20:30:00,THEFT,Mankilam,Tagum City,Salisi,urban,29.97,"2,652",1563,"8,905",165
+905,125.774,7.468710000000001,01/07/2018,"Sun - Jul 1, 2018",19:00:00,PHYSICAL INJURIES,Mankilam,Tagum City,Stabbing/Hacking,urban,29.97,"2,652",1563,"8,905",165
+906,125.777,7.46365,01/07/2018,"Sun - Jul 1, 2018",19:52:00,Drug Related Incident (RA 9165),Magugpo East,Tagum City,Not Indicated,urban,11.1,982,579,"3,297",61
+907,125.805,7.44584,02/07/2018,"Mon - Jul 2, 2018",1:36:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+908,125.68299999999999,7.29679,02/07/2018,"Mon - Jul 2, 2018",15:50:00,Drug Related Incident (RA 9165),New Pandan (Pob.),Panabo City,Not Indicated,urban,9.03,436,265,1508,27
+909,125.675,7.297289999999999,02/07/2018,"Mon - Jul 2, 2018",21:05:00,Drug Related Incident (RA 9165),Gredu (Pob.),Panabo City,Not Indicated,urban,22.51,"1,086",660,3760,68
+910,125.82700000000001,7.42175,02/07/2018,"Mon - Jul 2, 2018",3:15:00,ROBBERY,Apokon,Tagum City,Hold-Up W/ Gun,urban,22.88,2024,1193,6798,126
+911,125.79899999999999,7.46065,02/07/2018,"Mon - Jul 2, 2018",15:00:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,950,560,"3,192",59
+912,125.82,7.4233899999999995,02/07/2018,"Mon - Jul 2, 2018",22:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+913,125.566,7.2903,01/07/2018,"Sun - Jul 1, 2018",22:00:00,PHYSICAL INJURIES,Malativas,Panabo City,Mauling,rural,3.27,158,96,546,10
+914,125.82700000000001,7.426260000000001,02/07/2018,"Mon - Jul 2, 2018",2:00:00,ROBBERY,Apokon,Tagum City,Agaw-Armas,urban,22.88,2024,1193,6798,126
+915,125.77,7.4099699999999995,03/07/2018,"Tue - Jul 3, 2018",7:00:00,PHYSICAL INJURIES,Canocotan,Tagum City,Shooting,urban,6.26,554,326,1859,34
+916,125.78,7.390960000000001,02/07/2018,"Mon - Jul 2, 2018",18:30:00,RAPE (Art. 266-A RC & R.A.8353),San Isidro,Tagum City,"Force, Threat and Intimidation",rural,3.69,326,192,1096,20
+917,125.69200000000001,7.3189,15/06/2018,"Fri - Jun 15, 2018",19:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Salvacion,Panabo City,Forcibly Taken,urban,12.95,625,380,2164,39
+918,125.63799999999999,7.307930000000001,04/07/2018,"Wed - Jul 4, 2018",5:00:00,ROBBERY,Maduao,Panabo City,Hold-Up W/ Gun,rural,4.24,204,124,708,13
+919,125.696,7.29162,04/07/2018,"Wed - Jul 4, 2018",10:50:00,Drug Related Incident (RA 9165),San Pedro,Panabo City,Not Indicated,urban,5.7,275,167,953,17
+920,125.667,7.280480000000001,04/07/2018,"Wed - Jul 4, 2018",15:50:00,THEFT,J.P. Laurel,Panabo City,Qualified Theft,urban,8.93,431,262,"1,491",27
+921,125.771,7.442880000000001,05/07/2018,"Thu - Jul 5, 2018",1:00:00,THEFT,San Miguel (Camp 4),Tagum City,Salisi (Akyat Bahay),urban,13.32,"1,178",694,3958,73
+922,125.79799999999999,7.4462399999999995,05/07/2018,"Thu - Jul 5, 2018",3:00:00,THEFT,Magugpo South,Tagum City,Salisi,urban,8.33,737,434,"2,476",46
+923,125.74700000000001,7.1603,05/07/2018,"Thu - Jul 5, 2018",18:30:00,PHYSICAL INJURIES,Balet,Samal City,Stabbing/Hacking,rural,8.25,191,126,666,12
+924,125.811,7.4492,05/07/2018,"Thu - Jul 5, 2018",17:30:00,THEFT,Magugpo East,Tagum City,Shoplifting,urban,11.1,982,579,"3,297",61
+925,125.79899999999999,7.45626,06/07/2018,"Fri - Jul 6, 2018",1:10:00,ROBBERY,Magugpo West,Tagum City,With Violence Against or Intimidation of Persons,urban,10.74,950,560,"3,192",59
+926,125.802,7.4441,04/07/2018,"Wed - Jul 4, 2018",20:30:00,ROBBERY,Magugpo South,Tagum City,Breaking and Entering,urban,8.33,737,434,"2,476",46
+927,125.68,7.3183300000000004,06/07/2018,"Fri - Jul 6, 2018",15:15:00,Drug Related Incident (RA 9165),San Francisco (Pob.),Panabo City,Not Indicated,urban,17.46,843,512,"2,917",52
+928,125.67,7.27689,06/07/2018,"Fri - Jul 6, 2018",16:20:00,Drug Related Incident (RA 9165),J.P. Laurel,Panabo City,Not Indicated,urban,8.93,431,262,"1,491",27
+929,125.69,7.31688,06/07/2018,"Fri - Jul 6, 2018",22:05:00,Drug Related Incident (RA 9165),Salvacion,Panabo City,Not Indicated,urban,12.95,625,380,2164,39
+930,125.72200000000001,7.0605199999999995,06/07/2018,"Fri - Jul 6, 2018",17:00:00,RAPE (Art. 266-A RC & R.A.8353),Cawag,Samal City,"Force, Threat and Intimidation",rural,7.39,171,112,596,11
+931,125.802,7.426089999999999,06/07/2018,"Fri - Jul 6, 2018",3:30:00,THEFT,Visayan Village,Tagum City,Sungkit,urban,31.0,"2,742","1,616","9,210",171
+932,125.806,7.434139999999999,07/07/2018,"Sat - Jul 7, 2018",7:35:00,THEFT,Visayan Village,Tagum City,Salisi,urban,31.0,"2,742","1,616","9,210",171
+933,125.81200000000001,7.449160000000001,07/07/2018,"Sat - Jul 7, 2018",14:30:00,PHYSICAL INJURIES,Magugpo East,Tagum City,Mauling,urban,11.1,982,579,"3,297",61
+934,125.818,7.450069999999999,07/07/2018,"Sat - Jul 7, 2018",12:30:00,Drug Related Incident (RA 9165),Magugpo East,Tagum City,Not Indicated,urban,11.1,982,579,"3,297",61
+935,125.822,7.43375,08/07/2018,"Sun - Jul 8, 2018",3:00:00,ROBBERY,Apokon,Tagum City,Breaking and Entering,urban,22.88,2024,1193,6798,126
+936,125.803,7.445819999999999,08/07/2018,"Sun - Jul 8, 2018",10:45:00,ROBBERY,Magugpo South,Tagum City,With Violence Against or Intimidation of Persons,urban,8.33,737,434,"2,476",46
+937,125.81200000000001,7.44941,08/07/2018,"Sun - Jul 8, 2018",11:00:00,THEFT,Magugpo East,Tagum City,Qualified Theft,urban,11.1,982,579,"3,297",61
+938,125.772,7.44567,08/07/2018,"Sun - Jul 8, 2018",22:00:00,ROBBERY,San Miguel (Camp 4),Tagum City,Hold-Up W/ Gun,urban,13.32,"1,178",694,3958,73
+939,125.573,7.397710000000001,27/06/2018,"Wed - Jun 27, 2018",3:00:00,MURDER,A. O. Floirendo,Panabo City,Shooting,urban,6.6,318,193,1102,20
+940,125.67,7.2769699999999995,06/07/2018,"Fri - Jul 6, 2018",16:20:00,Drug Related Incident (RA 9165),J.P. Laurel,Panabo City,Not Indicated,urban,8.93,431,262,"1,491",27
+941,125.685,7.302239999999999,08/07/2018,"Sun - Jul 8, 2018",12:05:00,THEFT,Santo Niño (Pob.),Panabo City,Pick-Pocketing,urban,5.89,284,173,985,18
+942,125.686,7.30625,08/07/2018,"Sun - Jul 8, 2018",15:00:00,THEFT,Santo Niño (Pob.),Panabo City,Shoplifting,urban,5.89,284,173,985,18
+943,125.689,7.28441,10/07/2018,"Tue - Jul 10, 2018",6:10:00,MURDER,San Pedro,Panabo City,Shooting,urban,5.7,275,167,953,17
+944,125.823,7.43422,08/07/2018,"Sun - Jul 8, 2018",5:16:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2024,1193,6798,126
+945,125.77600000000001,7.44205,10/07/2018,"Tue - Jul 10, 2018",2:56:00,ROBBERY,San Miguel (Camp 4),Tagum City,Hold-Up W/ Gun,urban,13.32,"1,178",694,3958,73
+946,125.79899999999999,7.4462,10/07/2018,"Tue - Jul 10, 2018",10:19:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo South,Tagum City,Swpu (Stolen While Parked),urban,8.33,737,434,"2,476",46
+947,125.804,7.43382,08/07/2018,"Sun - Jul 8, 2018",9:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,"2,742","1,616","9,210",171
+948,125.779,7.39162,10/07/2018,"Tue - Jul 10, 2018",7:45:00,Vehicular Traffic Accident,San Isidro,Tagum City,Not Indicated,rural,3.69,326,192,1096,20
+949,125.81,7.44305,11/07/2018,"Wed - Jul 11, 2018",2:30:00,ROBBERY,Visayan Village,Tagum City,Hold Up,urban,31.0,"2,742","1,616","9,210",171
+950,125.805,7.4473899999999995,11/07/2018,"Wed - Jul 11, 2018",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+951,125.758,7.37811,11/07/2018,"Wed - Jul 11, 2018",17:00:00,PHYSICAL INJURIES,Bincungan,Tagum City,Mauling,rural,3.25,288,170,966,18
+952,125.788,7.39037,13/07/2018,"Fri - Jul 13, 2018",1:41:00,Drug Related Incident (RA 9165),San Isidro,Tagum City,Not Indicated,rural,3.69,326,192,1096,20
+953,125.67299999999999,7.3165,12/07/2018,"Thu - Jul 12, 2018",21:00:00,ROBBERY,New Visayas,Panabo City,With Violence Against or Intimidation of Persons,urban,22.54,"1,088",661,"3,766",68
+954,125.788,7.3903300000000005,13/07/2018,"Fri - Jul 13, 2018",1:41:00,Drug Related Incident (RA 9165),San Isidro,Tagum City,Not Indicated,rural,3.69,326,192,1096,20
+955,125.677,7.085560000000001,14/07/2018,"Sat - Jul 14, 2018",3:00:00,Vehicular Traffic Accident,Limao,Samal City,Not Indicated,rural,7.13,165,109,576,10
+956,125.706,7.12551,15/07/2018,"Sun - Jul 15, 2018",1:30:00,RAPE (Art. 266-A RC & R.A.8353),San Agustin,Samal City,"Force, Threat and Intimidation",rural,5.14,119,78,415,7
+957,125.705,7.126119999999999,15/07/2018,"Sun - Jul 15, 2018",17:00:00,RAPE (Art. 266-A RC & R.A.8353),San Agustin,Samal City,"Force, Threat and Intimidation",rural,5.14,119,78,415,7
+958,125.686,7.306310000000001,15/07/2018,"Sun - Jul 15, 2018",20:30:00,THEFT,Santo Niño (Pob.),Panabo City,Qualified Theft,urban,5.89,284,173,985,18
+959,125.773,7.4665,13/07/2018,"Fri - Jul 13, 2018",23:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Sagpi (Seized at Gunpoint With Intimidation),urban,29.97,"2,652",1563,"8,905",165
+960,125.822,7.42105,15/07/2018,"Sun - Jul 15, 2018",1:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2024,1193,6798,126
+961,125.801,7.435010000000001,15/07/2018,"Sun - Jul 15, 2018",1:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,"2,742","1,616","9,210",171
+962,125.79899999999999,7.4356100000000005,15/07/2018,"Sun - Jul 15, 2018",2:13:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+963,125.8,7.429239999999999,15/07/2018,"Sun - Jul 15, 2018",23:30:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+964,125.802,7.43162,16/07/2018,"Mon - Jul 16, 2018",14:30:00,ROBBERY,Visayan Village,Tagum City,Hold-Up W/ Gun,urban,31.0,"2,742","1,616","9,210",171
+965,125.802,7.43244,16/07/2018,"Mon - Jul 16, 2018",18:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+966,125.775,7.463539999999999,17/07/2018,"Tue - Jul 17, 2018",4:00:00,ROBBERY,Mankilam,Tagum City,Hold-Up W/ Gun,urban,29.97,"2,652",1563,"8,905",165
+967,125.677,7.2983899999999995,17/07/2018,"Tue - Jul 17, 2018",15:15:00,Drug Related Incident (RA 9165),Gredu (Pob.),Panabo City,Not Indicated,urban,22.51,"1,086",660,3760,68
+968,125.79700000000001,7.4501800000000005,18/07/2018,"Wed - Jul 18, 2018",10:30:00,THEFT,Magugpo South,Tagum City,Salisi,urban,8.33,737,434,"2,476",46
+969,125.802,7.428310000000001,18/07/2018,"Wed - Jul 18, 2018",17:31:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+970,125.82,7.3776600000000006,19/07/2018,"Thu - Jul 19, 2018",2:30:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+971,125.815,7.39209,19/07/2018,"Thu - Jul 19, 2018",2:30:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+972,125.81700000000001,7.3922,19/07/2018,"Thu - Jul 19, 2018",2:30:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+973,125.676,7.295539999999999,19/07/2018,"Thu - Jul 19, 2018",13:15:00,Drug Related Incident (RA 9165),Gredu (Pob.),Panabo City,Not Indicated,urban,22.51,"1,086",660,3760,68
+974,125.801,7.4309,20/07/2018,"Fri - Jul 20, 2018",0:10:00,THEFT,Visayan Village,Tagum City,Salisi (Akyat Bahay),urban,31.0,"2,742","1,616","9,210",171
+975,125.802,7.458069999999999,20/07/2018,"Fri - Jul 20, 2018",3:30:00,THEFT,Magugpo West,Tagum City,Salisi (Akyat Bahay),urban,10.74,950,560,"3,192",59
+976,125.7,7.16055,19/07/2018,"Thu - Jul 19, 2018",17:30:00,Drug Related Incident (RA 9165),Tambo,Samal City,Not Indicated,rural,12.49,289,190,1008,18
+977,125.803,7.438089999999999,20/07/2018,"Fri - Jul 20, 2018",7:40:00,THEFT,Visayan Village,Tagum City,Salisi (Cellphone),urban,31.0,"2,742","1,616","9,210",171
+978,125.829,7.42333,20/07/2018,"Fri - Jul 20, 2018",17:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2024,1193,6798,126
+979,125.807,7.44895,20/07/2018,"Fri - Jul 20, 2018",19:00:00,Vehicular Traffic Accident,Magugpo Poblacion,Tagum City,Not Indicated,urban,2.43,215,127,723,13
+980,125.79899999999999,7.47722,21/07/2018,"Sat - Jul 21, 2018",4:00:00,PHYSICAL INJURIES,La Filipina,Tagum City,Mauling,urban,11.84,"1,047",617,"3,517",65
+981,125.777,7.44469,20/07/2018,"Fri - Jul 20, 2018",19:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,"1,178",694,3958,73
+982,125.77799999999999,7.44457,20/07/2018,"Fri - Jul 20, 2018",0:00:00,ROBBERY,San Miguel (Camp 4),Tagum City,Hold-Up W/ Sharp Object,urban,13.32,"1,178",694,3958,73
+983,125.81299999999999,7.45984,22/07/2018,"Sun - Jul 22, 2018",2:44:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo North,Tagum City,Swpu (Stolen While Parked),urban,7.19,636,375,"2,136",40
+984,125.804,7.45003,22/07/2018,"Sun - Jul 22, 2018",11:30:00,Vehicular Traffic Accident,Visayan Village,Tagum City,Not Indicated,urban,31.0,"2,742","1,616","9,210",171
+985,125.755,7.357189999999999,22/07/2018,"Sun - Jul 22, 2018",18:00:00,PHYSICAL INJURIES,Busaon,Tagum City,Stabbing/Hacking,rural,2.19,194,114,651,12
+986,125.682,7.06729,22/07/2018,"Sun - Jul 22, 2018",18:30:00,HOMICIDE,Catagman,Samal City,Mauling,rural,3.71,86,56,299,5
+987,125.82600000000001,7.42733,22/07/2018,"Sun - Jul 22, 2018",19:30:00,ROBBERY,Apokon,Tagum City,Hold-Up W/ Gun,urban,22.88,2024,1193,6798,126
+988,125.8,7.46005,23/07/2018,"Mon - Jul 23, 2018",4:50:00,MURDER,Mankilam,Tagum City,Shooting,urban,29.97,"2,652",1563,"8,905",165
+989,125.83,7.38466,21/07/2018,"Sat - Jul 21, 2018",20:00:00,RAPE (Art. 266-A RC & R.A.8353),Madaum,Tagum City,"Force, Threat and Intimidation",urban,8.25,730,430,2450,45
+990,125.805,7.43363,23/07/2018,"Mon - Jul 23, 2018",19:00:00,ROBBERY,Visayan Village,Tagum City,Breaking and Entering,urban,31.0,"2,742","1,616","9,210",171
+991,125.72,7.0923300000000005,24/07/2018,"Tue - Jul 24, 2018",2:57:00,HOMICIDE,Tagdaliao,Samal City,Stabbing/Hacking,rural,2.19,51,33,176,3
+992,125.72200000000001,7.090889999999999,24/07/2018,"Tue - Jul 24, 2018",2:57:00,PHYSICAL INJURIES,Tagdaliao,Samal City,Stabbing/Hacking,rural,2.19,51,33,176,3
+993,125.8,7.46092,24/07/2018,"Tue - Jul 24, 2018",6:40:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Swpu (Stolen While Parked),urban,10.74,950,560,"3,192",59
+994,125.777,7.443460000000001,23/07/2018,"Mon - Jul 23, 2018",17:00:00,ROBBERY,San Miguel (Camp 4),Tagum City,Destroying Window,urban,13.32,"1,178",694,3958,73
+995,125.803,7.4518,23/07/2018,"Mon - Jul 23, 2018",14:30:00,THEFT,Mankilam,Tagum City,Salisi (Others),urban,29.97,"2,652",1563,"8,905",165
+996,125.805,7.44567,24/07/2018,"Tue - Jul 24, 2018",15:19:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+997,125.816,7.392110000000001,25/07/2018,"Wed - Jul 25, 2018",6:00:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+998,125.633,7.33144,25/07/2018,"Wed - Jul 25, 2018",21:30:00,PHYSICAL INJURIES,Nanyo,Panabo City,Hacking,rural,5.23,253,153,874,16
+999,125.824,7.429939999999999,25/07/2018,"Wed - Jul 25, 2018",22:30:00,THEFT,Apokon,Tagum City,Qualified Theft,urban,22.88,2024,1193,6798,126
+1000,125.82700000000001,7.41556,26/07/2018,"Thu - Jul 26, 2018",13:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Sagpi (Seized at Gunpoint With Intimidation),urban,22.88,2024,1193,6798,126
+1001,125.81700000000001,7.457139999999999,26/07/2018,"Thu - Jul 26, 2018",13:30:00,ROBBERY,Magugpo North,Tagum City,Cellphone Snatching,urban,7.19,636,375,"2,136",40
+1002,125.801,7.452160000000001,24/07/2018,"Tue - Jul 24, 2018",14:45:00,THEFT,Magugpo West,Tagum City,Shoplifting,urban,10.74,950,560,"3,192",59
+1003,125.824,7.418839999999999,26/07/2018,"Thu - Jul 26, 2018",14:00:00,ROBBERY,Apokon,Tagum City,Hold-Up W/ Gun,urban,22.88,2024,1193,6798,126
+1004,125.818,7.39198,27/07/2018,"Fri - Jul 27, 2018",1:00:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+1005,125.689,7.1357800000000005,26/07/2018,"Thu - Jul 26, 2018",13:30:00,THEFT,Moncado (Pob.),Samal City,Shoplifting,rural,10.7,248,163,864,15
+1006,125.81299999999999,7.4450199999999995,27/07/2018,"Fri - Jul 27, 2018",5:00:00,THEFT,Apokon,Tagum City,Salisi (Establishment),urban,22.88,2024,1193,6798,126
+1007,125.819,7.43916,27/07/2018,"Fri - Jul 27, 2018",1:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Apokon,Tagum City,Swpu (Stolen While Parked),urban,22.88,2024,1193,6798,126
+1008,125.678,7.29391,28/07/2018,"Sat - Jul 28, 2018",5:20:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Cagangohan,Panabo City,Swpu (Stolen While Parked),urban,18.74,905,549,3131,56
+1009,125.70299999999999,7.31428,28/07/2018,"Sat - Jul 28, 2018",18:10:00,Drug Related Incident (RA 9165),San Pedro,Panabo City,Not Indicated,urban,5.7,275,167,953,17
+1010,125.691,7.13542,29/07/2018,"Sun - Jul 29, 2018",1:45:00,PHYSICAL INJURIES,Miranda (Pob.),Samal City,Hitting With Hard Object,urban,20.32,471,310,1641,29
+1011,125.803,7.459219999999999,29/07/2018,"Sun - Jul 29, 2018",4:00:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,950,560,"3,192",59
+1012,125.803,7.46005,29/07/2018,"Sun - Jul 29, 2018",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Forcibly Taken,urban,10.74,950,560,"3,192",59
+1013,125.8,7.46086,29/07/2018,"Sun - Jul 29, 2018",11:00:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,950,560,"3,192",59
+1014,125.81700000000001,7.44958,29/07/2018,"Sun - Jul 29, 2018",4:30:00,ROBBERY,Magugpo East,Tagum City,Breaking and Entering,urban,11.1,982,579,"3,297",61
+1015,125.818,7.417260000000001,29/07/2018,"Sun - Jul 29, 2018",18:30:00,ROBBERY,Apokon,Tagum City,Hold-Up W/ Gun,urban,22.88,2024,1193,6798,126
+1016,125.78200000000001,7.45188,27/07/2018,"Fri - Jul 27, 2018",0:00:00,ROBBERY,Mankilam,Tagum City,Hold-Up W/ Gun,urban,29.97,"2,652",1563,"8,905",165
+1017,125.685,7.30523,29/07/2018,"Sun - Jul 29, 2018",20:45:00,ROBBERY,Santo Niño (Pob.),Panabo City,Snatching,urban,5.89,284,173,985,18
+1018,125.822,7.4172,26/07/2018,"Thu - Jul 26, 2018",0:45:00,PHYSICAL INJURIES,Apokon,Tagum City,Mauling,urban,22.88,2024,1193,6798,126
+1019,125.816,7.39128,26/07/2018,"Thu - Jul 26, 2018",22:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Madaum,Tagum City,Swpu (Stolen While Parked),urban,8.25,730,430,2450,45
+1020,125.77600000000001,7.46375,31/07/2018,"Tue - Jul 31, 2018",5:00:00,ROBBERY,Mankilam,Tagum City,Crowbar/Destroying Lock,urban,29.97,"2,652",1563,"8,905",165
+1021,125.82700000000001,7.4656,01/08/2018,"Wed - Aug 1, 2018",2:00:00,MURDER,Magdum,Tagum City,Shooting,urban,7.86,695,410,"2,335",43
+1022,125.834,7.420139999999999,31/07/2018,"Tue - Jul 31, 2018",21:30:00,Drug Related Incident (RA 9165),Apokon,Tagum City,Not Indicated,urban,22.88,2024,1193,6798,126
+1023,125.809,7.43558,01/08/2018,"Wed - Aug 1, 2018",3:00:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Shooting,urban,31.0,"2,742","1,616","9,210",171
+1024,125.822,7.432010000000001,02/08/2018,"Thu - Aug 2, 2018",1:01:00,MURDER,Apokon,Tagum City,Shooting,urban,22.88,2024,1193,6798,126
+1025,125.708,7.29634,03/07/2018,"Tue - Jul 3, 2018",2:00:00,PHYSICAL INJURIES,San Pedro,Panabo City,Stabbing/Hacking,urban,5.7,275,167,953,17
+1026,125.617,7.40447,02/08/2018,"Thu - Aug 2, 2018",0:10:00,Drug Related Incident (RA 9165),A. O. Floirendo,Panabo City,Not Indicated,urban,6.6,318,193,1102,20
+1027,125.814,7.43537,02/08/2018,"Thu - Aug 2, 2018",5:45:00,MURDER,Visayan Village,Tagum City,Shooting,urban,31.0,"2,742","1,616","9,210",171
+1028,125.594,7.333289999999999,01/08/2018,"Wed - Aug 1, 2018",11:30:00,THEFT,Kasilak,Panabo City,Plain Theft,urban,3.79,183,111,634,11
+1029,125.78,7.45305,29/07/2018,"Sun - Jul 29, 2018",10:33:00,RAPE (Art. 266-A RC & R.A.8353),Magugpo Poblacion,Tagum City,"Force, Threat and Intimidation",urban,2.43,215,127,723,13
+1030,125.82,7.45454,05/08/2018,"Sun - Aug 5, 2018",3:05:00,PHYSICAL INJURIES,Magugpo East,Tagum City,Stabbing/Hacking,urban,11.1,982,579,"3,297",61
+1031,125.777,7.4436,04/08/2018,"Sat - Aug 4, 2018",0:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,"1,178",694,3958,73
+1032,125.802,7.44575,04/08/2018,"Sat - Aug 4, 2018",22:45:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo South,Tagum City,Swpu (Stolen While Parked),urban,8.33,737,434,"2,476",46
+1033,125.804,7.4339699999999995,04/08/2018,"Sat - Aug 4, 2018",4:00:00,THEFT,Visayan Village,Tagum City,Salisi,urban,31.0,"2,742","1,616","9,210",171
+1034,125.79899999999999,7.459630000000001,04/08/2018,"Sat - Aug 4, 2018",4:00:00,ROBBERY,Magugpo West,Tagum City,Crowbar/Destroying Lock,urban,10.74,950,560,"3,192",59
+1035,125.81700000000001,7.392239999999999,03/08/2018,"Fri - Aug 3, 2018",15:20:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+1036,125.791,7.42333,03/08/2018,"Fri - Aug 3, 2018",11:30:00,THEFT,Canocotan,Tagum City,Salisi,urban,6.26,554,326,1859,34
+1037,125.64299999999999,7.29272,02/08/2018,"Thu - Aug 2, 2018",1:00:00,RAPE (Art. 266-A RC & R.A.8353),Little Panay,Panabo City,"Force, Threat and Intimidation",rural,3.31,160,97,553,10
+1038,125.78399999999999,7.45975,05/08/2018,"Sun - Aug 5, 2018",8:10:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,"2,652",1563,"8,905",165
+1039,125.802,7.42805,05/08/2018,"Sun - Aug 5, 2018",7:00:00,THEFT,Visayan Village,Tagum City,Salisi,urban,31.0,"2,742","1,616","9,210",171
+1040,125.788,7.424180000000001,04/08/2018,"Sat - Aug 4, 2018",21:20:00,ROBBERY,Canocotan,Tagum City,Hold-Up W/ Sharp Object,urban,6.26,554,326,1859,34
+1041,125.804,7.446789999999999,05/08/2018,"Sun - Aug 5, 2018",23:00:00,ROBBERY,Magugpo Poblacion,Tagum City,Hold Up,urban,2.43,215,127,723,13
+1042,125.79299999999999,7.45688,06/08/2018,"Mon - Aug 6, 2018",1:45:00,PHYSICAL INJURIES,Mankilam,Tagum City,Mauling,urban,29.97,"2,652",1563,"8,905",165
+1043,125.822,7.43618,05/08/2018,"Sun - Aug 5, 2018",22:00:00,ROBBERY,Apokon,Tagum City,Destroying Window,urban,22.88,2024,1193,6798,126
+1044,125.71799999999999,7.17869,02/08/2018,"Thu - Aug 2, 2018",23:00:00,PHYSICAL INJURIES,San Isidro (Babak),Samal City,Stabbing/Hacking,rural,6.43,149,98,519,9
+1045,125.818,7.39213,06/08/2018,"Mon - Aug 6, 2018",8:15:00,Drug Related Incident (RA 9165),Madaum,Tagum City,Not Indicated,urban,8.25,730,430,2450,45
+1046,125.804,7.44746,07/08/2018,"Tue - Aug 7, 2018",10:30:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+1047,125.682,7.31043,31/07/2018,"Tue - Jul 31, 2018",4:30:00,ROBBERY,San Francisco (Pob.),Panabo City,Hold-Up W/ Gun,urban,17.46,843,512,"2,917",52
+1048,125.691,7.30532,07/08/2018,"Tue - Aug 7, 2018",17:00:00,PHYSICAL INJURIES,Santo Niño (Pob.),Panabo City,Stabbing/Hacking,urban,5.89,284,173,985,18
+1049,125.755,7.37945,03/08/2018,"Fri - Aug 3, 2018",16:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Bincungan,Tagum City,Swpu (Stolen While Parked),rural,3.25,288,170,966,18
+1050,125.777,7.46294,08/08/2018,"Wed - Aug 8, 2018",1:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,"2,652",1563,"8,905",165
+1051,125.694,7.31797,07/08/2018,"Tue - Aug 7, 2018",20:55:00,Drug Related Incident (RA 9165),Salvacion,Panabo City,Not Indicated,urban,12.95,625,380,2164,39
+1052,125.682,7.30283,07/08/2018,"Tue - Aug 7, 2018",23:20:00,Drug Related Incident (RA 9165),Santo Niño (Pob.),Panabo City,Not Indicated,urban,5.89,284,173,985,18
+1053,125.818,7.45965,09/08/2018,"Thu - Aug 9, 2018",3:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo North,Tagum City,Forcibly Taken,urban,7.19,636,375,"2,136",40
+1054,125.805,7.44595,08/08/2018,"Wed - Aug 8, 2018",12:30:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+1055,125.824,7.44982,07/08/2018,"Tue - Aug 7, 2018",13:49:00,THEFT,Magugpo East,Tagum City,Salisi,urban,11.1,982,579,"3,297",61
+1056,125.809,7.45352,08/08/2018,"Wed - Aug 8, 2018",1:00:00,THEFT,Magugpo North,Tagum City,Applied as Helper,urban,7.19,636,375,"2,136",40
+1057,125.795,7.43527,08/08/2018,"Wed - Aug 8, 2018",17:00:00,ROBBERY,Visayan Village,Tagum City,Akyat Bahay,urban,31.0,"2,742","1,616","9,210",171
+1058,125.78299999999999,7.45114,10/08/2018,"Fri - Aug 10, 2018",4:45:00,ROBBERY,Visayan Village,Tagum City,Hold-Up W/ Sharp Object,urban,31.0,"2,742","1,616","9,210",171
+1059,125.79700000000001,7.44365,10/08/2018,"Fri - Aug 10, 2018",3:00:00,ROBBERY,Visayan Village,Tagum City,Destroying Window,urban,31.0,"2,742","1,616","9,210",171
+1060,125.801,7.46052,12/08/2018,"Sun - Aug 12, 2018",10:30:00,THEFT,Magugpo West,Tagum City,Salisi,urban,10.74,950,560,"3,192",59
+1061,125.852,7.50288,11/08/2018,"Sat - Aug 11, 2018",18:30:00,MURDER,Nueva Fuerza,Tagum City,Shooting,rural,1.5,133,78,446,8
+1062,125.804,7.43307,09/08/2018,"Thu - Aug 9, 2018",10:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Ftr (Failed to Return),urban,31.0,"2,742","1,616","9,210",171
+1063,125.77799999999999,7.462289999999999,11/08/2018,"Sat - Aug 11, 2018",14:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Mankilam,Tagum City,Swpu (Stolen While Parked),urban,29.97,"2,652",1563,"8,905",165
+1064,125.79799999999999,7.47807,11/08/2018,"Sat - Aug 11, 2018",3:03:00,ROBBERY,La Filipina,Tagum City,Destroying Window,urban,11.84,"1,047",617,"3,517",65
+1065,125.781,7.461989999999999,12/08/2018,"Sun - Aug 12, 2018",21:50:00,MURDER,Mankilam,Tagum City,Shooting,urban,29.97,"2,652",1563,"8,905",165
+1066,125.775,7.4436,13/08/2018,"Mon - Aug 13, 2018",13:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,San Miguel (Camp 4),Tagum City,Swpu (Stolen While Parked),urban,13.32,"1,178",694,3958,73
+1067,125.8,7.43124,13/08/2018,"Mon - Aug 13, 2018",19:00:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Mauling,urban,31.0,"2,742","1,616","9,210",171
+1068,125.815,7.44441,14/08/2018,"Tue - Aug 14, 2018",7:30:00,MURDER,Magugpo East,Tagum City,Shooting,urban,11.1,982,579,"3,297",61
+1069,125.801,7.460310000000001,13/08/2018,"Mon - Aug 13, 2018",12:00:00,THEFT,Magugpo West,Tagum City,Qualified Theft,urban,10.74,950,560,"3,192",59
+1070,125.805,7.43222,15/08/2018,"Wed - Aug 15, 2018",1:20:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Mauling,urban,31.0,"2,742","1,616","9,210",171
+1071,125.801,7.42795,15/08/2018,"Wed - Aug 15, 2018",1:20:00,PHYSICAL INJURIES,Visayan Village,Tagum City,Mauling,urban,31.0,"2,742","1,616","9,210",171
+1072,125.819,7.45135,16/08/2018,"Thu - Aug 16, 2018",4:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,982,579,"3,297",61
+1073,125.802,7.450069999999999,11/08/2018,"Sat - Aug 11, 2018",23:00:00,THEFT,Magugpo Poblacion,Tagum City,Salisi,urban,2.43,215,127,723,13
+1074,125.68299999999999,7.302110000000001,15/08/2018,"Wed - Aug 15, 2018",2:00:00,ROBBERY,Santo Niño (Pob.),Panabo City, in an Uninhabited Place and by a Band,urban,5.89,284,173,985,18
+1075,125.788,7.45858,16/08/2018,"Thu - Aug 16, 2018",1:45:00,THEFT,Mankilam,Tagum City,Salisi,urban,29.97,"2,652",1563,"8,905",165
+1076,125.794,7.491110000000001,15/08/2018,"Wed - Aug 15, 2018",21:00:00,Drug Related Incident (RA 9165),Cuambogan,Tagum City,Not Indicated,urban,8.16,722,426,"2,425",45
+1077,125.79799999999999,7.477580000000001,15/08/2018,"Wed - Aug 15, 2018",22:00:00,Drug Related Incident (RA 9165),La Filipina,Tagum City,Not Indicated,urban,11.84,"1,047",617,"3,517",65
+1078,125.682,7.2795,16/08/2018,"Thu - Aug 16, 2018",10:20:00,MURDER,Cagangohan,Panabo City,Shooting,urban,18.74,905,549,3131,56
+1079,125.801,7.4602,17/08/2018,"Fri - Aug 17, 2018",3:07:00,PHYSICAL INJURIES,Magugpo West,Tagum City,Hitting With Hard Object,urban,10.74,950,560,"3,192",59
+1080,125.671,7.2788699999999995,16/08/2018,"Thu - Aug 16, 2018",21:36:00,Drug Related Incident (RA 9165),J.P. Laurel,Panabo City,Not Indicated,urban,8.93,431,262,"1,491",27
+1081,125.807,7.450139999999999,15/08/2018,"Wed - Aug 15, 2018",20:00:00,PHYSICAL INJURIES,Magugpo Poblacion,Tagum City,Stabbing/Hacking,urban,2.43,215,127,723,13
+1082,125.8,7.477310000000001,17/08/2018,"Fri - Aug 17, 2018",23:49:00,PHYSICAL INJURIES,La Filipina,Tagum City,Shooting,urban,11.84,"1,047",617,"3,517",65
+1083,125.81700000000001,7.460539999999999,18/08/2018,"Sat - Aug 18, 2018",3:00:00,ROBBERY,Magugpo North,Tagum City,With Violence Against or Intimidation of Persons,urban,7.19,636,375,"2,136",40
+1084,125.7,7.161980000000001,10/07/2018,"Tue - Jul 10, 2018",20:00:00,RAPE (Art. 266-A RC & R.A.8353),Tambo,Samal City,"Force, Threat and Intimidation",rural,12.49,289,190,1008,18
+1085,125.738,7.04065,18/08/2018,"Sat - Aug 18, 2018",16:00:00,PHYSICAL INJURIES,Del Monte,Samal City,Stabbing/Hacking,rural,5.47,127,83,442,8
+1086,125.69200000000001,7.10988,18/08/2018,"Sat - Aug 18, 2018",19:00:00,THEFT,Mambago-B,Samal City,Plain Theft,rural,7.57,175,115,611,11
+1087,125.69,7.130739999999999,19/08/2018,"Sun - Aug 19, 2018",2:00:00,PHYSICAL INJURIES,Moncado (Pob.),Samal City,Shooting,rural,10.7,248,163,864,15
+1088,125.69,7.1308300000000004,19/08/2018,"Sun - Aug 19, 2018",2:00:00,HOMICIDE,Moncado (Pob.),Samal City,Stabbing/Hacking,rural,10.7,248,163,864,15
+1089,125.79799999999999,7.44446,18/08/2018,"Sat - Aug 18, 2018",16:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo South,Tagum City,Swpu (Stolen While Parked),urban,8.33,737,434,"2,476",46
+1090,125.555,7.32037,19/08/2018,"Sun - Aug 19, 2018",14:00:00,Drug Related Incident (RA 9165),Consolacion,Panabo City,Not Indicated,rural,2.38,115,70,397,7
+1091,125.55,7.31847,19/08/2018,"Sun - Aug 19, 2018",16:00:00,Drug Related Incident (RA 9165),Consolacion,Panabo City,Not Indicated,rural,2.38,115,70,397,7
+1092,125.779,7.45684,18/08/2018,"Sat - Aug 18, 2018",3:09:00,ROBBERY,San Miguel (Camp 4),Tagum City,Breaking and Entering,urban,13.32,"1,178",694,3958,73
+1093,125.81,7.45016,18/08/2018,"Sat - Aug 18, 2018",19:00:00,PHYSICAL INJURIES,Magugpo East,Tagum City,Shooting,urban,11.1,982,579,"3,297",61
+1094,125.809,7.451010000000001,20/08/2018,"Mon - Aug 20, 2018",7:00:00,MURDER,Magugpo East,Tagum City,Shooting,urban,11.1,982,579,"3,297",61
+1095,125.686,7.314089999999999,21/08/2018,"Tue - Aug 21, 2018",7:00:00,MURDER,Salvacion,Panabo City,Shooting,urban,12.95,625,380,2164,39
+1096,125.802,7.45852,22/08/2018,"Wed - Aug 22, 2018",1:45:00,ROBBERY,Magugpo West,Tagum City,With Violence Against or Intimidation of Persons,urban,10.74,950,560,"3,192",59
+1097,125.777,7.44429,21/08/2018,"Tue - Aug 21, 2018",22:49:00,ROBBERY,San Miguel (Camp 4),Tagum City,With Violence Against or Intimidation of Persons,urban,13.32,"1,178",694,3958,73
+1098,125.803,7.4351199999999995,19/08/2018,"Sun - Aug 19, 2018",17:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Sagpi (Seized at Gunpoint With Intimidation),urban,31.0,"2,742","1,616","9,210",171
+1099,125.821,7.45458,21/08/2018,"Tue - Aug 21, 2018",20:00:00,Drug Related Incident (RA 9165),Magugpo East,Tagum City,Not Indicated,urban,11.1,982,579,"3,297",61
+1100,125.705,7.0776,21/08/2018,"Tue - Aug 21, 2018",5:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Peñaplata (Pob.),Samal City,Swpu (Stolen While Parked),urban,17.42,404,265,1406,25
+1101,125.803,7.4548,21/08/2018,"Tue - Aug 21, 2018",21:55:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo West,Tagum City,Forcibly Taken,urban,10.74,950,560,"3,192",59
+1102,125.804,7.4482,21/08/2018,"Tue - Aug 21, 2018",20:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo Poblacion,Tagum City,Swpu (Stolen While Parked),urban,2.43,215,127,723,13
+1103,125.823,7.4559,21/08/2018,"Tue - Aug 21, 2018",11:00:00,THEFT,Magugpo East,Tagum City,Salisi,urban,11.1,982,579,"3,297",61
+1104,125.781,7.461310000000001,21/08/2018,"Tue - Aug 21, 2018",1:00:00,THEFT,Mankilam,Tagum City,Salisi (Akyat Bahay),urban,29.97,"2,652",1563,"8,905",165
+1105,125.82,7.45273,20/08/2018,"Mon - Aug 20, 2018",15:45:00,MURDER,Magugpo East,Tagum City,Shooting,urban,11.1,982,579,"3,297",61
+1106,125.81700000000001,7.4542,20/08/2018,"Mon - Aug 20, 2018",7:00:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Magugpo East,Tagum City,Swpu (Stolen While Parked),urban,11.1,982,579,"3,297",61
+1107,125.81200000000001,7.44463,21/08/2018,"Tue - Aug 21, 2018",10:00:00,THEFT,Apokon,Tagum City,Salisi (Establishment),urban,22.88,2024,1193,6798,126
+1108,125.802,7.4299,22/08/2018,"Wed - Aug 22, 2018",1:30:00,ANTI-CARNAPPING ACT (R.A. 6539) MC,Visayan Village,Tagum City,Swpu (Stolen While Parked),urban,31.0,"2,742","1,616","9,210",171
+1109,125.806,7.44689,22/08/2018,"Wed - Aug 22, 2018",10:00:00,ROBBERY,Magugpo Poblacion,Tagum City,With Violence Against or Intimidation of Persons,urban,2.43,215,127,723,13
+1110,125.807,7.4337100000000005,22/08/2018,"Wed - Aug 22, 2018",5:00:00,ROBBERY,Visayan Village,Tagum City,With Violence Against or Intimidation of Persons,urban,31.0,"2,742","1,616","9,210",171
+1111,125.684,7.3087100000000005,17/08/2018,"Fri - Aug 17, 2018",20:00:00,RAPE (Art. 266-A RC & R.A.8353),New Malaga (Dalisay),Panabo City,"Force, Threat and Intimidation",rural,2.5,120,73,417,7
+1112,125.682,7.30162,15/08/2018,"Wed - Aug 15, 2018",10:00:00,THEFT,Santo Niño (Pob.),Panabo City,Qualified Theft,urban,5.89,284,173,985,18
+1113,125.803,7.4474800000000005,22/08/2018,"Wed - Aug 22, 2018",23:30:00,ROBBERY,Magugpo Poblacion,Tagum City,Breaking and Entering,urban,2.43,215,127,723,13
+1114,125.682,7.31235,23/08/2018,"Thu - Aug 23, 2018",22:25:00,MURDER,San Francisco (Pob.),Panabo City,Shooting,urban,17.46,843,512,"2,917",52
+1115,125.807,7.504980000000001,23/08/2018,"Thu - Aug 23, 2018",20:00:00,PHYSICAL INJURIES,New Balamban,Tagum City,Mauling,rural,1.13,100,59,335,6

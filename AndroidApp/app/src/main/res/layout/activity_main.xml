@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/AppTheme"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/map"
+            class="com.google.android.gms.maps.MapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="325dp" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textViewMap"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Where do you plan to go?"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/textViewMapTextVal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Please only select location within cities below. (Tap map to select point)"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/buttonTagum"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:onClick="clickTagumCity"
+                        android:text="Tagum City" />
+
+                    <Button
+                        android:id="@+id/buttonPanabo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:onClick="clickPanaboCity"
+                        android:text="Panabo City" />
+
+                    <Button
+                        android:id="@+id/buttonSamal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:onClick="clickSamalCity"
+                        android:text="Samal City" />
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/divider"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:background="?android:attr/listDivider"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/textViewDayTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="When do you plan to go?"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/textViewDay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Day of the Week"
+                    android:textSize="15sp" />
+
+                <RadioGroup
+                    android:id="@+id/dayGroup"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/radioButtonSunday"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Sun" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonMonday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Mon" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonTuesday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Tue" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonWednesday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Wed" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonThursday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Thu" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonFriday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Fri" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonSaturday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Sat" />
+                </RadioGroup>
+
+                <TextView
+                    android:id="@+id/textViewTime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Time of the Day"
+                    android:textSize="15sp" />
+
+                <RadioGroup
+                    android:id="@+id/timeGroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RadioButton
+                        android:id="@+id/radioButtonAfterMidnight"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="After Midnight between 00:00 - 03:59" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonEarlyMorning"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Early Morning between 04:00 - 07:59" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonMorning"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Morning between 08:00 - 11:59" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonAfternoon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Afternoon between 12:00 - 15:59" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonAfterWorkHours"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="After Work-Hours between 16:00 - 19:59" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonEvening"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Evening between 20:00 - 23:59" />
+                </RadioGroup>
+
+                <TextView
+                    android:id="@+id/textViewDayNight"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Will you stay during"
+                    android:textSize="15sp" />
+
+                <RadioGroup
+                    android:id="@+id/daylightGroup"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/radioButtonDay"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Daylight" />
+
+                    <RadioButton
+                        android:id="@+id/radioButtonNight"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Nighttime" />
+                </RadioGroup>
+
+                <View
+                    android:id="@+id/divider3"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:background="?android:attr/listDivider"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/textViewPlaces"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="What kinds of places can you see within the vicinity?"
+                    android:textSize="18sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxBank"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Bank" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxBar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Bar" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxBeach"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Beach" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxBridge"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Bridge" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxCemetery"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Cemetery" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxChurch"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Church" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxClinic"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Clinic" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxCommercialBuilding"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Commercial Building" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxCommunityCenter"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Community Center" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxConvenienceStore"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Convenience Store" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxFireStation"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Fire Station" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxGasStation"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Gas Station" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxGovernmentOffice"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Government Office" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxGreenFields"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Green Fields or Nature" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxHospital"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Hospital" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxHotel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Hotel" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxHighway"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Highway" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxHighwayPedestrian"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Pedestrian Walk along/on Highway" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxHighwayPrimary"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Highway Primary" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxHighwayResidential"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Residential Highway" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxHighwaySecondary"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Highway Secondary" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxHighwayTertiary"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Highway Tertiary" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxIndustrialBuilding"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Industrial Building" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxMall"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Mall" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxMarketplace"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Marketplace" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxPark"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Park" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxParkingArea"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Parking Area" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxPawnshop"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Pawnshop" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxPharmacy"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Pharmacy" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxPoliceStation"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Police Station" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxPostOffice"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Post Office" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxPrivateOffice"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Private Office" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxRecreationalArea"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Recreational Area" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxRoad"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Road" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxResidentialBuilding"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Residential Building" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxRestaurant"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Restaurant" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxSchool"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="School" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <CheckBox
+                        android:id="@+id/checkBoxSportsCenter"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Sports Field" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxTouristAttraction"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Tourist Spot" />
+
+                    <CheckBox
+                        android:id="@+id/checkBoxTransportTerminal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Transport Terminal" />
+
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/divider2"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:background="?android:attr/listDivider"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/textViewWeather"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="What do you think the weather will be?"
+                    android:textSize="18sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <RadioGroup
+                        android:id="@+id/weatherGroup"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@+id/radioButtonClear"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Clear Skies" />
+
+                        <RadioButton
+                            android:id="@+id/radioButtonCloudy"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Cloudy to Overcast" />
+
+                        <RadioButton
+                            android:id="@+id/radioButtonRainy"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Rainy" />
+                    </RadioGroup>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewTemp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Temperature °C"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewTempVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarTemp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="25" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewFeel"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Feels Like °C"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewFeelVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarFeel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="25" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewWind"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Wind (km/h)"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewWindVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarWind"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="20" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewCloud"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Cloud Coverage %"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewCloudVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarCloud"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="100" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewHumidity"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Humidity %"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewHumidityVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarHumidity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="100" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewPrecip"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Precipitation (mm)"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewPrecipVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarPrecip"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="236" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewPressure"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Pressure (mb)"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewPressureVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarPressure"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="15" />
+
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/divider4"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:background="?android:attr/listDivider"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/textViewEconomy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="What are current status of some economic indicators?"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/textViewPHPUSD"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="PHPUSD Exchange Rate"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewPHPUSDVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarPHPUSD"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="20000" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewPSEI"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Philippine Stock Exchange Index"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewPSEIVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarPSEI"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="26000" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewCPI"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Consumer Price Index (CPI)"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/textViewCPIAllItems"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="CPI - All items"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewCPIAllItemsVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarCPIAllItems"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="480" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewCPIAlcohol"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="CPI - Alcoholic beverages and tobacco"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewCPIAlcoholVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarCPIAlcohol"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="440" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewCPITransport"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="CPI - Transport"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewCPITransportVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarCPITransport"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="430" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewCPIHousing"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="CPI - Housing, water, electricity, gas, and other fuels"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewCPIHousingVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarCPIHousing"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="340" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewCPIRestaurant"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="CPI - Restaurant and miscellaneous goods and services"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewCPIRestaurantVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarCPIRestaurant"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="220" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewRates"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Rates"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/textViewInflationRate"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Inflation rate"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewInflationRateVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarInflationRate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="50" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewSavingsRate"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Savings deposit interest rate"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewSavingsRateVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarSavingsRate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="246" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textViewBankRate"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Bank lending rate"
+                    android:textSize="15sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/textViewBankRateVal"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:text="00"
+                        android:textColor="@color/colorAccent"
+                        android:textSize="16sp" />
+
+                    <SeekBar
+                        android:id="@+id/seekBarBankRate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:max="859" />
+
+                </LinearLayout>
+
+                <View
+                    android:id="@+id/divider5"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="?android:attr/listDivider"
+                    android:visibility="invisible" />
+
+                <Button
+                    android:id="@+id/buttonPredict"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:onClick="predictDanger"
+                    android:text="Predict Dangers" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressPredict"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:indeterminateTint="@color/colorAccent"
+        android:paddingLeft="130dp"
+        android:paddingTop="600dp"
+        android:paddingRight="130dp"
+        android:paddingBottom="600dp"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="325dp" />
+
+</android.support.constraint.ConstraintLayout>
